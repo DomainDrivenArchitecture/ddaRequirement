@@ -1,0 +1,18 @@
+!3 UseCase002 Mitarbeiter macht die monatliche Spesenabrechnung
+
+!4 Aktor
+ * Mitarbeiter
+
+!4 Stakeholder und deren Interessen
+ * Mitarbeiter möchte die Spesenabrechnung konsistent und einfach erstellen können
+
+!4 Normaler Ablauf
+ * Der Aktor kopiert (Datum, Begin- und End-Uhrzeiten, Reisekosten: Ort, Reisekosten: KM, Reisekosten: Kosten) und fügt diese Daten in seine Spesenabrechnung ein.
+  * Das System berechnet die Abwesenheitszeit (End - Beginzeit + KM / 60 ) und zeigt diese an.
+  * Das System berechnet die Fahrkosten (Belegkosten + KM * 0,30 ) und zeigt diese an.
+ * Der Aktor kopiert (Bewirtungskosten) und fügt diese Daten in seine Spesenabrechnung ein.
+  * Das System berechnet die Verpflegungskosten (entweder Belegkosten oder pauschal 12 bei Abwesenheit über 8h) und zeigt diese an.
+  * Das System berechnet die Tagesspesen und zeigt diese an.
+
+!4 Meta
+>MeTa

@@ -2,12 +2,13 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>|Erfasst: ?                                                 |Nutzen: ?           |Entscheidungsbed.: ?|Umsetzungsaufwand: ?|</Help>
+	<Help>Mitarbeiter erstellt einen Kunden-Leistungsnachweis</Help>
 	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
+	<Suites>Leistungsnachweis</Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>
