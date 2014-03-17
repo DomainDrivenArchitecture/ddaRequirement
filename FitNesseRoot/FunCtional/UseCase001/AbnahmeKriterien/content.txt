@@ -1,0 +1,12 @@
+!5 Kriterien
+ * Berechnung von dezimaler Anwesenheitszeit, Arbeitszeit, Gebucht und Überschuss
+ * Kundenspezifisches umschalten der Kontenbezeichnung (immer)
+ * Kundenspezifisches Befüllen der Reisedaten (nur ein mal)
+
+!5 Test
+
+|Table:!-AcceptanceTest-!|${PAGE_NAME}                                                    |
+|Schrittnr.              |Aktion                    |Erwartetes Ergebnis         |Ergebnis|
+|1                       |Datum "1.3." eingeben     |                            |        |
+|2                       |Begin Zeit "8:30" eingeben|                            |        |
+|3                       |End Zeit "12:00" eingeben |Anwesenheitszeit zeigt "3,5"|        |

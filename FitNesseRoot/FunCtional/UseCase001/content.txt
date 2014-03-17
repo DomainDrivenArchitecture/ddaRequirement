@@ -1,4 +1,4 @@
-!3 UseCase001 Mitarbeiter bucht Aufwände
+!3 UseCase001 Mitarbeiter bucht Aufwände pro Tag und Kunde
 
 !4 Aktor
  * Mitarbeiter

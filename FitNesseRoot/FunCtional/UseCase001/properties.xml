@@ -2,7 +2,7 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Mitarbeiter bucht Aufwände</Help>
+	<Help>Mitarbeiter bucht Aufwände pro Tag und Kunde</Help>
 	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
