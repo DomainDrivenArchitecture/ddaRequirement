@@ -1,3 +1,4 @@
-|Erfasst               |Nutzen   |Entscheidungsbedarf |Umsetzungsaufwand   |
-|Erfasst: nicht genutzt|Nutzen: -|Entscheidungsbed.: -|Umsetzungsaufwand: -|
-|weil:                 |weil:    |weil:               |weil                |
+|Erfasst                                                    |Nutzen                           |Entscheidungsbedarf      |Umsetzungsaufwand   |
+|Erfasst: fertig                                            |Nutzen: 0,25h * Tag * Mitarbeiter|Entscheidungsbed.: gering|Umsetzungsaufwand: -|
+|weil:                                                      |weil:                            |weil:                    |weil:               |
+|nicht genutzt, in Arbeit, mit Fragen, wartet auf AC, fertig|gering, mittel, hoch             |gering, mittel, hoch     |gering, mittel, hoch|

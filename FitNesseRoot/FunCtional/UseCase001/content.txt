@@ -1,9 +1,38 @@
-!3 UseCase001 Sematische Beschreibung
-!4 Aktor:
-...
-!4 Stakeholder und deren Interessen:
-...
-!4 Normal Ablauf:
- ...
-!4 Status und Nutzen
+!3 UseCase001 Mitarbeiter bucht Aufwände
+
+!4 Aktor
+ * Mitarbeiter
+
+!4 Stakeholder und deren Interessen
+ * Mitarbeiter möchte seine Aufwände unkompliziert buchen
+ * Kunde möchte die Leistung kontrollieren in dem er
+  * Begin- und Ende-Zeit oder
+  * Arbeiten unter "Detailierte ..." kontrolliert.
+
+!4 Normaler Ablauf
+ * Der Aktor trägt in eine leere Zeile seine Daten ein, das sind:
+  * Datum
+  * Zeiten Anfang, Ende mit Stunde und Minute
+ * Das System berechnet die Anwesenheitszeit und zeigt diese an
+ * Der Aktor trägt weitere Werte ein
+  * Detailierte Auflistung der Tätigkeiten
+  * Kumulierte Pausenzeit
+ * Das System berechnet die Arbeitszeit und zeigt diese an
+ * Der Aktor trägt weitere Werte ein
+  * Kundenbezeichnung
+ * Das System zeigt Zeitkontenbezeichnungen für den gewählten Kunden an.
+ * Das System trägt einen Default-Ort und -Entfernung für den gewählten Kunden ein.
+ * Der Aktor trägt weitere Werte ein
+  * Buchung in frei definierbare Zeitkonten
+ * Der Aktor kann die folgenden Werte eintragen
+  * Reisekosten: Besuchter Ort
+  * Reisekosten: Mit Privatfahrzeug gefahrene KM
+  * Reisekosten: Kosten mit Beleg
+  * Spesen: Kosten mit Beleg
+
+!4 Meta
 >MeTa
+
+!4 Abnahme Kriterien
+>AbnahmeKriterien
+!include -seamless >AbnahmeKriterien

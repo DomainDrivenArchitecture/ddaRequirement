@@ -2,7 +2,8 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>UseCase1 Überschrift</Help>
+	<Help>Mitarbeiter bucht Aufwände</Help>
+	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
