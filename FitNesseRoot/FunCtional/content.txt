@@ -7,3 +7,4 @@
 |FunCtional.UseCase001|!include -h FunCtional.UseCase001|!include -h FunCtional.UseCase001.MeTa|
 |FunCtional.UseCase002|!include -h FunCtional.UseCase002|!include -h FunCtional.UseCase002.MeTa|
 |FunCtional.UseCase003|!include -h FunCtional.UseCase003|!include -h FunCtional.UseCase003.MeTa|
+|FunCtional.UseCase004|!include -h FunCtional.UseCase004|!include -h FunCtional.UseCase004.MeTa|
