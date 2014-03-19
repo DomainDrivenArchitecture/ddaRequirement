@@ -21,3 +21,6 @@
 
 !2 Lastenheft für Releases
 [[61 Lastenheft für Release X][ReleaseXRequirementsSpecification]]
+
+!2 Fitnesse Doku
+http://www.fitnesse.org/FitNesse.UserGuide.QuickReferenceGuide
