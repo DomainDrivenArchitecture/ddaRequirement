@@ -1,6 +1,8 @@
-!3 UseCase004 Kundendaten erfassen 
+!3 UseCase004 Kundenindividuelle Daten erfassen 
 !4 Aktor
- * 
+ * Mitarbeiter 
+ * Vorgesetzter
+
 
 !4 Stakeholder und deren Interessen
  * 
