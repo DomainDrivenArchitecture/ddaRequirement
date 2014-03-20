@@ -13,5 +13,5 @@ hinterlegt ggf. für seine Mitarbeiter kundenindividuelle Daten
 liest die Übersichten und erfasst einmalige Kundendaten
 
 Kunde: 
-erhält die monatlichen Arbeitszeiten und damit definierte Daten als Ausdruck
+möchte die monatliche Leistung (Arbeitszeiten und Inhalte) prüfen, benötigt dafür definierte Daten als Ausdruck
 hat keine direkten Zugriff auf das Tool 
