@@ -1,3 +1,5 @@
+|ScoPe|jsc|20:57:15 Thu, Mar 20, 2014|
+|VisionAndPurpose|jsc|20:53:48 Thu, Mar 20, 2014|
 |FunCtional.UseCase004|jsc|19:32:52 Wed, Mar 19, 2014|
 |FunCtional|jsc|19:30:24 Wed, Mar 19, 2014|
 |FrontPage|mje|19:28:18 Wed, Mar 19, 2014|
