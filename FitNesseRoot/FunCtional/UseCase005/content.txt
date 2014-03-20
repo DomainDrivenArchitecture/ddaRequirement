@@ -1,0 +1,19 @@
+!UC005 Bestellung pro Kunde anzeigen
+!4 Aktor
+ * Vorgesetzter
+
+!4 Vorbedingung
+Zeiten sind erfasst
+
+!4 Normaler Ablauf
+ * to be done
+
+
+!4 Siehe auch
+
+!4 Meta
+>MeTa
+
+!4 Abnahme Tests
+>AbnahmeTestUseCase0nn
+!include -seamless >AbnahmeTestUseCase0nn
