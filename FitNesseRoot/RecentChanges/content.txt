@@ -1,3 +1,4 @@
+|FunCtional.UseCase003|jsc|21:36:31 Wed, Mar 26, 2014|
 |FunCtional|jsc|21:28:39 Wed, Mar 26, 2014|
 |VisionAndPurpose|jsc|21:26:21 Wed, Mar 26, 2014|
 |FunCtional.UseCase005|jsc|21:21:26 Wed, Mar 26, 2014|
@@ -8,7 +9,6 @@
 |ScoPe|jsc|20:57:15 Thu, Mar 20, 2014|
 |FrontPage|mje|19:28:18 Wed, Mar 19, 2014|
 |FunCtional.UseCase003.MeTa|mje|20:59:41 Mon, Mar 17, 2014|
-|FunCtional.UseCase003|mje|20:58:33 Mon, Mar 17, 2014|
 |FunCtional.TemplateLibrary.MeTa|mje|20:54:58 Mon, Mar 17, 2014|
 |FunCtional.UseCase002.MeTa|mje|20:53:29 Mon, Mar 17, 2014|
 |FunCtional.UseCase002|mje|20:52:26 Mon, Mar 17, 2014|
