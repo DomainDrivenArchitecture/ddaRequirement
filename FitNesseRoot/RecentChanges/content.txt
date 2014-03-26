@@ -1,3 +1,4 @@
+|FunCtional.UseCase002|jsc|21:42:19 Wed, Mar 26, 2014|
 |FunCtional.UseCase003|jsc|21:36:31 Wed, Mar 26, 2014|
 |FunCtional|jsc|21:28:39 Wed, Mar 26, 2014|
 |VisionAndPurpose|jsc|21:26:21 Wed, Mar 26, 2014|
@@ -11,7 +12,6 @@
 |FunCtional.UseCase003.MeTa|mje|20:59:41 Mon, Mar 17, 2014|
 |FunCtional.TemplateLibrary.MeTa|mje|20:54:58 Mon, Mar 17, 2014|
 |FunCtional.UseCase002.MeTa|mje|20:53:29 Mon, Mar 17, 2014|
-|FunCtional.UseCase002|mje|20:52:26 Mon, Mar 17, 2014|
 |FunCtional.UseCase001|mje|20:39:02 Mon, Mar 17, 2014|
 |FunCtional.UseCase001.AbnahmeKriterien|mje|20:38:08 Mon, Mar 17, 2014|
 |FunCtional.UseCase001.MeTa|mje|20:28:17 Mon, Mar 17, 2014|
