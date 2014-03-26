@@ -1,0 +1,13 @@
+!5 Kriterien
+ * Mögliche Eingabe der Kundendaten
+ * Kundenauswahl auf Sheet zur Zeiterfassung mit angelegten Kunden möglich 
+ * Kontenbezeichnungen stehen bei Auswahl eines Kunden zur Verfügung
+ * Default-Werte für Ort und Entfernung werden ausgegeben.
+
+!5 Test
+
+|Table:!-AcceptanceTest-!|${PAGE_NAME}                                                    |
+|Schrittnr.              |Aktion                    |Erwartetes Ergebnis         |Ergebnis|
+|1                       |bei Bedarf tbd.     |                            |        |
+|2                       ||                            |        |
+|3                       |||        |
