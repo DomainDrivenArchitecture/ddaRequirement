@@ -1,4 +1,4 @@
-!UC005 Bestellung pro Kunde anzeigen
+!3 UseCase005 Bestellung pro Kunde anzeigen
 !4 Aktor
  * Vorgesetzter
 
