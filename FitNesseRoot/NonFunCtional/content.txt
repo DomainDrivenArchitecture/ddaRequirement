@@ -1,7 +1,5 @@
 !contents -R2 -g -p -f -h
 
-!4 NonFun001 Systemanforderungen
-Als Basis für die Umsetzung muss libre office eingesetzt werden.
-
-!4 Anforderungen an die Umsetzung
-Das einfügen neuer Zeilen im Bereich der Arbeitszeiterfassung muss möglich sein, ohne danach manuelle Bezüge für Formeln korrigieren zu müssen.
+|!1 Nicht funktionale Anforderungen                         |
+|NonFunCtional.NonFun001|!include -h NonFunCtional.NonFun001|
+|NonFunCtional.NonFun002|!include -h NonFunCtional.NonFun002|
