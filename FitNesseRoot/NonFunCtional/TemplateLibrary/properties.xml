@@ -2,13 +2,12 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>Mitarbeiter macht die monatliche Spesenabrechnung</Help>
-	<LastModifyingUser>mje</LastModifyingUser>
+	<Help></Help>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>
 	<Refactor>true</Refactor>
 	<Search>true</Search>
-	<Suites>Leistungsnachweis</Suites>
+	<Suites></Suites>
 	<Versions>true</Versions>
 	<WhereUsed>true</WhereUsed>
 </properties>

@@ -1,7 +1,6 @@
 !3 UseCase003 Mitarbeiter erstellt einen Kunden-Leistungsnachweis
 !4 Aktor
  * Mitarbeiter
- * Vorgesetzter
 
 !4 Stakeholder und deren Interessen
  * Mitarbeiter

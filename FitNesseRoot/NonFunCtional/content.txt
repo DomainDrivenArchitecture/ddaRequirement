@@ -1,4 +1,6 @@
-!4 Systemanforderungen
+!contents -R2 -g -p -f -h
+
+!4 NonFun001 Systemanforderungen
 Als Basis für die Umsetzung muss libre office eingesetzt werden.
 
 !4 Anforderungen an die Umsetzung
