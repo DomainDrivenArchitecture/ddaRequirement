@@ -17,7 +17,7 @@
 
 !2 System Anforderungen
 [[50 Todos][ToDo]]
-[[51 Alle System Anforderungen][SystemRequirementsSpecification]]
+[[51 Alle System Anforderungen][AnforderungenZeiterfassung]]
 
 !2 Lastenheft für Releases
 [[61 Lastenheft für Release X][ReleaseXRequirementsSpecification]]

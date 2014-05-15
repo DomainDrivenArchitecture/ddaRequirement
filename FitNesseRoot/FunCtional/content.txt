@@ -1,9 +1,7 @@
 !1 alle Requirements&Ansichten ungeordnet
 !contents -R2 -h
 
-!1 Status
-
-|Feature1                                                                                      |
+!1 Zeiterfassung
 |FunCtional.UseCase001|!include -h FunCtional.UseCase001|!include -h FunCtional.UseCase001.MeTa|
 |FunCtional.UseCase002|!include -h FunCtional.UseCase002|!include -h FunCtional.UseCase002.MeTa|
 |FunCtional.UseCase003|!include -h FunCtional.UseCase003|!include -h FunCtional.UseCase003.MeTa|
