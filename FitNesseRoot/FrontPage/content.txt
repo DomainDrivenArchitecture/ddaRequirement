@@ -15,9 +15,10 @@
 [[18 Entscheidungen][DeCisions]]
 [[19 Glossar][GlosSar]]
 
-!2 System Anforderungen
+!2 AnforderungsDokumente
 [[50 Todos][ToDo]]
-[[51 Alle System Anforderungen][AnforderungenZeiterfassung]]
+[[51 Anforderungen an eine Zeiterfassung][AnforderungenZeiterfassung]]
+[[52 Anforderungen zum RE][AnforderungenRequirementsEngineering]]
 
 !2 Lastenheft für Releases
 [[61 Lastenheft für Release X][ReleaseXRequirementsSpecification]]
