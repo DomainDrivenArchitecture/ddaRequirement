@@ -8,7 +8,7 @@
 [[16 Nichtfunktionale Anforderungen][NonFunCtional]]
 [[17 Schnittstellen][InterFaces]]
 
-!2 System ApplicationLifecycleManagement
+!2 System simpleApplicationLifecycleManagement
 [[10 Ziele und Visionen][AlmTargetAndVision]]
 [[11 Abgrenzung][AlmScope]]
 [[12 Offene Fragen][AlmOpenQuestions]]
@@ -20,7 +20,7 @@
 [[52 Anforderungen zum RE][AnforderungenRequirementsEngineering]]
 
 !2 System Zeiterfassung
-[[10 Ziele und Vision][ZeiterfassungVision]]
+[[10 Vision][ZeiterfassungVision]]
 [[11 Abgrenzung][ZeiterfassungScope]]
 [[12 Offene Fragen][ZeiterfassungOpenQuestions]]
 [[13 Stakeholder][ZeiterfassungStakeholders]]
