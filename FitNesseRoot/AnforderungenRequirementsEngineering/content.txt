@@ -7,30 +7,38 @@
 !1 Rollen und Personen
 
 !1 Funktionale Anforderungen
-!2 FunCtional.UseCase001 Stabile Referenzierbarkeit
 
-!2 FunCtional.UseCase002 Akzeptanzkriterien zu Anforderungen
+!2 Grundfunktionen
+!3 FunCtional.UseCase005 Applikations-Artefakte (Anforderungen, Architekturkonzepte, Umsetzungskonzepte) sind stabile referenzierbar
 
-!2 FunCtional.UseCase003 Suche auf Anforderungen
+!2 Spezifische Funktionen für Anforderungen
+!3 FunCtional.UseCase006 Zu Anforderungen können Abnahmekriterien definiert werden
 
-!2 Redundanzfreiheit von Anforderungen
-!3 FunCtional.UseCase004 Include einer Anforderungen
-!3 FunCtional.UseCase005 Include eines Anforderungenstitels
-!3 FunCtional.UseCase010 Include eines Anforderungen ohne Titel
-!3 FunCtional.UseCase011 Include von Anforderungsmetadaten
+!2 Meta-Funktionen
+!2 FunCtional.UseCase007 Suche auf Anforderungen
+!3 FunCtional.UseCase008 Include von Anforderungsmetadaten
 
-!2 FunCtional.UseCase007 Export von Dokumenten
+!2 Crm Funktionalität
+!3 FunCtional.UseCase009 Include eines Applikations-Artefakts
+!3 FunCtional.UseCase010 Include eines Applikations-Artefakt-Titels
+!3 FunCtional.UseCase011 Include eines Applikations-Artefakte ohne Titel
 
-!2 FunCtional.UseCase008 Multilinguale Anforderungen
-
-!2 FunCtional.UseCase009 Dezentrales Arbeiten mit Anforderungen
+!2 Integration
+!3 FunCtional.UseCase012 Applikations-Artefakte lassen sich als Dokument Exportieren
+!3 FunCtional.UseCase012 Applikations-Artefakte lassen sich aus Dokumenten extrahieren
 
 !1 Nicht funktionale Anforderungen
-!2 NonFunCtional.NonFunctional001 Authentifizierung für die zentrale Webapplikation
+!2 Sicherheit
+!3 NonFunCtional.NonFunctional001 Applikations-Artefakte lassen sich nur autorisiert zugreifen
 
-!2 NonFunCtional.NonFunctional002 Autorisierung für die zentrale Webapplikation
+!2 Enterprise Fähigkeit
+!3 NonFunCtional.NonFunctional005 simpleApplicationLifecycleManagement bietet eine openId Integration
+!3 NonFunCtional.NonFunctional002 Applikations-Artefakte sind mehrsprachenfähig
 
-!2 NonFunCtional.NonFunctional003 Datenabgleich für dezentrales Arbeiten
+!2 Integrationsfähigkeit
+!3 NonFunCtional.NonFunctional006 Applikations-Artefakte lassen sich in gängige Software Enticklungsumgebungen gut integrieren
+!3 NonFunCtional.NonFunctional003 Applikations-Artefakte können dezentral bearbeitet werden
+!3 NonFunCtional.NonFunctional004 Applikations-Artefakte sind versioniert
 
 !1 Schnittstellen
 !2 InterFaces.InterFace001 Git Versionierung
