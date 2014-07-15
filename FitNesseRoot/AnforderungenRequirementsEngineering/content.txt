@@ -32,7 +32,7 @@
 !3 NonFunCtional.NonFunctional001 Applikations-Artefakte lassen sich nur autorisiert zugreifen
 
 !2 Enterprise Fähigkeit
-!3 NonFunCtional.NonFunctional005 simpleApplicationLifecycleManagement bietet eine openId Integration
+!3 NonFunCtional.NonFunctional005 Das System bietet eine openId Integration
 !3 NonFunCtional.NonFunctional002 Applikations-Artefakte sind mehrsprachenfähig
 
 !2 Integrationsfähigkeit
