@@ -2,7 +2,7 @@
 !include -seamless VisionAndPurpose
 
 !1 Abgrenzungen
-!include -seamless ScoPe
+!include -seamless ZeiterfassungScope
 
 !1 Offene Fragen
 !include -seamless OpenQuestions

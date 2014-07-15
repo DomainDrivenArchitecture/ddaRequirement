@@ -4,7 +4,7 @@
 [[00 Anfragen von Stakeholdern][UnqualifiedRequirements]]
 
 !2 Anforderungen Global
-[[10 Ziele und Vision][VisionAndPurpose]]
+[[10 Ziele und Visionen][TargetAndVision]]
 [[11 Abgrenzung][ScoPe]]
 [[12 Offene Fragen][OpenQuestions]]
 [[13 Stakeholder][StakeHolders]]
@@ -15,9 +15,16 @@
 [[18 Entscheidungen][DeCisions]]
 [[19 Glossar][GlosSar]]
 
-!2 Systeme
-[[Anforderungen an ein Requirements System][>ReQuirements.AnforderungenRequirementsEngineering]]
-[[Anforderungen an eine Zeiterfassung][>ZeitErfassung.AnforderungenZeiterfassung]]
+!2 Zeiterfassung
+[[10 Ziele und Vision][ZeiterfassungVision]]
+[[11 Abgrenzung][ZeiterfassungScope]]
+[[12 Offene Fragen][ZeiterfassungOpenQuestions]]
+[[13 Stakeholder][ZeiterfassungStakeholders]]
+[[14 Rollen und Personen][ZeiterfassungPersonAndRole]]
+[[18 Entscheidungen][ZeiterfassungDecisions]]
+[[19 Glossar][ZeiterfassungGlossar]]
+
+[[51 Anforderungen an eine Zeiterfassung][AnforderungenZeiterfassung]]
 
 !2 AnforderungsDokumente
 [[50 Todos][ToDo]]
