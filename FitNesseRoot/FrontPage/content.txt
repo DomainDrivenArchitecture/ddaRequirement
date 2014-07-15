@@ -3,7 +3,7 @@
 !2 Noch nicht qualifizierte Anforderungen
 [[00 Anfragen von Stakeholdern][UnqualifiedRequirements]]
 
-!2 Anforderungen
+!2 Anforderungen Global
 [[10 Ziele und Vision][VisionAndPurpose]]
 [[11 Abgrenzung][ScoPe]]
 [[12 Offene Fragen][OpenQuestions]]
@@ -14,6 +14,10 @@
 [[17 Schnittstellen][InterFaces]]
 [[18 Entscheidungen][DeCisions]]
 [[19 Glossar][GlosSar]]
+
+!2 Systeme
+[[Anforderungen an ein Requirements System][>ReQuirements.AnforderungenRequirementsEngineering]]
+[[Anforderungen an eine Zeiterfassung][>ZeitErfassung.AnforderungenZeiterfassung]]
 
 !2 AnforderungsDokumente
 [[50 Todos][ToDo]]
