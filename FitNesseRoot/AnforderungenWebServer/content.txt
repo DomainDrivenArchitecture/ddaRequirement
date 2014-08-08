@@ -1,0 +1,22 @@
+!1 Funktionale Anforderungen
+
+!2 Grundfunktionen
+  * FunCtional.UseCase0020 Logging ist zentral konfigurierbar
+  * FunCtional.UseCase0021 Security ist zentral konfigurierbar
+  * FunCtional.UseCase0022 Ports sind zentral konfigurierbar
+  * FunCtional.UseCase0023 Module (ModGnutls, modJk) ist installierbar, defaults sind konfigurierbar
+  * FunCtional.UseCase0027 MaxClients, Uploadgroessen sind konfigurierbar
+
+!2 VHost
+  * FunCtional.UseCase0024 VHost ist NameBased oder IP/Port-Based
+  * FunCtional.UseCase0025 Redidect http-> https
+  * FunCtional.UseCase0026 Document Root ist konfigurierbar
+  * FunCtional.UseCase0028 GnuTls incl. Zertifikate ist konfigurierbar
+  * FunCtional.UseCase0029 Maintainance Page ist konfigurierbar
+  * FunCtional.UseCase0030 GoogleValidation ist installierbar
+  * FunCtional.UseCase0031 ModJk ist konfigurierbar
+
+!1 Nicht funktionale Anforderungen
+!2 Lasttest
+  * NonFunCtional.NonFunctional010 Logging passt zum Lasttest 
+  * NonFunCtional.NonFunctional011 Sysstat passt zum Lasttest
