@@ -9,4 +9,5 @@ My vision is, to be able to distribute configuration as code
 
 In order to gain a good acceptance, developers should be able, to change, review & pull their configuration in independent manner.
 
-In order to reach a configuration being complete as possible, all common modules should be distributed as OpenSource under Apache2 Licence (maybe Eclipse Licence is also feasible).
+In order to reach a configuration framework being complete as possible, collaboration with others and OpenSource is essential.
+All common usable modules should be distributed under Apache2 Licence (maybe Eclipse Licence is also feasible).

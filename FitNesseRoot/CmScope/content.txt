@@ -1,0 +1,5 @@
+  1 Target Systems are running with Ubuntu12.04 or 14.04
+  1 Configured node targets should be
+    1 classic hosted servers (with manual bootstrap)
+    1 (future) VirtualBox Nodes (automaticaly bootstraed?)
+    1 (future maybe) OpenStack Cloud Nodes (automaticaly bootstraed?)

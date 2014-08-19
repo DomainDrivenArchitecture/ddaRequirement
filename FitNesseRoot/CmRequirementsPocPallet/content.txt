@@ -1,6 +1,9 @@
 !1 Vision
 !include -seamless CmTargetAndVision
 
+!1 Scope
+!include -seamless CmScope
+
 !1 Open Topics
 !include -seamless CmOpenTopics
 
@@ -42,12 +45,11 @@
     * handle licences for the users, who have a licence
 
 !1 Non Functional Requirements
-  * Server Security: 
+  * Server Security
     * Servers should be able to be pushed (don't want to distribute credentials for all my servers on every managed server)
   * Multi Tenancy
     * common usable parts should be published as open source project
     * private parts as credentials should be located on private projects
   * Nodes are bootstrapable
-    * Ubuntu 12.04 / 14.04
     * Server (push - wo. java)
     * Client (pull / push)
