@@ -1,14 +1,8 @@
 !1 Zielsetzung und Vision
 !include -seamless ZeiterfassungVision
 
-!1 Abgrenzungen
+!1 Abgrenzung
 !include -seamless ZeiterfassungScope
-
-!1 Offene Fragen
-!include -seamless ZeiterfassungOpenQuestions
-
-!1 Rollen und Personen
-!include -seamless ZeiterfassungRollenUndPersonen
 
 !1 Funktionale Anforderungen
 !2 Lauffende Erfassung
