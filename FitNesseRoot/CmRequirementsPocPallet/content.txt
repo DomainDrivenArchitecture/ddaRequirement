@@ -1,0 +1,26 @@
+!1 Vision
+!include -seamless CmTargetAndVision
+
+!1 Open Topics
+!include -seamless CmOpenTopics
+
+!1 Roles
+!include -seamless CmPersonAndRole
+
+
+Servers should be able to be pushed (don't want to distribute credentials for all my servers on every managed server)
+
+
+The ser
+PalletOps testen, AC:
+* Anforderungen sind initial erhoben
+* PalletOps ist liegt in lauffähigem Projekt vor
+* Die meissa-dev-ide2.0 ist aufsetzbar mit
+ * user, password, ssh-auth-key
+ * (custom) java, eclipse, gradle
+ * ein eclipse plugin
+ * ein git-project
+ * dbvis mit lizenz
+ * pfad-einträge auf die custom programme
+ * User-Credentials sind im Mandant, User ist in einem common Module
+* Das Pallet-Projekt ist mit allen Modulen baubar

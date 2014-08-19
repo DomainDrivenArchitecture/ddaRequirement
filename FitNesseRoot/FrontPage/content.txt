@@ -29,7 +29,7 @@
 [[10 Visions][CmTargetAndVision]]
 [[11 Scope][CmScope]]
 [[13 Stakeholder][CmStakeholders]]
-[[14 Rollen and Person][CmPersonAndRole]]
+[[14 Person and Roles][CmPersonAndRole]]
 [[17 Open Topics][CmOpenTopics]]
 [[18 Decisions][CmDecisions]]
 [[19 Glossary][CmGlossary]]
