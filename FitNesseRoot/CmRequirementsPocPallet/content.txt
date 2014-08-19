@@ -7,20 +7,47 @@
 !1 Roles
 !include -seamless CmPersonAndRole
 
+!1 Functional Requirements
+  * Configure user
+    * add / remove
+    * password
+    * authorized_keys
+    * Goups: sudo
+  * install & configure ssh
+  * install & configure java
+    * put at /opt/java/jdkxx
+    * group is users
+    * add path to profile
+  * install & configure gradle
+    * put at /opt/gradle
+    * group is users
+    * add path to profile
+  * install & configure Spring eclipse
+    * put at /opt/eclipse/STS
+    * group is users
+    * add path to profile
+  * install & configure Clojure tools as eclipse plugins
+    * put at /opt/eclipse/STS/ (I think plugins folder)
+    * group is users
+    * add path to profile
+  * install & configure git package
+    * configure developers name as default username
+  * configure Git Repository for Developer
+    * put at /home/[developer]/code/... (lets take the pallet poc for first example)
+    * configure origin for default pull / push
+  * install and configure dbvisualizer
+    * put at /opt/dbvis
+    * group is users
+    * add path to profile
+    * handle licences for the users, who have a licence
 
-Servers should be able to be pushed (don't want to distribute credentials for all my servers on every managed server)
-
-
-The ser
-PalletOps testen, AC:
-* Anforderungen sind initial erhoben
-* PalletOps ist liegt in lauffähigem Projekt vor
-* Die meissa-dev-ide2.0 ist aufsetzbar mit
- * user, password, ssh-auth-key
- * (custom) java, eclipse, gradle
- * ein eclipse plugin
- * ein git-project
- * dbvis mit lizenz
- * pfad-einträge auf die custom programme
- * User-Credentials sind im Mandant, User ist in einem common Module
-* Das Pallet-Projekt ist mit allen Modulen baubar
+!1 Non Functional Requirements
+  * Server Security: 
+    * Servers should be able to be pushed (don't want to distribute credentials for all my servers on every managed server)
+  * Multi Tenancy
+    * common usable parts should be published as open source project
+    * private parts as credentials should be located on private projects
+  * Nodes are bootstrapable
+    * Ubuntu 12.04 / 14.04
+    * Server (push - wo. java)
+    * Client (pull / push)
