@@ -11,11 +11,8 @@
 !2 System semanticApplicationLifecycleManagement - semanticALM
 [[10 Ziele und Visionen][AlmTargetAndVision]]
 [[11 Abgrenzung][AlmScope]]
-[[12 Offene Fragen][AlmOpenQuestions]]
 [[13 Stakeholder][AlmStakeholders]]
 [[14 Rollen und Personen][AlmPersonAndRole]]
-[[18 Entscheidungen][AlmDecisions]]
-[[19 Glossar][AlmGlossar]]
 
 [[52 Anforderungen zum RE][AnforderungenRequirementsEngineering]]
 
