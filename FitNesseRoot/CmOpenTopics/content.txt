@@ -1,0 +1,6 @@
+!2 Open Topics
+
+!3 Questions to Duncan
+ * Whats Tooling you are using for working with clojure?
+   * Do you know, which tooling people are using for eclipse?
+ * 
