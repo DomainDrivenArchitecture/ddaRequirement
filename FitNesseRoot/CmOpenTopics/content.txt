@@ -1,4 +1,13 @@
 !2 Questions to Duncan
-  * Whats Tooling you are using for working with clojure?
-    * Do you know, which tooling people are using for eclipse?
-  * 
+  1 Whats tooling you are using for working with clojure?
+    1 Do you know, which tooling people are using for eclipse?
+  2 Is Eclipse Public Licence compatible to Apache2 Licence?
+    1 What would be an reason to prefer Eclipse Public Licence?
+  3 What are the first tutorials, I should read for the requirements listed below?
+  4 Do you think, the described requirements are achievable?
+  4 I've the impression, lein is build in as very central tool
+    1 We are using gradle for java builds - what would be the more easy way - support two build tools or adjust pallet to be driven by gradle (support means 10 developers, 10 customers should be trained and supported) ?
+    2 I think, build has two dimensions - am I right?
+      1 Building Pallet together with my config code (maybe to get an compiled jar out of it)
+      2 Running the config
+    2 Do you have an picture, describing the lein phases / tasks / targets for this dimensions?
