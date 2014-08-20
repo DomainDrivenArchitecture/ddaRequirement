@@ -25,7 +25,7 @@
 
 !2 Integration
 !3 FunCtional.UseCase012 Applikations-Artefakte lassen sich als Dokument Exportieren
-!3 FunCtional.UseCase012 Applikations-Artefakte lassen sich aus Dokumenten extrahieren
+!3 FunCtional.UseCase013 Applikations-Artefakte lassen sich aus Dokumenten extrahieren
 
 !1 Nicht funktionale Anforderungen
 !2 Sicherheit

@@ -1,0 +1,5 @@
+ * UseCase020 Configure user
+  * add / remove
+  * password
+  * authorized_keys
+  * Goups: sudo

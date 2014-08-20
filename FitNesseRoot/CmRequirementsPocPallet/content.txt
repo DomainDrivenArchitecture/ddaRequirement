@@ -11,45 +11,41 @@
 !include -seamless CmPersonAndRole
 
 !1 Functional Requirements
-  * Configure user
-    * add / remove
-    * password
-    * authorized_keys
-    * Goups: sudo
-  * install & configure ssh
-  * install & configure java
+!include -seamless FunCtional.UseCase020
+  * FunCtional.UseCase021 install & configure ssh
+  * FunCtional.UseCase022 install & configure java
     * put at /opt/java/jdkxx
     * group is users
     * add path to profile
-  * install & configure gradle
+  * FunCtional.UseCase023 install & configure gradle
     * put at /opt/gradle
     * group is users
     * add path to profile
-  * install & configure Spring eclipse
+  * FunCtional.UseCase024 install & configure Spring eclipse
     * put at /opt/eclipse/STS
     * group is users
     * add path to profile
-  * install & configure Clojure tools as eclipse plugins
+  * FunCtional.UseCase025 install & configure Clojure tools as eclipse plugins
     * put at /opt/eclipse/STS/ (I think plugins folder)
     * group is users
     * add path to profile
-  * install & configure git package
+  * FunCtional.UseCase026 install & configure git package
     * configure developers name as default username
-  * configure Git Repository for Developer
+  * FunCtional.UseCase027 configure Git Repository for Developer
     * put at /home/[developer]/code/... (lets take the pallet poc for first example)
     * configure origin for default pull / push
-  * install and configure dbvisualizer
+  * FunCtional.UseCase028 install and configure dbvisualizer
     * put at /opt/dbvis
     * group is users
     * add path to profile
     * handle licences for the users, who have a licence
 
 !1 Non Functional Requirements
-  * Server Security
+  * NonFunCtional.NonFunctional010 Server Security
     * Servers should be able to be pushed (don't want to distribute credentials for all my servers on every managed server)
-  * Multi Tenancy
+  * NonFunCtional.NonFunctional011 Multi Tenancy
     * common usable parts should be published as open source project
     * private parts as credentials should be located on private projects
-  * Nodes are bootstrapable
+  * NonFunCtional.NonFunctional012 Nodes are bootstrapable
     * Server (push - wo. java)
     * Client (pull / push)
