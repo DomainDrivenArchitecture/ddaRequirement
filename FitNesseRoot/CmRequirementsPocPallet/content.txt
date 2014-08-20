@@ -12,19 +12,10 @@
 
 !1 Functional Requirements
 !include -seamless FunCtional.UseCase020
-  * FunCtional.UseCase021 install & configure ssh
-  * FunCtional.UseCase022 install & configure java
-    * put at /opt/java/jdkxx
-    * group is users
-    * add path to profile
-  * FunCtional.UseCase023 install & configure gradle
-    * put at /opt/gradle
-    * group is users
-    * add path to profile
-  * FunCtional.UseCase024 install & configure Spring eclipse
-    * put at /opt/eclipse/STS
-    * group is users
-    * add path to profile
+!include -seamless FunCtional.UseCase021
+!include -seamless FunCtional.UseCase022
+!include -seamless FunCtional.UseCase023
+!include -seamless FunCtional.UseCase024
   * FunCtional.UseCase025 install & configure Clojure tools as eclipse plugins
     * put at /opt/eclipse/STS/ (I think plugins folder)
     * group is users
