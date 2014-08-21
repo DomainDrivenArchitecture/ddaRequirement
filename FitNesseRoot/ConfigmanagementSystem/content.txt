@@ -1,0 +1,32 @@
+!1 Funktionale Anforderungen
+
+!2 Phases of Applying Configuration
+!3 Operating system
+Software is package managed
+Upgrades are coming continuously into the systems.
+There are no tests for upgrades, but daily snapshots.
+
+  * FunCtional.UseCase0050 Installing package managed software (apt-get)
+  * FunCtional.UseCase0051 (Re-)Configure package managed software (/etc)
+
+!3 Middleware
+Software is package managed or individual developed / installed / packaged.
+Upgrades are coming controlled into the systems.
+There are tests for upgrades.
+
+  * FunCtional.UseCase0053 Install non package managed middleware Software (liferay)
+   * Deployments are manual and automatic executable (sth. like puppi)
+   * Rollback concept is included
+  * FunCtional.UseCase0052 Configure middle ware (apache, postgres, tomcat, jboss, vert.x)
+   * Service restart can be triggered
+
+!3 Domain Services and Applications
+Software is mainly individual developed / installed / packaged.
+Upgrades are coming controlled into the systems.
+There are tests for upgrades.
+
+  * FunCtional.UseCase0054 Install individual application
+   * Deployments are manual and automatic executable (sth. like puppi)
+   * Rollback concept is included
+  * FunCtional.UseCase0055 configure individual application
+   * Service restart can be triggered
