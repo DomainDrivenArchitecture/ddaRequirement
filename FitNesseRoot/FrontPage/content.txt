@@ -35,6 +35,7 @@
 [[19 Glossary][CmGlossary]]
 
 [[60 Requirements for POC "Pallet"][CmRequirementsPocPallet]]
+[[61 Requirements for an ConfigmanagementSystem][CmRequirementsCM]]
 [[65 Requirements for Module "Web Server"][CmRequirementsWebServer]]
 
 
