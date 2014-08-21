@@ -1,13 +1,17 @@
 !1 Vision
+CmTargetAndVision
 !include -seamless CmTargetAndVision
 
 !1 Scope
+CmScope
 !include -seamless CmScope
 
 !1 Open Topics
+CmOpenTopics
 !include -seamless CmOpenTopics
 
 !1 Roles
+CmPersonAndRole
 !include -seamless CmPersonAndRole
 
 !1 Functional Requirements
@@ -16,27 +20,12 @@
 !include -seamless FunCtional.UseCase022
 !include -seamless FunCtional.UseCase023
 !include -seamless FunCtional.UseCase024
-  * FunCtional.UseCase025 install & configure Clojure tools as eclipse plugins
-    * put at /opt/eclipse/STS/ (I think plugins folder)
-    * group is users
-    * add path to profile
-  * FunCtional.UseCase026 install & configure git package
-    * configure developers name as default username
-  * FunCtional.UseCase027 configure Git Repository for Developer
-    * put at /home/[developer]/code/... (lets take the pallet poc for first example)
-    * configure origin for default pull / push
-  * FunCtional.UseCase028 install and configure dbvisualizer
-    * put at /opt/dbvis
-    * group is users
-    * add path to profile
-    * handle licences for the users, who have a licence
+!include -seamless FunCtional.UseCase025
+!include -seamless FunCtional.UseCase026
+!include -seamless FunCtional.UseCase027
+!include -seamless FunCtional.UseCase028
 
 !1 Non Functional Requirements
-  * NonFunCtional.NonFunctional010 Server Security
-    * Servers should be able to be pushed (don't want to distribute credentials for all my servers on every managed server)
-  * NonFunCtional.NonFunctional011 Multi Tenancy
-    * common usable parts should be published as open source project
-    * private parts as credentials should be located on private projects
-  * NonFunCtional.NonFunctional012 Nodes are bootstrapable
-    * Server (push - wo. java)
-    * Client (pull / push)
+!include -seamless NonFunCtional.NonFunctional010 
+!include -seamless NonFunCtional.NonFunctional011
+!include -seamless NonFunCtional.NonFunctional012

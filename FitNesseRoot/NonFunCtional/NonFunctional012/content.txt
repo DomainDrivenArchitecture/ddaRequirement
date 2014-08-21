@@ -1,0 +1,3 @@
+ * NonFunctional012 Nodes are bootstrapable
+  * Server node (push - wo. java)
+  * Client node (pull / push)
