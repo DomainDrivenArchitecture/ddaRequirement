@@ -5,7 +5,15 @@
 |FunCtional.UseCase004|!include -h FunCtional.UseCase004|!include -h FunCtional.UseCase004.MeTa|
 
 !1 Configmanagement
-|FunCtional.UseCase010|!include -h FunCtional.UseCase010|
+|FunCtional.UseCase020|!include -h FunCtional.UseCase020|
+|FunCtional.UseCase021|!include -h FunCtional.UseCase021|
+|FunCtional.UseCase022|!include -h FunCtional.UseCase022|
+|FunCtional.UseCase023|!include -h FunCtional.UseCase023|
+|FunCtional.UseCase024|!include -h FunCtional.UseCase024|
+|FunCtional.UseCase025|!include -h FunCtional.UseCase025|
+|FunCtional.UseCase026|!include -h FunCtional.UseCase026|
+|FunCtional.UseCase027|!include -h FunCtional.UseCase027|
+|FunCtional.UseCase028|!include -h FunCtional.UseCase028|
 
 !1 alle Requirements&Ansichten ungeordnet
 !contents -R2 -h
