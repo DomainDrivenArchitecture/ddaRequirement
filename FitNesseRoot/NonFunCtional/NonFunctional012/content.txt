@@ -1,3 +1,6 @@
- * NonFunctional012 Nodes are bootstrapable
-  * Server node (push - wo. java)
-  * Client node (pull / push)
+ * NonFunctional012 Configuration Distribution
+  * Config for nodes should be pushed from central instances.
+   * Config receiver should not need to have java installed.
+   * Security relevant stuff should stay central as possible.
+  * Config for developer client nodes should be pulled from config management repository
+   * developers should be able to apply the config of their developer clients themselves.
