@@ -1,4 +1,5 @@
-|CmOpenTopics|mje|07:58:02 Wed, Sep 17, 2014|
+|CmOpenTopics|mje|08:09:46 Wed, Sep 17, 2014|
+|FunCtional.UseCase020|mje|08:08:40 Wed, Sep 17, 2014|
 |NonFunCtional.NonFunctional013|mje|14:39:34 Fri, Aug 29, 2014|
 |NonFunCtional.NonFunctional012|mje|14:39:28 Fri, Aug 29, 2014|
 |CmRequirementsPocPallet|mje|14:39:07 Fri, Aug 29, 2014|
@@ -19,7 +20,6 @@
 |FunCtional.UseCase024|mje|20:40:24 Wed, Aug 20, 2014|
 |FunCtional.UseCase023|mje|20:39:42 Wed, Aug 20, 2014|
 |FunCtional.UseCase022|mje|20:38:44 Wed, Aug 20, 2014|
-|FunCtional.UseCase020|mje|20:36:12 Wed, Aug 20, 2014|
 |AnforderungenRequirementsEngineering|mje|20:31:30 Wed, Aug 20, 2014|
 |FunCtional.UseCase001|mje|13:45:28 Tue, Aug 19, 2014|
 |AnforderungenZeiterfassung|mje|13:39:45 Tue, Aug 19, 2014|
