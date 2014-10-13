@@ -15,18 +15,22 @@ CmPersonAndRole
 !include -seamless CmPersonAndRole
 
 !1 Functional Requirements
+!2 User & SSH
 !include -seamless FunCtional.UseCase020
 !include -seamless FunCtional.UseCase021
+!2 Java & other Dev Tools
 !include -seamless FunCtional.UseCase022
 !include -seamless FunCtional.UseCase023
+!include -seamless FunCtional.UseCase026
+!include -seamless FunCtional.UseCase028
+!2 Eclipse & Plugins
 !include -seamless FunCtional.UseCase024
 !include -seamless FunCtional.UseCase025
-!include -seamless FunCtional.UseCase026
+!2 Project Specific Repos
 !include -seamless FunCtional.UseCase027
-!include -seamless FunCtional.UseCase028
-FunCtional.UseCase029
+!2 Communication
 !include -seamless FunCtional.UseCase029
-
+!include -seamless FunCtional.UseCase030
 
 !1 Non Functional Requirements
 !include -seamless NonFunCtional.NonFunctional010 
