@@ -1,32 +1,35 @@
-!1 Funktionale Anforderungen
+!1 Vision
+CmTargetAndVision
+!include -seamless CmTargetAndVision
 
-!2 Phases of Applying Configuration
-!3 Operating system
-Software is package managed
-Upgrades are coming continuously into the systems.
-There are no tests for upgrades, but daily snapshots.
+!1 Scope
+CmScope
+!include -seamless CmScope
 
-  * FunCtional.UseCase0050 Installing package managed software (apt-get)
-  * FunCtional.UseCase0051 (Re-)Configure package managed software (/etc)
+!1 Open Topics
+CmOpenTopics
+!include -seamless CmOpenTopics
 
-!3 Middleware
-Software is package managed or individual developed / installed / packaged.
-Upgrades are coming controlled into the systems.
-There are tests for upgrades.
+!1 Roles
+CmPersonAndRole
+!include -seamless CmPersonAndRole
 
-  * FunCtional.UseCase0053 Install non package managed middleware Software (liferay)
-   * Deployments are manual and automatic executable (sth. like puppi)
-   * Rollback concept is included
-  * FunCtional.UseCase0052 Configure middle ware (apache, postgres, tomcat, jboss, vert.x)
-   * Service restart can be triggered
+!1 Functional Requirements
+!include -seamless FunCtional.UseCase020
+!include -seamless FunCtional.UseCase021
+!include -seamless FunCtional.UseCase022
+!include -seamless FunCtional.UseCase023
+!include -seamless FunCtional.UseCase024
+!include -seamless FunCtional.UseCase025
+!include -seamless FunCtional.UseCase026
+!include -seamless FunCtional.UseCase027
+!include -seamless FunCtional.UseCase028
+FunCtional.UseCase029
+!include -seamless FunCtional.UseCase029
 
-!3 Domain Services and Applications
-Software is mainly individual developed / installed / packaged.
-Upgrades are coming controlled into the systems.
-There are tests for upgrades.
 
-  * FunCtional.UseCase0054 Install individual application
-   * Deployments are manual and automatic executable (sth. like puppi)
-   * Rollback concept is included
-  * FunCtional.UseCase0055 configure individual application
-   * Service restart can be triggered
+!1 Non Functional Requirements
+!include -seamless NonFunCtional.NonFunctional010 
+!include -seamless NonFunCtional.NonFunctional011
+!include -seamless NonFunCtional.NonFunctional012
+!include -seamless NonFunCtional.NonFunctional013
