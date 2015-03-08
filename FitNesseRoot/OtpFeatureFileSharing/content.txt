@@ -1,5 +1,19 @@
+
+!1 Person and Role
+OtpPersonAndRole
+!include -seamless OtpPersonAndRole
+
+
 !1 Functional Requirements
- * FunCtional.UseCase031
+ * FunCtional.UseCase031 System synchronizes user changed files & directories with central File Sharing Server.
+ * FunCtional.UseCase032 User request a file by files unique url.
+ * FunCtional.UseCase033 User request a directory by directories unique url.
+ * FunCtional.UseCase034 User share files / directories to other users 
+ * FunCtional.UseCase035 User share files / directories to other guests by link & password
+ * FunCtional.UseCase036 User search for name or content of files / directories
 
 !1 Non Functional Requirements
- * NonFunctional010 Server Security
+ * NonFunctional014 File synchronization works on all (Win / Linux / Mac / Android / IOs) operating systems
+ * NonFunctional015 Files are accessible without network connection
+ * NonFunctional016 System prohibits data loss in case of conflicting changes
+ * NonFunctional017 Synchronization works fast

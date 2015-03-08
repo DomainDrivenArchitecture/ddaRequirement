@@ -1,0 +1,11 @@
+!2 Guest
+User note logged in to the system.
+
+!2 User
+User logged in to the system.
+
+!2 Tenants Admin
+Admin User for one specific tenant
+
+!2 Overall Admin
+Admin User for all tenants
