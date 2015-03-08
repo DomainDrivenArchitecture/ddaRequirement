@@ -1,0 +1,17 @@
+!1 Person and Role
+OtpPersonAndRole
+!include -seamless OtpPersonAndRole
+
+!1 Functional Requirements
+ * FunCtional.UseCase055 User calls other users for adhoc webconf
+ * FunCtional.UseCase056 User share a link to other users for a sheduled meeting
+ * FunCtional.UseCase057 User show his screen to others
+ * FunCtional.UseCase058 User talk by VoIp to others
+ * FunCtional.UseCase059 User chat to others
+ * FunCtional.UseCase060 All conf participants can write synchronous in one document
+ * FunCtional.UseCase061 All conf participants can read / write synchronous but independent in an project
+ * FunCtional.UseCase062 System shows, where conf participants are writing / reading or mouse pointing
+
+!1 Non Functional Requirements
+!include -seamless NonFunctional018
+!include -seamless NonFunctional019

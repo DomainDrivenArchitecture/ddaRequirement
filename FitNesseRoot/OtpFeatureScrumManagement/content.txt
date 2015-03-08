@@ -3,20 +3,20 @@ OtpPersonAndRole
 !include -seamless OtpPersonAndRole
 
 !1 Functional Requirements
- * FunCtional.UseCase031 System synchronizes user changed files & directories with central File Sharing Server.
- * FunCtional.UseCase032 User request a file by files unique url.
- * FunCtional.UseCase033 User request a directory by directories unique url.
- * FunCtional.UseCase034 User share files / directories to other users 
- * FunCtional.UseCase035 User share files / directories to other guests by link & password
- * FunCtional.UseCase036 User search for name or content of files / directories
- * FunCtional.UseCase037 User restore old versions of an file
- * FunCtional.UseCase038 User restore deleted versions of an file
+ * FunCtional.UseCase043 ProductOwner creates UserStories in backlog / future sprints
+ * FunCtional.UseCase044 ScrumMaster defines sprints
+ * FunCtional.UseCase045 TeamMembers estimate UserStories with StoryPoints
+ * FunCtional.UseCase046 TeamMembers create Tasks for UserStories
+ * FunCtional.UseCase047 TeamMembers estimate Tasks
+ * FunCtional.UseCase048 System shows summed up StoryPoints per Sprint
+ * FunCtional.UseCase049 ScrumMaster or PO can add UserStories to Sprints
+ * FunCtional.UseCase050 ScrumMaster or PO can start a Sprint
+ * FunCtional.UseCase051 TeamMember process Tasks (at least open -> in progress -> closed)
+ * FunCtional.UseCase052 TeamMember log work (time, remaining, comment)
+ * FunCtional.UseCase053 System shows activity log.
+ * FunCtional.UseCase054 System shows remaining work and hours worked per sprint
 
 !1 Non Functional Requirements
-!include -seamless NonFunctional014
-!include -seamless NonFunctional015
-!include -seamless NonFunctional016
-!include -seamless NonFunctional017
 !include -seamless NonFunctional018
 !include -seamless NonFunctional019
 !include -seamless NonFunctional020
