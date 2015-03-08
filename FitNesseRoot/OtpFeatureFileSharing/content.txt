@@ -20,3 +20,11 @@ OtpPersonAndRole
 !include -seamless NonFunctional018
 !include -seamless NonFunctional019
 !include -seamless NonFunctional020
+
+!include -seamless NonFunctional.NonFun014
+!include -seamless NonFunctional.NonFun015
+!include -seamless NonFunctional.NonFun016
+!include -seamless NonFunctional.NonFun017
+!include -seamless NonFunctional.NonFun018
+!include -seamless NonFunctional.NonFun019
+!include -seamless NonFunctional.NonFun020

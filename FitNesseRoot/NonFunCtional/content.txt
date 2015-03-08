@@ -3,9 +3,9 @@
 |NonFunCtional.NonFun002|!include -h NonFunCtional.NonFun002|
 
 |!1 Non functional Requirements CM                          |
-|NonFunCtional.NonFunctional010|!include -h NonFunCtional.NonFunctional010|
-|NonFunCtional.NonFunctional011|!include -h NonFunCtional.NonFunctional011|
-|NonFunCtional.NonFunctional012|!include -h NonFunCtional.NonFunctional012|
+|NonFunCtional.NonFun010|!include -h NonFunCtional.NonFun010|
+|NonFunCtional.NonFun011|!include -h NonFunCtional.NonFun011|
+|NonFunCtional.NonFunl012|!include -h NonFunCtional.NonFun012|
 
 Non funtionals unordered
 !contents -R2 -g -p -f -h

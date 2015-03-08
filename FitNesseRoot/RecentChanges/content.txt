@@ -1,8 +1,9 @@
-|OtpFeatureTeamCommunication|mje|18:48:59 Sun, Mar 08, 2015|
+|NonFunCtional|mje|18:59:57 Sun, Mar 08, 2015|
+|OtpFeatureTeamCommunication|mje|18:58:21 Sun, Mar 08, 2015|
+|OtpFeatureFileSharing|mje|18:52:46 Sun, Mar 08, 2015|
 |OtpFeatureScrumManagement|mje|18:41:28 Sun, Mar 08, 2015|
 |OtpPersonAndRole|mje|18:30:51 Sun, Mar 08, 2015|
 |FrontPage|mje|18:27:40 Sun, Mar 08, 2015|
-|OtpFeatureFileSharing|mje|18:26:44 Sun, Mar 08, 2015|
 |OtpFeatureCalendarSharing|mje|18:26:17 Sun, Mar 08, 2015|
 |NonFunctional015|mje|18:25:45 Sun, Mar 08, 2015|
 |NonFunctional014|mje|18:25:24 Sun, Mar 08, 2015|
@@ -22,7 +23,6 @@
 |CmRequirementsPocPallet|mje|14:39:07 Fri, Aug 29, 2014|
 |CmRequirementsWebServer|mje|08:44:21 Thu, Aug 21, 2014|
 |CmScope|mje|08:04:49 Thu, Aug 21, 2014|
-|NonFunCtional|mje|07:53:24 Thu, Aug 21, 2014|
 |FunCtional|mje|07:50:00 Thu, Aug 21, 2014|
 |CmTargetAndVision|mje|06:57:40 Thu, Aug 21, 2014|
 |NonFunCtional.NonFunctional011|mje|06:54:06 Thu, Aug 21, 2014|
