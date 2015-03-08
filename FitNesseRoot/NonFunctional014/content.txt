@@ -1,0 +1,1 @@
+ * NonFunctional014 File synchronization works on all (Win / Linux / Mac / Android / IOs) operating systems

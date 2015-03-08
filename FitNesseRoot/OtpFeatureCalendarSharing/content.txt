@@ -1,0 +1,19 @@
+!1 Person and Role
+OtpPersonAndRole
+!include -seamless OtpPersonAndRole
+
+!1 Functional Requirements
+ * FunCtional.UseCase039 System synchronizes user changed calendar/adressbook entries with central File Sharing Server.
+ * FunCtional.UseCase040 User request a calendar/adressbook entry by caldav.
+ * FunCtional.UseCase041 User share calendar/adressbook with other users.
+ * FunCtional.UseCase042 User share calendar with other guests.
+
+!1 Non Functional Requirements
+ * NonFunctional021 Calendar/Contact synchronization works on all (Win / Linux / Mac / Android / IOs) operating systems
+  * MailClients are: Outlook, Outlook Express, KMail, Evolution, Android Mail/Calendar
+!include -seamless NonFunctional015
+!include -seamless NonFunctional016
+!include -seamless NonFunctional017
+!include -seamless NonFunctional018
+!include -seamless NonFunctional019
+!include -seamless NonFunctional020

@@ -1,0 +1,1 @@
+ * NonFunctional017 Synchronization works fast

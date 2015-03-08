@@ -46,8 +46,7 @@
 [[19 Glossary][OtpGlossary]]
 
 [[50 Feature File Sharing][OtpFeatureFileSharing]]
-[[51 Feature Calendar Sharing][OtpFeatureCalendarSharing]]
-[[52 Feature Contact Sharing][OtpFeatureContactSharing]]
+[[51 Feature Calendar / Contact Sharing][OtpFeatureCalendarSharing]]
 [[53 Feature Scrum Management][OtpFeatureScrumManagement]]
 [[54 Feature Team Communication][OtpFeatureTeamCommunication]]
 [[55 Feature Version Management][OtpFeatureVersionManagement]]
