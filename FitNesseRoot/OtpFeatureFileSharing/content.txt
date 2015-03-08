@@ -13,18 +13,10 @@ OtpPersonAndRole
  * FunCtional.UseCase038 User restore deleted versions of an file
 
 !1 Non Functional Requirements
-!include -seamless NonFunctional014
-!include -seamless NonFunctional015
-!include -seamless NonFunctional016
-!include -seamless NonFunctional017
-!include -seamless NonFunctional018
-!include -seamless NonFunctional019
-!include -seamless NonFunctional020
-
-!include -seamless NonFunctional.NonFun014
-!include -seamless NonFunctional.NonFun015
-!include -seamless NonFunctional.NonFun016
-!include -seamless NonFunctional.NonFun017
-!include -seamless NonFunctional.NonFun018
-!include -seamless NonFunctional.NonFun019
-!include -seamless NonFunctional.NonFun020
+!include -seamless NonFunCtional.NonFun014
+!include -seamless NonFunCtional.NonFun015
+!include -seamless NonFunCtional.NonFun016
+!include -seamless NonFunCtional.NonFun017
+!include -seamless NonFunCtional.NonFun018
+!include -seamless NonFunCtional.NonFun019
+!include -seamless NonFunCtional.NonFun020

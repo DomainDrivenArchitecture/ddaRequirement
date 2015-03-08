@@ -17,6 +17,6 @@ OtpPersonAndRole
  * FunCtional.UseCase054 System shows remaining work and hours worked per sprint
 
 !1 Non Functional Requirements
-!include -seamless NonFunctional018
-!include -seamless NonFunctional019
-!include -seamless NonFunctional020
+!include -seamless NonFunCtional.NonFun018
+!include -seamless NonFunCtional.NonFun019
+!include -seamless NonFunCtional.NonFun020

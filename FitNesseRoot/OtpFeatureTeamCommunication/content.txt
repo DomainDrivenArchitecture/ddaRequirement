@@ -13,5 +13,5 @@ OtpPersonAndRole
  * FunCtional.UseCase062 System shows, where conf participants are writing / reading or mouse pointing
 
 !1 Non Functional Requirements
-!include -seamless NonFunctional.NonFun018
-!include -seamless NonFunctional.NonFun019
+!include -seamless NonFunCtional.NonFun018
+!include -seamless NonFunCtional.NonFun019

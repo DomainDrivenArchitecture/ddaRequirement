@@ -1,4 +1,4 @@
- * NonFunctional012 Configuration Distribution
+ * NonFun012 Configuration Distribution
   * Config for nodes should be pushed from central instances.
    * Config receiver should not need to have java installed.
    * Security relevant stuff should stay central as possible.

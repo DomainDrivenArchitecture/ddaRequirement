@@ -1,1 +1,1 @@
- * NonFunctional015 Data are accessible without network connection
+ * NonFun015 Data are accessible without network connection

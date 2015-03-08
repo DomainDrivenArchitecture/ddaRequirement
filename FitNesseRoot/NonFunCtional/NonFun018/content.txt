@@ -1,1 +1,1 @@
- * NonFunctional018 Synchronization transport is secured by https
+ * NonFun018 Synchronization transport is secured by https

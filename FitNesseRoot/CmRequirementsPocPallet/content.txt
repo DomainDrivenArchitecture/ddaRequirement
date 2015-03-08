@@ -26,7 +26,7 @@ CmPersonAndRole
 !include -seamless FunCtional.UseCase028
 
 !1 Non Functional Requirements
-!include -seamless NonFunCtional.NonFunctional010 
-!include -seamless NonFunCtional.NonFunctional011
-!include -seamless NonFunCtional.NonFunctional012
-!include -seamless NonFunCtional.NonFunctional013
+!include -seamless NonFunCtional.NonFun010 
+!include -seamless NonFunCtional.NonFun011
+!include -seamless NonFunCtional.NonFun012
+!include -seamless NonFunCtional.NonFun013
