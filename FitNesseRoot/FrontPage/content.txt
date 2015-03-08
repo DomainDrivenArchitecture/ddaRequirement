@@ -55,7 +55,8 @@
 
 [[70 Feature Security][OtpFeatureSecurity]]
 [[71 Feature Interoperability][OtpFeatureInteroperability]]
-[[71 Feature Operability][OtpFeatureOperability]]
+[[72 Feature Interoperability][OtpFeatureInteroperability]]
+[[73 Feature Operability][OtpFeatureOperability]]
 
 !2 Fitnesse Doku
 http://www.fitnesse.org/FitNesse.UserGuide.QuickReferenceGuide
