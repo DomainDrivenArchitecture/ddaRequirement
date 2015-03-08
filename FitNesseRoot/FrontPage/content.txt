@@ -54,7 +54,7 @@
 
 [[70 Feature Security][OtpFeatureSecurity]]
 [[71 Feature Interoperability][OtpFeatureInteroperability]]
-[[72 Feature Interoperability][OtpFeatureInteroperability]]
+[[72 Feature Identity Management][OtpFeatureIdentityManagement]]
 [[73 Feature Operability][OtpFeatureOperability]]
 
 !2 Fitnesse Doku

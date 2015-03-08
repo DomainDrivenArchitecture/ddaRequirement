@@ -3,8 +3,8 @@ OtpPersonAndRole
 !include -seamless OtpPersonAndRole
 
 !1 Functional Requirements
- * FunCtional.UseCase055 User calls other users for adhoc webconf
- * FunCtional.UseCase056 User share a link to other users for a sheduled meeting
+ * FunCtional.UseCase055 User / guests calls other users / guests for adhoc webconf
+ * FunCtional.UseCase056 User share a link to other users / guests for a sheduled meeting
  * FunCtional.UseCase057 User show his screen to others
  * FunCtional.UseCase058 User talk by VoIp to others
  * FunCtional.UseCase059 User chat to others
@@ -13,5 +13,6 @@ OtpPersonAndRole
  * FunCtional.UseCase062 System shows, where conf participants are writing / reading or mouse pointing
 
 !1 Non Functional Requirements
+ * NonFunCtional.NonFun022 webconf works without additional browser plugin
 !include -seamless NonFunCtional.NonFun018
 !include -seamless NonFunCtional.NonFun019
