@@ -45,13 +45,17 @@
 [[14 Person and Roles][OtpPersonAndRole]]
 [[19 Glossary][OtpGlossary]]
 
-[[50 Feature File Sharing][OtpRequirementsFileSharing]]
-[[51 Feature Calendar Sharing][OtpRequirementsCalendarSharing]]
-[[52 Feature Contact Sharing][OtpRequirementsContactSharing]]
-[[53 Feature Scrum Management][OtpRequirementsScrumManagement]]
-[[54 Feature Team Communication][OtpRequirementsTeamCommunication]]
-[[55 Feature Version Management][OtpRequirementsVersionManagement]]
-[[56 Feature Requirements & Architectur Management][OtpAlmManagement]]
+[[50 Feature File Sharing][OtpFeatureFileSharing]]
+[[51 Feature Calendar Sharing][OtpFeatureCalendarSharing]]
+[[52 Feature Contact Sharing][OtpFeatureContactSharing]]
+[[53 Feature Scrum Management][OtpFeatureScrumManagement]]
+[[54 Feature Team Communication][OtpFeatureTeamCommunication]]
+[[55 Feature Version Management][OtpFeatureVersionManagement]]
+[[56 Feature Requirements & Architectur Management][OtpFeatureAlmManagement]]
+
+[[70 Feature Security][OtpFeatureSecurity]]
+[[71 Feature Interoperability][OtpFeatureInteroperability]]
+[[71 Feature Operability][OtpFeatureOperability]]
 
 !2 Fitnesse Doku
 http://www.fitnesse.org/FitNesse.UserGuide.QuickReferenceGuide
