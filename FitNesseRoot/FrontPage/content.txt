@@ -37,6 +37,7 @@
 [[60 Requirements for POC "Pallet"][CmRequirementsPocPallet]]
 [[61 Requirements for an Configmanagement System][CmRequirementsCM]]
 [[65 Requirements for Module "Web Server"][CmRequirementsWebServer]]
+[[90 Requirements for Module "Managed IDE"][CmRequirementsManagedIde]]
 
 !2 open-teamplace
 [[10 Visions][OtpTargetAndVision]]
