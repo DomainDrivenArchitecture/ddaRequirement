@@ -1,0 +1,42 @@
+!2 Managed Desktop Foundations
+  * NonFunCtional.NonFunctional022 IDE is based on Xubuntu14.04.02
+  * NonFunCtional.NonFunctional023 Office Client is based on Kubuntu14.04.02
+
+  * FunCtional.UseCase0075 redshift
+  * FunCtional.UseCase0076 DesktopWiki
+  * FunCtional.UseCase0082 User and Password
+ 
+!3 VM interaction
+  * FunCtional.UseCase0070 VM Integration
+    * Clippboard, Drag&Drop, Resolution Resizing, Shared Folders
+
+!3 Office Integration
+  * FunCtional.UseCase0071 Office Suite LibreOffice
+
+!3 Communication
+  * FunCtional.UseCase0081 Bookmarks
+  * FunCtional.UseCase0082 Telegram
+  * FunCtional.UseCase0083 google Hangout
+  * FunCtional.UseCase0084 Skype
+  * FunCtional.UseCase0085 Madeye
+  * FunCtional.UseCase0086 MeetingWords
+  * FunCtional.UseCase0087 Saros
+
+!2 Managed IDE
+  * FunCtional.UseCase0073 PasswordUtils
+  * FunCtional.UseCase0074 VersionManagement
+    * Plain Repositories
+  * FunCtional.UseCase0077 Java
+  * FunCtional.UseCase0078 BuildManagement
+    * Leiningen, Gradle, Ant
+  * FunCtional.UseCase0079 UML-Tools
+  * FunCtional.UseCase0080 Eclipse
+    * WorkspaceMechanics
+    * ProjectSpecific Configurations
+  * FunCtional.UseCase0088 Diff
+    * meld
+
+!2 Managed Office Desktop
+!3 Office Integration
+  * FunCtional.UseCase0072 KMail for Mail, Calendar and Contacts
+  
