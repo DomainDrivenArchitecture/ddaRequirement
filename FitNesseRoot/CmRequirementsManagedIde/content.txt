@@ -1,10 +1,7 @@
 !2 Managed Desktop Foundations
-  * NonFunCtional.NonFunctional022 IDE is based on Xubuntu14.04.02
-  * NonFunCtional.NonFunctional023 Office Client is based on Kubuntu14.04.02
-
-  * FunCtional.UseCase0075 redshift
-  * FunCtional.UseCase0076 DesktopWiki
+!3 User Basics
   * FunCtional.UseCase0082 User and Password
+    * Password is initially set by CM system
  
 !3 VM interaction
   * FunCtional.UseCase0070 VM Integration
@@ -12,31 +9,45 @@
 
 !3 Office Integration
   * FunCtional.UseCase0071 Office Suite LibreOffice
+  * FunCtional.UseCase0074 VersionManagement
+    * clone Plain Repositories
+  * FunCtional.UseCase0076 DesktopWiki
 
 !3 Communication
-  * FunCtional.UseCase0081 Bookmarks
   * FunCtional.UseCase0082 Telegram
   * FunCtional.UseCase0083 google Hangout
   * FunCtional.UseCase0084 Skype
-  * FunCtional.UseCase0085 Madeye
   * FunCtional.UseCase0086 MeetingWords
-  * FunCtional.UseCase0087 Saros
+
+!3 Convenience
+  * FunCtional.UseCase0081 Bookmarks
+  * FunCtional.UseCase0075 redshift
 
 !2 Managed IDE
-  * FunCtional.UseCase0073 PasswordUtils
-  * FunCtional.UseCase0074 VersionManagement
-    * Plain Repositories
+!3 Operating System
+  * NonFunCtional.NonFunctional022 IDE is based on Xubuntu14.04.02
+
+!3 Development Basics
+  * FunCtional.UseCase0088 Diff
+    * meld
+
+!3 Java Development
   * FunCtional.UseCase0077 Java
   * FunCtional.UseCase0078 BuildManagement
     * Leiningen, Gradle, Ant
   * FunCtional.UseCase0079 UML-Tools
   * FunCtional.UseCase0080 Eclipse
     * WorkspaceMechanics
+    * Saros
     * ProjectSpecific Configurations
-  * FunCtional.UseCase0088 Diff
-    * meld
 
+!3 Ops
+  * FunCtional.UseCase0073 PasswordUtils
+
+!3 Communication
+  * FunCtional.UseCase0085 Madeye
+  
 !2 Managed Office Desktop
 !3 Office Integration
+  * NonFunCtional.NonFunctional023 Office Client is based on Kubuntu14.04.02
   * FunCtional.UseCase0072 KMail for Mail, Calendar and Contacts
-  
