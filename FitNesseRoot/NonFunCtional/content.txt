@@ -5,7 +5,7 @@
 |!1 Non functional Requirements CM                          |
 |NonFunCtional.NonFun010|!include -h NonFunCtional.NonFun010|
 |NonFunCtional.NonFun011|!include -h NonFunCtional.NonFun011|
-|NonFunCtional.NonFunl012|!include -h NonFunCtional.NonFun012|
+|NonFunCtional.NonFun012|!include -h NonFunCtional.NonFun012|
 
 Non funtionals unordered
 !contents -R2 -g -p -f -h

@@ -49,5 +49,5 @@
   
 !2 Managed Office Desktop
 !3 Office Integration
-  * NonFunCtional.NonFunctional023 Office Client is based on Kubuntu14.04.02
+!include -seamless NonFunCtional.NonFun023
   * FunCtional.UseCase0072 KMail for Mail, Calendar and Contacts
