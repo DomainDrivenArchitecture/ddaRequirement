@@ -1,0 +1,16 @@
+!2 Configuration
+
+!3 User and Roles
+  * IT-Operator
+
+!3 Functional Requirements
+  * FunCtional.UseCase0090 CM System validates configuration ahead of configuration.
+  * FunCtional.UseCase0091 CM System reads version of applied configuration from target system.
+  * FunCtional.UseCase0092 CM System writes version of applied configuration to target system.
+
+!3 Non Functional Requirements 
+  * FunCtional.UseCase0093 Configuration can be handled (create, persist, version, change or delete) independent from CM-System.
+  * FunCtional.UseCase0094 Tenant configuration can be handled separated.
+  * FunCtional.UseCase0095 Configuration defines a version per module.
+  * FunCtional.UseCase0096 Configuration defines structure per module.
+  * FunCtional.UseCase0097 Configuration defines validity per module.
