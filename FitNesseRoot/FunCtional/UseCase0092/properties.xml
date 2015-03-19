@@ -2,7 +2,7 @@
 <properties>
 	<Edit>true</Edit>
 	<Files>true</Files>
-	<Help>OpenSource &amp; Architectural cut</Help>
+	<Help>CM System writes version of currently applied configuration to target system.</Help>
 	<LastModifyingUser>mje</LastModifyingUser>
 	<Properties>true</Properties>
 	<RecentChanges>true</RecentChanges>

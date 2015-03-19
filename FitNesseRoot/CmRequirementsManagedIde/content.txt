@@ -25,11 +25,10 @@
 
 !2 Managed IDE
 !3 Operating System
-  * NonFunCtional.NonFunctional022 IDE is based on Xubuntu14.04.02
+  * NonFunCtional.NonFun022 IDE is based on Xubuntu14.04.02
 
 !3 Development Basics
-  * FunCtional.UseCase0088 Diff
-    * meld
+!include -seamless FunCtional.UseCase0088
 
 !3 Java Development
   * FunCtional.UseCase0077 Java
