@@ -11,7 +11,7 @@
   * FunCtional.UseCase0071 Office Suite LibreOffice
   * FunCtional.UseCase0074 VersionManagement
     * clone Plain Repositories
-  * FunCtional.UseCase0076 DesktopWiki
+!include -seamless FunCtional.UseCase0076
 
 !3 Communication
   * FunCtional.UseCase0082 Telegram
