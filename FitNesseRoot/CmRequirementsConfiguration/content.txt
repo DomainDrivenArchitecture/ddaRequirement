@@ -4,7 +4,7 @@
   * IT-Operator
 
 !3 Functional Requirements
-  * FunCtional.UseCase0090 CM System validates configuration ahead of application.
+  * FunCtional.UseCase0090 CM System validates configuration ahead of applying.
   * FunCtional.UseCase0091 CM System reads version of already applied configurations from target system.
 !include -seamless FunCtional.UseCase0092
 
