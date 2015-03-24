@@ -1,3 +1,4 @@
+|NonFunCtional.NonFun012|mje|22:58:14 Tue, Mar 24, 2015|
 |CmRequirementsConfiguration|mje|16:07:53 Fri, Mar 20, 2015|
 |CmRequirementsManagedIde|mje|13:30:32 Fri, Mar 20, 2015|
 |FunCtional.UseCase0076|mje|13:30:00 Fri, Mar 20, 2015|
@@ -21,7 +22,6 @@
 |NonFunCtional.NonFun015|mje|19:07:04 Sun, Mar 08, 2015|
 |NonFunCtional.NonFun014|mje|19:06:51 Sun, Mar 08, 2015|
 |NonFunCtional.NonFun013|mje|19:06:27 Sun, Mar 08, 2015|
-|NonFunCtional.NonFun012|mje|19:06:17 Sun, Mar 08, 2015|
 |OtpFeatureScrumManagement|mje|19:03:38 Sun, Mar 08, 2015|
 |OtpFeatureCalendarSharing|mje|19:03:12 Sun, Mar 08, 2015|
 |CmRequirementsPocPallet|mje|19:01:50 Sun, Mar 08, 2015|
