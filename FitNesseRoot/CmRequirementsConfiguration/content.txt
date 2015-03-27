@@ -7,9 +7,10 @@
 
 !3 Distribution
 !include -seamless NonFunCtional.NonFun012
-
 !3 Dimension Configuration vs. Facts
   * FunCtional.UseCase0091 CM System reads version of already applied configurations from target system.
 !include -seamless FunCtional.UseCase0092
 !3 Dimension Multitenancy
 !include -seamless NonFunCtional.NonFun024
+!3 Multiinstancability
+!include -seamless FunCtional.UseCase0093
