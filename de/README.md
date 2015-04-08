@@ -1,4 +1,4 @@
-# DomainDrivenArchitecture
+# DomainDrivenRequirements
 
 ## Inhaltsverzeichnis
 
