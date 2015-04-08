@@ -33,10 +33,3 @@
   * die gebuchte Zeit pro Kunde
 
 
-#### Meta
->MeTa
-
-
-#### Abnahme Kriterien
->AbnahmeKriterien
-!include -seamless >AbnahmeKriterien

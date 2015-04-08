@@ -17,6 +17,3 @@
  * Der Aktor kann den Leistungsnachweis ausdrucken. 
  * Im Ausdruck werden die Angaben zu Überschuss und Reiseabrechnung nicht ausgegeben.
 
-
-#### Meta
->MeTa

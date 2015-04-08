@@ -23,6 +23,3 @@ der zu kopierenden Daten kompatibel ist:
   * Das System berechnet die Verpflegungskosten (entweder Belegkosten oder pauschal 12 bei Abwesenheit über 8h) und zeigt diese an.
   * Das System berechnet die Tagesspesen und zeigt diese an.
 
-
-#### Meta
->MeTa

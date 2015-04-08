@@ -1,9 +1,12 @@
-!3 UseCase004 Kundenindividuelle Daten erfassen 
-!4 Aktor
+
+### UseCase004 Kundenindividuelle Daten erfassen 
+
+#### Aktor
  * Mitarbeiter 
  * Vorgesetzter
 
-!4 Normaler Ablauf
+
+#### Normaler Ablauf
  * Der Aktor erfasst auf einem separaten Sheet die kundenindividuellen Daten. Diese sind: 
     * Kundenname, 
     * Kontenbezeichnungen, 
@@ -14,11 +17,5 @@
  * Die eingegebenen Werte stehen nach dem Speichern auf dem Sheet zur Zeiterfassung zur Verfügung.
 Weitere Beschreibung erfolgt in UC001
 
-!4 Siehe auch
 
-!4 Meta
->MeTa
 
-!4 Abnahme Tests
->AbnahmeTestUseCase0nn
-!include -seamless >AbnahmeTestUseCase0nn
