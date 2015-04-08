@@ -1,50 +1,59 @@
 
 # Vision
+
 CmTargetAndVision
-!include -seamless CmTargetAndVision
+{% include "./CmTargetAndVision.md" %}
 
 
 # Scope
+
 CmScope
-!include -seamless CmScope
+{% include "./CmScope.md" %}
 
 
 # Open Topics
+
 CmOpenTopics
-!include -seamless CmOpenTopics
+{% include "./CmOpenTopics.md" %}
 
 
 # Roles
+
 CmPersonAndRole
-!include -seamless CmPersonAndRole
+{% include "./CmPersonAndRole.md" %}
 
 
-# Functional Requirements
+# Requirements
+
+{% include "../requirements/UseCase080.md" %}
+{% include "../requirements/UseCase081.md" %}
+{% include "../requirements/UseCase082.md" %}
+{% include "../requirements/UseCase083.md" %}
 
 ## User & SSH
-!include -seamless FunCtional.UseCase020
-!include -seamless FunCtional.UseCase021
+
+{% include "../requirements/UseCase020.md" %}
+{% include "../requirements/UseCase021.md" %}
 
 ## Java & other Dev Tools
-!include -seamless FunCtional.UseCase022
-!include -seamless FunCtional.UseCase023
-!include -seamless FunCtional.UseCase026
-!include -seamless FunCtional.UseCase028
+
+{% include "../requirements/UseCase022.md" %}
+{% include "../requirements/UseCase023.md" %}
+{% include "../requirements/UseCase026.md" %}
+{% include "../requirements/UseCase028.md" %}
 
 ## Eclipse & Plugins
-!include -seamless FunCtional.UseCase024
-!include -seamless FunCtional.UseCase025
+
+{% include "../requirements/UseCase024.md" %}
+{% include "../requirements/UseCase025.md" %}
 
 ## Project Specific Repos
-!include -seamless FunCtional.UseCase027
+
+{% include "../requirements/UseCase027.md" %}
 
 ## Communication
-!include -seamless FunCtional.UseCase029
-!include -seamless FunCtional.UseCase030
+
+{% include "../requirements/UseCase029.md" %}
+{% include "../requirements/UseCase030.md" %}
 
 
-# Non Functional Requirements
-!include -seamless NonFunCtional.NonFunctional010 
-!include -seamless NonFunCtional.NonFunctional011
-!include -seamless NonFunCtional.NonFunctional012
-!include -seamless NonFunCtional.NonFunctional013

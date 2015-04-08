@@ -1,0 +1,1 @@
+* FunCtional.UseCase0072 KMail for Mail, Calendar and Contacts

@@ -1,4 +1,4 @@
- * UseCase0076 DesktopWiki
+ * [UseCase0076](UseCase0076.md) DesktopWiki
 
  * Solution
   * anacron

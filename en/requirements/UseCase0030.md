@@ -1,0 +1,1 @@
+* [UseCase0030](UseCase0030.md) Logging centrally configurable

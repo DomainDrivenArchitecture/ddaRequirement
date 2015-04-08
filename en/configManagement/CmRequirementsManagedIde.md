@@ -2,65 +2,67 @@
 ## Managed Desktop Foundations
 
 ### User Basics
-  * FunCtional.UseCase0082 User and Password
-    * Password is initially set by CM system
- 
+
+{% include "../requirements/UseCase0082.md" %}
 
 ### VM interaction
-  * FunCtional.UseCase0070 VM Integration
-    * Clippboard, Drag&Drop, Resolution Resizing, Shared Folders
+
+{% include "../requirements/UseCase0070.md" %}
 
 
 ### Office Integration
-  * FunCtional.UseCase0071 Office Suite LibreOffice
-  * FunCtional.UseCase0074 VersionManagement
-    * clone Plain Repositories
-!include -seamless FunCtional.UseCase0076
+
+{% include "../requirements/UseCase0071.md" %}
+{% include "../requirements/UseCase0074.md" %}
+{% include "../requirements/UseCase0076.md" %}
 
 
 ### Communication
-  * FunCtional.UseCase0082 Telegram
-  * FunCtional.UseCase0083 google Hangout
-  * FunCtional.UseCase0084 Skype
-  * FunCtional.UseCase0086 MeetingWords
+
+{% include "../requirements/UseCase0083.md" %}
+{% include "../requirements/UseCase0084.md" %}
+{% include "../requirements/UseCase0086.md" %}
+{% include "../requirements/UseCase0087.md" %}
 
 
 ### Convenience
-  * FunCtional.UseCase0081 Bookmarks
-  * FunCtional.UseCase0075 redshift
+
+{% include "../requirements/UseCase0081.md" %}
+{% include "../requirements/UseCase0075.md" %}
 
 
 ## Managed IDE
 
 ### Operating System
-  * NonFunCtional.NonFun022 IDE is based on Xubuntu14.04.02
+
+{% include "../requirements/UseCase0095.md" %}
 
 
 ### Development Basics
-!include -seamless FunCtional.UseCase0088
+
+{% include "../requirements/UseCase0088.md" %}
 
 
 ### Java Development
-  * FunCtional.UseCase0077 Java
-  * FunCtional.UseCase0078 BuildManagement
-    * Leiningen, Gradle, Ant
-  * FunCtional.UseCase0079 UML-Tools
-  * FunCtional.UseCase0080 Eclipse
-    * WorkspaceMechanics
-    * Saros
-    * ProjectSpecific Configurations
 
+{% include "../requirements/UseCase0077.md" %}
+{% include "../requirements/UseCase0078.md" %}
+{% include "../requirements/UseCase0079.md" %}
+{% include "../requirements/UseCase0080.md" %}
 
+ 
 ### Ops
-  * FunCtional.UseCase0073 PasswordUtils
+
+{% include "../requirements/UseCase0073.md" %}
 
 
 ### Communication
-  * FunCtional.UseCase0085 Madeye
-  
+
+{% include "../requirements/UseCase0085.md" %}
 
 ## Managed Office Desktop
 
 ### Office Integration
-!include -seamless NonFunCtional.NonFun023
-  * FunCtional.UseCase0072 KMail for Mail, Calendar and Contacts
+
+{% include "../requirements/UseCase0094.md" %}
+{% include "../requirements/UseCase0072.md" %}

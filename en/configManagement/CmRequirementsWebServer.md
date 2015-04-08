@@ -1,27 +1,27 @@
 
-# Funktionale Anforderungen
+# Requirements	
 
+## Basic Functionality
 
-## Grundfunktionen
-  * FunCtional.UseCase0030 Logging ist zentral konfigurierbar
-  * FunCtional.UseCase0031 Security ist zentral konfigurierbar
-  * FunCtional.UseCase0032 Ports sind zentral konfigurierbar
-  * FunCtional.UseCase0033 Module (ModGnutls, modJk) ist installierbar, defaults sind konfigurierbar
-  * FunCtional.UseCase0037 MaxClients, Uploadgroessen sind konfigurierbar
+{% include "../requirements/UseCase0030.md" %}
+{% include "../requirements.UseCase0031.md" %}
+{% include "../requirements.UseCase0032.md" %}
+{% include "../requirements.UseCase0033.md" %}
+{% include "../requirements.UseCase0037.md" %}
 
 
 ## VHost
-  * FunCtional.UseCase0034 VHost ist NameBased oder IP/Port-Based
-  * FunCtional.UseCase0035 Redidect http-> https
-  * FunCtional.UseCase0036 Document Root ist konfigurierbar
-  * FunCtional.UseCase0038 GnuTls incl. Zertifikate ist konfigurierbar
-  * FunCtional.UseCase0039 Maintainance Page ist konfigurierbar
-  * FunCtional.UseCase0040 GoogleValidation ist installierbar
-  * FunCtional.UseCase0041 ModJk ist konfigurierbar
+
+{% include "../requirements/UseCase0034.md" %}
+{% include "../requirements.UseCase0035.md" %}
+{% include "../requirements.UseCase0036.md" %}
+{% include "../requirements.UseCase0038.md" %}
+{% include "../requirements.UseCase0039.md" %}
+{% include "../requirements.UseCase0040.md" %}
+{% include "../requirements.UseCase0041.md" %}
 
 
-# Nicht funktionale Anforderungen
+## Load Test
 
-## Lasttest
-  * NonFunCtional.NonFunctional020 Logging passt zum Lasttest 
-  * NonFunCtional.NonFunctional021 Sysstat passt zum Lasttest
+{% include "../requirements.UseCase0042.md" %}
+{% include "../requirements.UseCase0043.md" %}

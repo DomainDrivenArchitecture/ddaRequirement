@@ -1,38 +1,41 @@
 
 # Vision
+
 CmTargetAndVision
-!include -seamless CmTargetAndVision
+{% include "./CmTargetAndVision.md" %}
 
 
 # Scope
+
 CmScope
-!include -seamless CmScope
+{% include "./CmScope.md" %}
 
 
 # Open Topics
+
 CmOpenTopics
-!include -seamless CmOpenTopics
+{% include "./CmOpenTopics.md" %}
 
 
 # Roles
+
 CmPersonAndRole
-!include -seamless CmPersonAndRole
+{% include "./CmPersonAndRole.md" %}
 
 
-# Functional Requirements
-!include -seamless FunCtional.UseCase020
-!include -seamless FunCtional.UseCase021
-!include -seamless FunCtional.UseCase022
-!include -seamless FunCtional.UseCase023
-!include -seamless FunCtional.UseCase024
-!include -seamless FunCtional.UseCase025
-!include -seamless FunCtional.UseCase026
-!include -seamless FunCtional.UseCase027
-!include -seamless FunCtional.UseCase028
+# Requirements
 
+{% include "../requirements/UseCase020.md" %}
+{% include "../requirements/UseCase021.md" %}
+{% include "../requirements/UseCase022.md" %}
+{% include "../requirements/UseCase023.md" %}
+{% include "../requirements/UseCase024.md" %}
+{% include "../requirements/UseCase025.md" %}
+{% include "../requirements/UseCase026.md" %}
+{% include "../requirements/UseCase027.md" %}
+{% include "../requirements/UseCase028.md" %}
 
-# Non Functional Requirements
-!include -seamless NonFunCtional.NonFun010 
-!include -seamless NonFunCtional.NonFun011
-!include -seamless NonFunCtional.NonFun012
-!include -seamless NonFunCtional.NonFun013
+{% include "../requirements/UseCase080.md" %}
+{% include "../requirements/UseCase081.md" %}
+{% include "../requirements/UseCase082.md" %}
+{% include "../requirements/UseCase083.md" %}

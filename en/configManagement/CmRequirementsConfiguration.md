@@ -1,23 +1,27 @@
 
 ## User and Roles
-  * IT-Operator
 
+  * IT-Operator
 
 ## Requirements
 
 ### Validation
-  * FunCtional.UseCase0090 CM System validates configuration ahead of applying.
 
+{% include "../requirements/UseCase0090.md" %}
 
 ### Distribution
-!include -seamless NonFunCtional.NonFun012
+
+{% include "../requirements/UseCase082.md" %}
 
 ### Dimension Configuration vs. Facts
-  * FunCtional.UseCase0091 CM System reads version of already applied configurations from target system.
-!include -seamless FunCtional.UseCase0092
+
+{% include "../requirements/.UseCase0091.md" %}
+{% include "../requirements/.UseCase0092.md" %}
 
 ### Dimension Multitenancy
-!include -seamless NonFunCtional.NonFun024
+
+{% include "../requirements.UseCase084.md" %}
 
 ### Multiinstancability
-!include -seamless FunCtional.UseCase0093
+
+{% include "../requirements/UseCase0093.md" %}

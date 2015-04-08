@@ -1,4 +1,0 @@
-
-### NonFun002 Einfügen von Zeilen
-
-Das einfügen neuer Zeilen im Bereich der Arbeitszeiterfassung muss möglich sein, ohne danach manuelle Bezüge für Formeln korrigieren zu müssen.
