@@ -33,6 +33,7 @@
 ### Convenience
 
 {% include "../requirements/UseCase0081.md" %}
+
 {% include "../requirements/UseCase0075.md" %}
 
 
@@ -51,8 +52,11 @@
 ### Java Development
 
 {% include "../requirements/UseCase0077.md" %}
+
 {% include "../requirements/UseCase0078.md" %}
+
 {% include "../requirements/UseCase0079.md" %}
+
 {% include "../requirements/UseCase0080.md" %}
 
  
@@ -70,4 +74,5 @@
 ### Office Integration
 
 {% include "../requirements/UseCase0094.md" %}
+
 {% include "../requirements/UseCase0072.md" %}
