@@ -13,15 +13,20 @@
 ### Office Integration
 
 {% include "../requirements/UseCase0071.md" %}
+
 {% include "../requirements/UseCase0074.md" %}
+
 {% include "../requirements/UseCase0076.md" %}
 
 
 ### Communication
 
 {% include "../requirements/UseCase0083.md" %}
+
 {% include "../requirements/UseCase0084.md" %}
+
 {% include "../requirements/UseCase0086.md" %}
+
 {% include "../requirements/UseCase0087.md" %}
 
 

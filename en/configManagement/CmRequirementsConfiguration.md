@@ -16,6 +16,7 @@
 ### Dimension Configuration vs. Facts
 
 {% include "../requirements/.UseCase0091.md" %}
+
 {% include "../requirements/.UseCase0092.md" %}
 
 ### Dimension Multitenancy
