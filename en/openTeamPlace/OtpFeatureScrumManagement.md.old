@@ -1,0 +1,22 @@
+!1 Person and Role
+OtpPersonAndRole
+!include -seamless OtpPersonAndRole
+
+!1 Functional Requirements
+ * FunCtional.UseCase043 ProductOwner creates UserStories in backlog / future sprints
+ * FunCtional.UseCase044 ScrumMaster defines sprints
+ * FunCtional.UseCase045 TeamMembers estimate UserStories with StoryPoints
+ * FunCtional.UseCase046 TeamMembers create Tasks for UserStories
+ * FunCtional.UseCase047 TeamMembers estimate Tasks
+ * FunCtional.UseCase048 System shows summed up StoryPoints per Sprint
+ * FunCtional.UseCase049 ScrumMaster or PO can add UserStories to Sprints
+ * FunCtional.UseCase050 ScrumMaster or PO can start a Sprint
+ * FunCtional.UseCase051 TeamMember process Tasks (at least open -> in progress -> closed)
+ * FunCtional.UseCase052 TeamMember log work (time, remaining, comment)
+ * FunCtional.UseCase053 System shows activity log.
+ * FunCtional.UseCase054 System shows remaining work and hours worked per sprint
+
+!1 Non Functional Requirements
+!include -seamless NonFunCtional.NonFun018
+!include -seamless NonFunCtional.NonFun019
+!include -seamless NonFunCtional.NonFun020

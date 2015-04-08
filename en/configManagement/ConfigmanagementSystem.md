@@ -1,0 +1,50 @@
+
+# Vision
+CmTargetAndVision
+!include -seamless CmTargetAndVision
+
+
+# Scope
+CmScope
+!include -seamless CmScope
+
+
+# Open Topics
+CmOpenTopics
+!include -seamless CmOpenTopics
+
+
+# Roles
+CmPersonAndRole
+!include -seamless CmPersonAndRole
+
+
+# Functional Requirements
+
+## User & SSH
+!include -seamless FunCtional.UseCase020
+!include -seamless FunCtional.UseCase021
+
+## Java & other Dev Tools
+!include -seamless FunCtional.UseCase022
+!include -seamless FunCtional.UseCase023
+!include -seamless FunCtional.UseCase026
+!include -seamless FunCtional.UseCase028
+
+## Eclipse & Plugins
+!include -seamless FunCtional.UseCase024
+!include -seamless FunCtional.UseCase025
+
+## Project Specific Repos
+!include -seamless FunCtional.UseCase027
+
+## Communication
+!include -seamless FunCtional.UseCase029
+!include -seamless FunCtional.UseCase030
+
+
+# Non Functional Requirements
+!include -seamless NonFunCtional.NonFunctional010 
+!include -seamless NonFunCtional.NonFunctional011
+!include -seamless NonFunCtional.NonFunctional012
+!include -seamless NonFunCtional.NonFunctional013

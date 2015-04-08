@@ -1,0 +1,1 @@
+ * [UseCase042](UseCase042.md) User share calendar with other guests.

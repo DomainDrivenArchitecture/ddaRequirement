@@ -1,0 +1,19 @@
+!1 Zielsetzung und Vision
+!include -seamless ZeiterfassungVision
+
+!1 Abgrenzung
+!include -seamless ZeiterfassungScope
+
+!1 Funktionale Anforderungen
+!2 Lauffende Erfassung
+!include -seamless FunCtional.UseCase001
+
+!2 Monatliche Abrechnung
+!include -seamless FunCtional.UseCase002
+!include -seamless FunCtional.UseCase003
+
+!2 Verwaltungsaufgaben
+!include -seamless FunCtional.UseCase004
+
+!1 Glossar
+!include -seamless GlosSar

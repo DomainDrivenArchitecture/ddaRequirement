@@ -1,0 +1,1 @@
+ * [UseCase066](UseCase066.md) TeamMember process Tasks (at least open -> in progress -> closed)
