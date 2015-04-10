@@ -1,0 +1,25 @@
+
+### UseCase002 Mitarbeiter macht die monatliche Spesenabrechnung
+
+
+#### Aktor
+ * Mitarbeiter
+
+
+#### Stakeholder und deren Interessen
+ * Mitarbeiter möchte die Spesenabrechnung konsistent und einfach erstellen können
+
+
+#### Normaler Ablauf
+ * Der Aktor kopiert (Datum, Begin- und End-Uhrzeiten, Reisekosten: Ort, Reisekosten: KM, Reisekosten: Kosten) und fügt diese Daten in seine Spesenabrechnung ein. 
+
+Die folgende Beschreibung ist Gegenstand des Systems zur Spesenabrechnung, also außerhalb des Scopes der Zeiterfassung. Wichtig ist nur, dass der Aufbau der zu kopierenden Daten kompatibel ist:
+  * Das System berechnet die Abwesenheitszeit (End - Beginzeit + KM / 60 ) und zeigt diese an.
+  * Das System berechnet die Fahrkosten (Belegkosten + KM * 0,30 ) und zeigt diese an.
+ * Der Aktor kopiert (Bewirtungskosten) und fügt diese Daten in seine Spesenabrechnung ein.
+
+Die folgende Beschreibung ist Gegenstand des Systems zur Spesenabrechnung, also außerhalb des Scopes der Zeiterfassung. Wichtig ist nur, dass der Aufbau 
+der zu kopierenden Daten kompatibel ist:
+  * Das System berechnet die Verpflegungskosten (entweder Belegkosten oder pauschal 12 bei Abwesenheit über 8h) und zeigt diese an.
+  * Das System berechnet die Tagesspesen und zeigt diese an.
+
