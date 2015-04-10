@@ -1,23 +1,23 @@
 
 # Zielsetzung und Vision
-{% include "./timeLoggingVision.md" %}
+{% include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/timeLogging/timeLoggingVision.md" %}
 
 
 # Abgrenzung
-{% include "./timeLoggingScope.md" %}
+{% include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/timeLogging/timeLoggingScope.md" %}
 
 
 # Anforderungen
 
 ## Lauffende Erfassung
-{% include "../requirements/UseCase001.md" %}
+{% include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/requirements/UseCase001.md" %}
 
 
 ## Monatliche Abrechnung
-{% include "../requirements/UseCase002.md" %}
+{% include "include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/requirements/UseCase002.md" %}
 
-{% include "../requirements/UseCase003.md" %}
+{% include "include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/requirements/UseCase003.md" %}
 
 
 ## Verwaltungsaufgaben
-{% include "../requirements/UseCase004.md" %}
+{% include "include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/requirements/UseCase004.md" %}
