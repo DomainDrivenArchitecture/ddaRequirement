@@ -1,0 +1,1 @@
+* [UseCase0091](UseCase0091.md) CM System reads version of already applied configurations from target system.

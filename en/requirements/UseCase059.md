@@ -1,0 +1,1 @@
+ * [UseCase059](UseCase059.md) ScrumMaster defines sprints

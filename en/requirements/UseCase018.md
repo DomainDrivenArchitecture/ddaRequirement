@@ -1,0 +1,1 @@
+[UseCase018](./UseCase018.md)  Applikations-Artefakte können dezentral bearbeitet werden

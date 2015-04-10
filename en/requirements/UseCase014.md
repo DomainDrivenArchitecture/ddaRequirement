@@ -1,0 +1,1 @@
+ [UseCase014](./UseCase014.md)  Applikations-Artefakte lassen sich nur autorisiert zugreifen

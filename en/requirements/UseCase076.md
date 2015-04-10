@@ -1,0 +1,1 @@
+ * [UseCase076](UseCase076.md) All conf participants can read / write synchronous but independent in an project
