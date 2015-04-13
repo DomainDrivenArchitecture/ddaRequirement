@@ -1,10 +1,10 @@
 
 ## System Zeiterfassung
-[10 Vision](http://dda.gitbooks.io/domaindrivenrequirements/content/en/timeLogging/timeLoggingVision.md)
+[10 Vision](timeLogging/timeLoggingVision.md)
 
-[11 Abgrenzung](http://dda.gitbooks.io/domaindrivenrequirements/content/en/timeLogging/timeLoggingScope.md)
+[11 Abgrenzung](timeLogging/timeLoggingScope.md)
 
-[13 Stakeholder](http://dda.gitbooks.io/domaindrivenrequirements/content/en/timeLogging/timeLoggingStakeholders.md)
+[13 Stakeholder](timeLogging/timeLoggingStakeholders.md)
 
-[51 Anforderungen an eine Zeiterfassung](http://dda.gitbooks.io/domaindrivenrequirements/content/en/timeLogging/timeLoggingRequirements.md)
+[51 Anforderungen an eine Zeiterfassung](timeLogging/timeLoggingRequirements.md)
 
