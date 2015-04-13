@@ -7,5 +7,6 @@
 * [TimeLogging](timeLogging/SUMMARY.md)
    * 10 Vision
    * 11 Abgrenzung
+   * Stakeholder
 * [Books License](LICENSE.md)
 
