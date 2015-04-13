@@ -6,6 +6,5 @@
 * [SemanticALM](semanticALM/SUMMARY.md)
 * [TimeLogging](timeLogging/SUMMARY.md)
 {% include "./timeLogging/SUMMARY.md" %} 
-{% include "./timeLogging/timeLoggingVision.md" %}
 * [Books License](LICENSE.md)
 
