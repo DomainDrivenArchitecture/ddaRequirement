@@ -44,6 +44,5 @@
    * [51 Anforderungen an eine Zeiterfassung](timeLogging/timeLoggingRequirements.md)
 
 
-* [UseCasesUnordered](UseCasesUnordered/SUMMARY.md)
 * [Books License](LICENSE.md)
 
