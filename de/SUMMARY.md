@@ -1,7 +1,7 @@
 # Summary
 
 
-* [SemanticALM](semanticALM/SUMMARY.html)
+* [SemanticALM](semanticALM/SUMMARY.md)
 
 * [Zeiterfassung](timeLogging/SUMMARY.md)
 
