@@ -16,7 +16,7 @@
 
 ## Grundfunktionen
 
-### [UseCase005](./UseCase005.md) 
+### [UseCase005](UseCase005.md) 
 
 
 ## Spezifische Funktionen für Anforderungen
