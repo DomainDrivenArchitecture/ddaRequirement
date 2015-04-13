@@ -15,13 +15,13 @@
 
 ### Dimension Configuration vs. Facts
 
-{% include "../requirements/.UseCase0091.md" %}
+{% include "../requirements/UseCase0091.md" %}
 
-{% include "../requirements/.UseCase0092.md" %}
+{% include "../requirements/UseCase0092.md" %}
 
 ### Dimension Multitenancy
 
-{% include "../requirements.UseCase084.md" %}
+{% include "../requirements/UseCase084.md" %}
 
 ### Multiinstancability
 
