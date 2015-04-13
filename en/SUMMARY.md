@@ -38,10 +38,18 @@
    * [19 Glossar](semanticALM/AlmGlossar.md)
    * [52 Anforderungen zum RE](semanticALM/AnforderungenRequirementsEngineering.md)
 * [TimeLogging](timeLogging/SUMMARY.md)
+<<<<<<< HEAD
    * [10 Vision](timeLogging/timeLoggingVision.md)
    * [11 Abgrenzung](timeLogging/timeLoggingScope.md)
    * [13 Stakeholder](timeLogging/timeLoggingStakeholders.md)
    * [51 Anforderungen an eine Zeiterfassung](timeLogging/timeLoggingRequirements.md)
+=======
+    * [10 Vision](timeLogging/timeLoggingVision.md)
+    * [11 Abgrenzung](timeLogging/timeLoggingScope.md)
+    * [13 Stakeholder](timeLogging/timeLoggingStakeholders.md)
+    * [51 Anforderungen an eine Zeiterfassung](timeLogging/timeLoggingRequirements.md)
+* [Books License](LICENSE.md)
+>>>>>>> 3e54eb941aeee18fd9cbafccfa6cc1fc899829d2
 
 
 * [Books License](LICENSE.md)
