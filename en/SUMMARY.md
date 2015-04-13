@@ -10,6 +10,4 @@
 
 * [Books License](LICENSE.md)
 
-#Test Include
-## Verwaltungsaufgaben
-{% include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/requirements/UseCase004.md" %}
+
