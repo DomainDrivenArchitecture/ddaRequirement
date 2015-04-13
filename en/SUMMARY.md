@@ -9,8 +9,3 @@
 * [TimeLogging](timeLogging/SUMMARY.md)
 
 * [Books License](LICENSE.md)
-
-
-Test:
-
-{% include "http://dda.gitbooks.io/domaindrivenrequirements/content/de/timeLogging/timeLoggingVision.md" %}
