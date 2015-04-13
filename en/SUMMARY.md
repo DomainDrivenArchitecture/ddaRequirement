@@ -1,7 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-   * UseCasesUnorderd
 * [ConfigManagement](configManagement/SUMMARY.md)
    * [10 Visions](configManagement/CmTargetAndVision.md)
    * [11 Scope](configManagement/CmScope.md)
