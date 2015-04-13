@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [ConfigManagement](configManagement/SUMMARY.md)
     * [10 Visions](configManagement/CmTargetAndVision.md)
     * [11 Scope](configManagement/CmScope.md)
