@@ -1,1 +1,1 @@
- * [UseCase0079](UseCase0079.md) UML-Tools
+ * [UseCase0079](../requirements/UseCase0079.md) UML-Tools

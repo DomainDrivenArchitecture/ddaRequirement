@@ -1,1 +1,1 @@
- * [UseCase064](UseCase064.md) ScrumMaster or PO can add UserStories to Sprints
+ * [UseCase064](../requirements/UseCase064.md) ScrumMaster or PO can add UserStories to Sprints

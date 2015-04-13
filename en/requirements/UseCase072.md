@@ -1,1 +1,1 @@
- * [UseCase072](UseCase072.md) User show his screen to others
+ * [UseCase072](../requirements/UseCase072.md) User show his screen to others

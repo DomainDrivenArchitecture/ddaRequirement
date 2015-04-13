@@ -1,1 +1,1 @@
-  * [UseCase0033](UseCase0033.md) Modules (ModGnutls, modJk) are installable, defaults are configurable
+  * [UseCase0033](../requirements/UseCase0033.md) Modules (ModGnutls, modJk) are installable, defaults are configurable

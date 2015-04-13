@@ -1,1 +1,1 @@
-[UseCase016](./UseCase016.md)  Applikations-Artefakte sind mehrsprachenfähig
+[UseCase016](../requirements/UseCase016.md)  Applikations-Artefakte sind mehrsprachenfähig

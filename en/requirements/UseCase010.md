@@ -1,1 +1,1 @@
-[UseCase010](./UseCase010.md)  Include eines Applikations-Artefakt-Titels
+[UseCase010](../requirements/UseCase010.md)  Include eines Applikations-Artefakt-Titels

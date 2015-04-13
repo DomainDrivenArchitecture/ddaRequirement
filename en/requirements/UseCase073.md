@@ -1,1 +1,1 @@
- * [UseCase073](UseCase073.md) User talk by VoIp to others
+ * [UseCase073](../requirements/UseCase073.md) User talk by VoIp to others

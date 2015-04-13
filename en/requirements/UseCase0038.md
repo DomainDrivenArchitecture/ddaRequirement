@@ -1,1 +1,1 @@
-  * [UseCase0038](UseCase0038.md) GnuTls incl. certificates are configurable
+  * [UseCase0038](../requirements/UseCase0038.md) GnuTls incl. certificates are configurable

@@ -1,1 +1,1 @@
- * [UseCase042](UseCase042.md) User share calendar with other guests.
+ * [UseCase042](../requirements/UseCase042.md) User share calendar with other guests.

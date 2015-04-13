@@ -1,4 +1,4 @@
- * [UseCase021](UseCase021.md) install & configure ssh
+ * [UseCase021](../requirements/UseCase021.md) install & configure ssh
   * The CM system should configure the ssh server that
    * the server accepts only public/private key communication
    * ClientAliveInterval 30, ClientAliveCountMax 120 

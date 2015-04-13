@@ -1,1 +1,1 @@
-  * [UseCase0032](UseCase0032.md) Ports are centrally configurable
+  * [UseCase0032](../requirements/UseCase0032.md) Ports are centrally configurable

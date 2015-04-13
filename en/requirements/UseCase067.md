@@ -1,1 +1,1 @@
- * [UseCase067](UseCase067.md) TeamMember log work (time, remaining, comment)
+ * [UseCase067](../requirements/UseCase067.md) TeamMember log work (time, remaining, comment)

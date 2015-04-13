@@ -1,1 +1,1 @@
- * [UseCase065](UseCase065.md) ScrumMaster or PO can start a Sprint
+ * [UseCase065](../requirements/UseCase065.md) ScrumMaster or PO can start a Sprint

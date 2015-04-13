@@ -1,1 +1,1 @@
- * [UseCase033](UseCase033.md) Synchronization works fast
+ * [UseCase033](../requirements/UseCase033.md) Synchronization works fast

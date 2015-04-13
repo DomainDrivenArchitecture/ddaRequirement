@@ -1,1 +1,1 @@
- * [UseCase078](UseCase078.md) webconf works without additional browser plugin
+ * [UseCase078](../requirements/UseCase078.md) webconf works without additional browser plugin

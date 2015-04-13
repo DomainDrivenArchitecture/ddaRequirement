@@ -1,1 +1,1 @@
-* FunCtional.UseCase0072 KMail for Mail, Calendar and Contacts
+* [UseCase0072](../requirements/UseCase0072.md) KMail for Mail, Calendar and Contacts

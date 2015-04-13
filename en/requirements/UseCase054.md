@@ -1,1 +1,1 @@
- * [UseCase054](UseCase054.md) User share files / directories to other guests by link & password
+ * [UseCase054](../requirements/UseCase054.md) User share files / directories to other guests by link & password

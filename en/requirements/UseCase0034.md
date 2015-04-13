@@ -1,1 +1,1 @@
-  * [UseCase0034](UseCase0034.md) VHost is NameBased or IP/Port-Based
+  * [UseCase0034](../requirements/UseCase0034.md) VHost is NameBased or IP/Port-Based

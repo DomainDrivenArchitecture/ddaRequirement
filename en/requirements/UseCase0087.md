@@ -1,1 +1,1 @@
-  * [UseCase0087](UseCase0087.md) Telegram
+  * [UseCase0087](../requirements/UseCase0087.md) Telegram

@@ -1,1 +1,1 @@
-[UseCase006](./UseCase006.md)  Zu Anforderungen können Abnahmekriterien definiert werden
+[UseCase006](../requirements/UseCase006.md)  Zu Anforderungen können Abnahmekriterien definiert werden

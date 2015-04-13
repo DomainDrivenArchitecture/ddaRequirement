@@ -1,1 +1,1 @@
-  * [UseCase0040](UseCase0040.md) GoogleValidation is installable
+  * [UseCase0040](../requirements/UseCase0040.md) GoogleValidation is installable

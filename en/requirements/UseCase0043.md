@@ -1,1 +1,1 @@
-* [UseCase0043](UseCase0043.md) Sysstat fits the load test
+* [UseCase0043](../requirements/UseCase0043.md) Sysstat fits the load test

@@ -1,1 +1,1 @@
- * [UseCase060](UseCase060.md) TeamMembers estimate UserStories with StoryPoints
+ * [UseCase060](../requirements/UseCase060.md) TeamMembers estimate UserStories with StoryPoints

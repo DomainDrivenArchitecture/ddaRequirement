@@ -1,4 +1,4 @@
-[UseCase082](./UseCase082.md)
+[UseCase082](../requirements/UseCase082.md)
  * Configuration Distribution
   * System pushes configuration from a central system to nodes.
    * Configuration receiver has the following prerequisites:

@@ -1,1 +1,1 @@
-  * [UseCase0039](UseCase0039.md) Maintainance Page is configurable
+  * [UseCase0039](../requirements/UseCase0039.md) Maintainance Page is configurable

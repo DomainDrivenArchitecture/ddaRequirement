@@ -1,1 +1,1 @@
-  * [UseCase0075](UseCase0075.md) redshift
+  * [UseCase0075](../requirements/UseCase0075.md) redshift

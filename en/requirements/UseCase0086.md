@@ -1,1 +1,1 @@
-  * [UseCase0086](UseCase0086.md) MeetingWords
+  * [UseCase0086](../requirements/UseCase0086.md) MeetingWords

@@ -1,3 +1,3 @@
- * [UseCase0088](UseCase0088.md) Diff
+ * [UseCase0088](../requirements/UseCase0088.md) Diff
     * meld
 

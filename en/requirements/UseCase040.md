@@ -1,1 +1,1 @@
- * [UseCase040](UseCase040.md) User request a calendar/adressbook entry by caldav.
+ * [UseCase040](../requirements/UseCase040.md) User request a calendar/adressbook entry by caldav.
