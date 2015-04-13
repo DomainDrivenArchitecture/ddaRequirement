@@ -1,11 +1,11 @@
 # Summary
 
-* [ConfigManagement](./configManagement/SUMMARY.md)
+* [ConfigManagement](configManagement/SUMMARY.md)
 
-* [OpenTeamPlace](./openTeamPlace/SUMMARY.md)
+* [OpenTeamPlace](openTeamPlace/SUMMARY.md)
 
-* [SemanticALM](./semanticALM/SUMMARY.md)
+* [SemanticALM](semanticALM/SUMMARY.md)
 
-* [TimeLogging](./timeLogging/SUMMARY.md)
+* [TimeLogging](timeLogging/SUMMARY.md)
 
 * [Books License](LICENSE.md)
