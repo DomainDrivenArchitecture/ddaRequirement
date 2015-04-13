@@ -1,8 +1,8 @@
 # Summary
 
 
-* [SemanticALM](./semanticALM/SUMMARY.md)
+* [SemanticALM](semanticALM/SUMMARY.md)
 
-* [Zeiterfassung](./timeLogging/SUMMARY.md)
+* [Zeiterfassung](timeLogging/SUMMARY.md)
 
 * [Buch Lizenz](LICENSE.md)
