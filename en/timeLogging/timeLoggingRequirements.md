@@ -4,7 +4,7 @@
 
 
 # Abgrenzung
-{% include "/timeLogging/timeLoggingScope.md" %}
+{% include "timeLogging/timeLoggingScope.md" %}
 
 
 # Anforderungen
