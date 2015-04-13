@@ -6,5 +6,6 @@
 * [SemanticALM](semanticALM/SUMMARY.md)
 * [TimeLogging](timeLogging/SUMMARY.md)
    * 10 Vision
+   * 11 Abgrenzung
 * [Books License](LICENSE.md)
 
