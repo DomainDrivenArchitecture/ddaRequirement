@@ -12,7 +12,6 @@
 ## Lauffende Erfassung
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase001.md" %}
 
-
 ## Monatliche Abrechnung
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase002.md" %}
 
