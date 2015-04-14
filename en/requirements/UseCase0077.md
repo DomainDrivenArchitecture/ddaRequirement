@@ -1,1 +1,1 @@
-  * [UseCase0077](../requirements/UseCase0077.md) Java
+  * [UseCase0077](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0077.md) Java

@@ -1,1 +1,1 @@
-  * [UseCase0040](../requirements/UseCase0040.md) GoogleValidation is installable
+  * [UseCase0040](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0040.md) GoogleValidation is installable

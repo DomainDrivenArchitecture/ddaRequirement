@@ -1,1 +1,1 @@
- * [UseCase068](../requirements/UseCase068.md) System shows activity log.
+ * [UseCase068](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase068.md) System shows activity log.

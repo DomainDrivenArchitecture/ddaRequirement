@@ -1,4 +1,4 @@
- * [UseCase0076](../requirements/UseCase0076.md) DesktopWiki
+ * [UseCase0076](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0076.md) DesktopWiki
 
  * Solution
   * anacron

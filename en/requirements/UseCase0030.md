@@ -1,1 +1,1 @@
-* [UseCase0030](../requirements/UseCase0030.md) Logging centrally configurable
+* [UseCase0030](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0030.md) Logging centrally configurable

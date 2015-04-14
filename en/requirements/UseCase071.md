@@ -1,1 +1,1 @@
- * [UseCase071](../requirements/UseCase071.md) User share a link to other users / guests for a sheduled meeting
+ * [UseCase071](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase071.md) User share a link to other users / guests for a sheduled meeting

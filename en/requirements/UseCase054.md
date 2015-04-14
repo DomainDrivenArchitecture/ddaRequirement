@@ -1,1 +1,1 @@
- * [UseCase054](../requirements/UseCase054.md) User share files / directories to other guests by link & password
+ * [UseCase054](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase054.md) User share files / directories to other guests by link & password

@@ -1,1 +1,1 @@
- * [UseCase050](../requirements/UseCase050.md) System synchronizes user changed files & directories with central File Sharing Server.
+ * [UseCase050](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase050.md) System synchronizes user changed files & directories with central File Sharing Server.

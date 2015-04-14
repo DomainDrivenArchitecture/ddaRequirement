@@ -1,1 +1,1 @@
- * [UseCase076](../requirements/UseCase076.md) All conf participants can read / write synchronous but independent in an project
+ * [UseCase076](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase076.md) All conf participants can read / write synchronous but independent in an project

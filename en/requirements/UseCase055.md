@@ -1,1 +1,1 @@
- * [UseCase055](../requirements/UseCase055.md) User search for name or content of files / directories
+ * [UseCase055](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase055.md) User search for name or content of files / directories

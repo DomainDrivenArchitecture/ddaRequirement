@@ -1,5 +1,5 @@
 
-### [UseCase002](../requirements/UseCase002.md) Mitarbeiter macht die monatliche Spesenabrechnung
+### [UseCase002](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase002.md) Mitarbeiter macht die monatliche Spesenabrechnung
 
 
 #### Aktor

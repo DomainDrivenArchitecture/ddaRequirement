@@ -1,1 +1,1 @@
- * [UseCase067](../requirements/UseCase067.md) TeamMember log work (time, remaining, comment)
+ * [UseCase067](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase067.md) TeamMember log work (time, remaining, comment)

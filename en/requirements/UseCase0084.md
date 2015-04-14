@@ -1,1 +1,1 @@
-  * [UseCase0084](../requirements/UseCase0084.md) Skype
+  * [UseCase0084](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0084.md) Skype

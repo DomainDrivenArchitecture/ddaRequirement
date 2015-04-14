@@ -1,5 +1,5 @@
 
-### [UseCase004](../requirements/UseCase004.md) Kundenindividuelle Daten erfassen 
+### [UseCase004](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase004.md) Kundenindividuelle Daten erfassen 
 
 #### Aktor
  * Mitarbeiter 

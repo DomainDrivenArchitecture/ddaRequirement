@@ -1,1 +1,1 @@
-[UseCase018](../requirements/UseCase018.md)  Applikations-Artefakte können dezentral bearbeitet werden
+[UseCase018](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase018.md)  Applikations-Artefakte können dezentral bearbeitet werden

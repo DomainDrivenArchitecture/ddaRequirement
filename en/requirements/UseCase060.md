@@ -1,1 +1,1 @@
- * [UseCase060](../requirements/UseCase060.md) TeamMembers estimate UserStories with StoryPoints
+ * [UseCase060](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase060.md) TeamMembers estimate UserStories with StoryPoints

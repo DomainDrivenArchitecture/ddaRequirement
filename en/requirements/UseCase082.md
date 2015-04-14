@@ -1,4 +1,4 @@
-[UseCase082](../requirements/UseCase082.md)
+[UseCase082](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase082.md)
  * Configuration Distribution
   * System pushes configuration from a central system to nodes.
    * Configuration receiver has the following prerequisites:

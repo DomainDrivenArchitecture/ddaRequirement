@@ -1,1 +1,1 @@
-  * [UseCase0039](../requirements/UseCase0039.md) Maintainance Page is configurable
+  * [UseCase0039](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0039.md) Maintainance Page is configurable

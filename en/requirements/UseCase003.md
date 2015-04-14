@@ -1,5 +1,5 @@
 
-### [UseCase003](../requirements/UseCase003.md) Mitarbeiter erstellt einen Kunden-Leistungsnachweis
+### [UseCase003](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase003.md) Mitarbeiter erstellt einen Kunden-Leistungsnachweis
 
 #### Aktor
  * Mitarbeiter

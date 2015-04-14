@@ -1,1 +1,1 @@
-  * [UseCase0095](../requirements/UseCase0095.md) IDE is based on Xubuntu14.04.02
+  * [UseCase0095](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0095.md) IDE is based on Xubuntu14.04.02

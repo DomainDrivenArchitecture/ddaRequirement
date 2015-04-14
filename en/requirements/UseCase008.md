@@ -1,1 +1,1 @@
-[UseCase008](../requirements/UseCase008.md)  Include von Anforderungsmetadaten
+[UseCase008](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase008.md)  Include von Anforderungsmetadaten

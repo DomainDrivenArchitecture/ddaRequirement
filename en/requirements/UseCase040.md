@@ -1,1 +1,1 @@
- * [UseCase040](../requirements/UseCase040.md) User request a calendar/adressbook entry by caldav.
+ * [UseCase040](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase040.md) User request a calendar/adressbook entry by caldav.

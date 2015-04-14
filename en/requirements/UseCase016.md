@@ -1,1 +1,1 @@
-[UseCase016](../requirements/UseCase016.md)  Applikations-Artefakte sind mehrsprachenfähig
+[UseCase016](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase016.md)  Applikations-Artefakte sind mehrsprachenfähig

@@ -1,1 +1,1 @@
-* [UseCase0091](../requirements/UseCase0091.md) CM System reads version of already applied configurations from target system.
+* [UseCase0091](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0091.md) CM System reads version of already applied configurations from target system.

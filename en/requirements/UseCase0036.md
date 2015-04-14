@@ -1,1 +1,1 @@
-  * [UseCase0036](../requirements/UseCase0036.md) Document Root is configurable
+  * [UseCase0036](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0036.md) Document Root is configurable

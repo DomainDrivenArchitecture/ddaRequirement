@@ -1,1 +1,1 @@
- * [UseCase072](../requirements/UseCase072.md) User show his screen to others
+ * [UseCase072](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase072.md) User show his screen to others

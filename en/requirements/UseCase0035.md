@@ -1,1 +1,1 @@
-  * [UseCase0035](../requirements/UseCase0035.md) Redirect http-> https
+  * [UseCase0035](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0035.md) Redirect http-> https

@@ -1,1 +1,1 @@
- * [UseCase074](../requirements/UseCase074.md) User chat to others
+ * [UseCase074](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase074.md) User chat to others

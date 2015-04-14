@@ -1,1 +1,1 @@
-[UseCase015](../requirements/UseCase015.md)  Das System bietet eine openId Integration
+[UseCase015](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase015.md)  Das System bietet eine openId Integration
