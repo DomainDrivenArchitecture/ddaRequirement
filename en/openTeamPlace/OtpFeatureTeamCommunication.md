@@ -2,7 +2,6 @@
 # Person and Role
 
 [14 Person and Roles](OtpPersonAndRole.md)
-
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/openTeamPlace/OtpPersonAndRole.md" %}
 
 
