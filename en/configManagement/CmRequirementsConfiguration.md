@@ -11,7 +11,7 @@
 
 ### Distribution
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase082.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0182.md" %}
 
 ### Dimension Configuration vs. Facts
 
@@ -21,7 +21,7 @@
 
 ### Dimension Multitenancy
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase084.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0184.md" %}
 
 ### Multiinstancability
 
