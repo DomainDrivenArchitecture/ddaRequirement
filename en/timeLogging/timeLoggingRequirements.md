@@ -4,7 +4,7 @@
 
 
 # Abgrenzung
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement/en/timeLogging.git/timeLoggingScope.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/timeLogging/timeLoggingScope.md" %}
 
 
 # Anforderungen
