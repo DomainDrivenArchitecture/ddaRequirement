@@ -12,22 +12,8 @@
    * [61 Requirements for Module "Configuration"](configManagement/CmRequirementsConfiguration.md)
    * [65 Requirements for Module "http Server"](configManagement/CmRequirementsWebServer.md)
    * [90 Requirements for Module "Managed IDE"](configManagement/CmRequirementsManagedIde.md)
-* [OpenTeamPlace](openTeamPlace/SUMMARY.md)
-   * [10 Visions](openTeamPlace/OtpTargetAndVision.md)
-   * [11 Scope](openTeamPlace/OtpScope.md)
-   * [13 Stakeholder](openTeamPlace/OtpStakeholders.md)
-   * [14 Person and Roles](openTeamPlace/OtpPersonAndRole.md)
-   * [19 Glossary](openTeamPlace/OtpGlossary.md)
-   * [50 Feature File Sharing](openTeamPlace/OtpFeatureFileSharing.md)
-   * [51 Feature Calendar / Contact Sharing](openTeamPlace/OtpFeatureCalendarSharing.md)
-   * [53 Feature Scrum Management](openTeamPlace/OtpFeatureScrumManagement.md)
-   * [54 Feature Team Communication](openTeamPlace/OtpFeatureTeamCommunication.md)
-   * [55 Feature Version Management](openTeamPlace/OtpFeatureVersionManagement.md)
-   * [56 Feature Requirements & Architectur Management](openTeamPlace/OtpFeatureAlmManagement.md)
-   * [70 Feature Security](openTeamPlace/)
-   * [71 Feature Interoperability](openTeamPlace/OtpFeatureInteroperability.md)
-   * [72 Feature Identity Management](openTeamPlace/OtpFeatureIdentityManagement.md)
-   * [73 Feature Operability](openTeamPlace/OtpFeatureOperability.md)
+
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/openTeamPlace/SUMMARY.md" %} 
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/semanticALM/SUMMARY.md" %} 
 
