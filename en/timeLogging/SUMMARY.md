@@ -1,4 +1,4 @@
-* [TimeLogging](http://dda.gitbooks.io/domaindrivenrequirements/content/en/timeLogging/SUMMARY.html)
+* [TimeLogging](timeLogging/SUMMARY.md)
    * [10 Vision](timeLogging/timeLoggingVision.md)
    * [11 Abgrenzung](timeLogging/timeLoggingScope.md)
    * [13 Stakeholder](timeLogging/timeLoggingStakeholders.md)
