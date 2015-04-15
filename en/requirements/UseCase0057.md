@@ -1,1 +1,1 @@
- *[UseCase0057](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0057.md) User restore deleted versions of an file
+ * [UseCase0057](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0057.md) User restore deleted versions of an file
