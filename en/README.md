@@ -19,7 +19,7 @@ This however does not work. This is because when building the book, the builder 
 Here, the problem begins: 
 
 * When a low level SUMMARY.md has a link to an .html file, the file will never be created. Thus we will end up with 404, no page found errors, when clicking on the link.
-* When a low level SUMMARY.md has a link to an .md file, also no .html file will be created, however there is a link to the .md content, which can for example be downloaded.
+* When a low level SUMMARY.md has a link to an .md file, also no .html file will be created, however there is a link to the .md content, which can for example be downloaded. Anyway, navigating to the chapters is not possible any more.
 * A link directly to the github repository that contains the file would of course be a navigation to github.com
 
 ### Approach 1: INCLUDE_SUMMARY.md
