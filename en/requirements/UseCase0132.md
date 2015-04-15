@@ -1,1 +1,1 @@
- * [UseCase032](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase032.md) System prohibits data loss in case of conflicting changes
+ * [UseCase0132](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0132.md) System prohibits data loss in case of conflicting changes

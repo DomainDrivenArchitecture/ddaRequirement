@@ -1,4 +1,4 @@
- * [UseCase025](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase025.md) install & configure Clojure tools as eclipse plugins
+ * [UseCase0025](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0025.md) install & configure Clojure tools as eclipse plugins
   * put at /opt/eclipse/STS/ (I think plugins folder)
   * group is users
   * add path to profile

@@ -1,4 +1,4 @@
- * [UseCase028](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase028.md) install and configure dbvisualizer
+ * [UseCase0028](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0028.md) install and configure dbvisualizer
   * put at /opt/dbvis
   * group is users
   * add path to profile

@@ -1,1 +1,1 @@
-[UseCase010](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase010.md)  Include eines Applikations-Artefakt-Titels
+[UseCase0010](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0010.md)  Include eines Applikations-Artefakt-Titels

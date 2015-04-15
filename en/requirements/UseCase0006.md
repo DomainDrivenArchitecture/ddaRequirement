@@ -1,1 +1,1 @@
-[UseCase006](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase006.md)  Zu Anforderungen können Abnahmekriterien definiert werden
+[UseCase0006](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0006.md)  Zu Anforderungen können Abnahmekriterien definiert werden
