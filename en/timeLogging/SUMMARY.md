@@ -1,4 +1,3 @@
-
 ## System Zeiterfassung
 [10 Vision](timeLoggingVision.md)
 
