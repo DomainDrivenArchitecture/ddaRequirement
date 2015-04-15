@@ -1,5 +1,4 @@
 ## open-teamplace
-
 [10 Visions](OtpTargetAndVision.md)
 
 [11 Scope](OtpScope.md)
@@ -9,7 +8,6 @@
 [14 Person and Roles](OtpPersonAndRole.md)
 
 [19 Glossary](OtpGlossary.md)
-
 
 [50 Feature File Sharing](OtpFeatureFileSharing.md)
 
@@ -22,7 +20,6 @@
 [55 Feature Version Management](OtpFeatureVersionManagement.md)
 
 [56 Feature Requirements & Architectur Management](OtpFeatureAlmManagement.md)
-
 
 [70 Feature Security](OtpFeatureSecurity.md)
 
