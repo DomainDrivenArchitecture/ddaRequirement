@@ -28,14 +28,8 @@
    * [71 Feature Interoperability](openTeamPlace/OtpFeatureInteroperability.md)
    * [72 Feature Identity Management](openTeamPlace/OtpFeatureIdentityManagement.md)
    * [73 Feature Operability](openTeamPlace/OtpFeatureOperability.md)
-* [SemanticALM](semanticALM/SUMMARY.md)
-   * [10 Ziele und Visionen](semanticALM/AlmTargetAndVision.md)
-   * [11 Abgrenzung](semanticALM/AlmScope.md)
-   * [13 Stakeholder](semanticALM/AlmStakeholders.md)
-   * [14 Rollen und Personen](semanticALM/AlmPersonAndRole.md)
-   * [18 Entscheidungen](semanticALM/AlmDecisions.md)
-   * [19 Glossar](semanticALM/AlmGlossar.md)
-   * [52 Anforderungen zum RE](semanticALM/AnforderungenRequirementsEngineering.md)
+
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/semanticALM/SUMMARY.md" %} 
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/timeLogging/SUMMARY.md" %} 
 * [Books License](LICENSE.md)
