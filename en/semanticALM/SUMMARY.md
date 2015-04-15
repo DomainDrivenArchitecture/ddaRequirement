@@ -1,5 +1,4 @@
 ## System semanticApplicationLifecycleManagement - semanticALM
-
 [10 Ziele und Visionen](AlmTargetAndVision.md)
 
 [11 Abgrenzung](AlmScope.md)
