@@ -9,4 +9,3 @@
 * [TimeLogging](timeLogging/SUMMARY.md)
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/timeLogging/SUMMARY.md" %}
 * [Books License](LICENSE.md)
-
