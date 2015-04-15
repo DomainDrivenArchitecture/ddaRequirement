@@ -10,7 +10,7 @@
    * [54 Feature Team Communication](openTeamPlace/OtpFeatureTeamCommunication.md)
    * [55 Feature Version Management](openTeamPlace/OtpFeatureVersionManagement.md)
    * [56 Feature Requirements & Architectur Management](openTeamPlace/OtpFeatureAlmManagement.md)
-   * [70 Feature Security](openTeamPlace/)
+   * [70 Feature Security](openTeamPlace/OtpFeatureSecurity.md)
    * [71 Feature Interoperability](openTeamPlace/OtpFeatureInteroperability.md)
    * [72 Feature Identity Management](openTeamPlace/OtpFeatureIdentityManagement.md)
    * [73 Feature Operability](openTeamPlace/OtpFeatureOperability.md)
