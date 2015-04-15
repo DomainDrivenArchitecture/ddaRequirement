@@ -1,5 +1,5 @@
 ## open-teamplace
-[10 Visions](OtpTargetAndVision.md)
+* [10 Visions](OtpTargetAndVision.md)
 [11 Scope](OtpScope.md)
 [13 Stakeholder](OtpStakeholders.md)
 [14 Person and Roles](OtpPersonAndRole.md)
