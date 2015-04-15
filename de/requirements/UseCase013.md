@@ -1,1 +1,0 @@
-[UseCase013](./UseCase013.md)  Applikations-Artefakte lassen sich aus Dokumenten extrahieren

@@ -1,1 +1,0 @@
-[UseCase011](./UseCase011.md)  Include eines Applikations-Artefakte ohne Titel

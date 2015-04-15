@@ -1,0 +1,1 @@
+[UseCase0012](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/de/requirements/UseCase0012.md)  Applikations-Artefakte lassen sich als Dokument Exportieren

@@ -16,54 +16,54 @@
 
 ## Grundfunktionen
 
-### [UseCase005](./UseCase005.md) 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0005.md" %} 
 
 
 ## Spezifische Funktionen für Anforderungen
 
-### {% include "../requirements/UseCase006.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0006.md" %} 
 
 
 ## Meta-Funktionen
 
-## {% include "../requirements/UseCase007.md" %} 
+## {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0007.md" %} 
 
 
-### {% include "../requirements/UseCase008.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0008.md" %} 
 
 
 ## Crm Funktionalität
 
-### {% include "../requirements/UseCase009.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0009.md" %} 
 
-### {% include "../requirements/UseCase010.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0010.md" %} 
 
-### {% include "../requirements/UseCase011.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0011.md" %} 
 
 ## Integration
 
-### {% include "../requirements/UseCase012.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0012.md" %} 
 
-### {% include "../requirements/UseCase013.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0013.md" %} 
 
 
 
 ## Sicherheit
 
-### {% include "../requirements/UseCase014.md" %}
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0014.md" %}
 
 ## Enterprise Fähigkeit
 
-### {% include "../requirements/UseCase015.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0015.md" %} 
 
-### {% include "../requirements/UseCase016.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0016.md" %} 
 
 
 ## Integrationsfähigkeit
 
-### {% include "../requirements/UseCase017.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0017.md" %} 
 
-### {% include "../requirements/UseCase018.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0018.md" %} 
 
-### {% include "../requirements/UseCase019.md" %} 
+### {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0019.md" %} 
 

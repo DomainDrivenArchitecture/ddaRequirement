@@ -1,1 +1,0 @@
-[UseCase009](./UseCase009.md)  Include eines Applikations-Artefakts

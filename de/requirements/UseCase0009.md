@@ -1,0 +1,1 @@
+[UseCase0009](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/de/requirements/UseCase0009.md)  Include eines Applikations-Artefakts

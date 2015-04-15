@@ -1,0 +1,1 @@
+[UseCase0011](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/de/requirements/UseCase0011.md)  Include eines Applikations-Artefakte ohne Titel

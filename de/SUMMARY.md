@@ -1,8 +1,7 @@
 # Summary
+* [Einleitung](README.md)
 
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/semanticALM/SUMMARY.md" %} 
 
-* [SemanticALM](semanticALM/SUMMARY.md)
-
-* [Zeiterfassung](timeLogging/SUMMARY.md)
-
-* [Buch Lizenz](LICENSE.md)
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/timeLogging/SUMMARY.md" %} 
+* [Buchlizenz](LICENSE.md)
