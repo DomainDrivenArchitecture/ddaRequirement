@@ -1,0 +1,4 @@
+  * [UseCase0104](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0104.md) Sicherung gegen Applikationsfehler
+    * Server-Lokale Filesysteme sind zur Sicherung gegen Applikationsfehler erlaubt.
+      * Der Config Manager legt fest, wie viel unterschiedliche Daten-Backup-Stände server-lokal vorgehalten werden.
+    * Das System stellt sicher, dass zu jedem Zeitpunkt mindestens ein eine konsistentes Backup vorliegt. 
