@@ -1,2 +1,3 @@
   * Employee
   * Developer
+  * Config Manager
