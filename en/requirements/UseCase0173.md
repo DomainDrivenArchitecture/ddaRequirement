@@ -1,1 +1,0 @@
- * [UseCase0173](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0173.md) User talk by VoIp to others

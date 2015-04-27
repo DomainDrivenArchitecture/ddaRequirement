@@ -1,1 +1,0 @@
-  * [UseCase0100](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0100.md) Das System erstellt ein vollständiges Backup für eine MySql Datenbanken

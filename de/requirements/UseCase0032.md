@@ -1,1 +1,0 @@
-  * [UseCase0032](UseCase0032.md) Ports sind zentral konfigurierbar

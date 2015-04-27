@@ -1,1 +1,0 @@
- * [UseCase0064](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0064.md) ScrumMaster or PO can add UserStories to Sprints

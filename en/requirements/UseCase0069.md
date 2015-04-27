@@ -1,1 +1,0 @@
- * [UseCase0069](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0069.md) System shows remaining work and hours worked per sprint

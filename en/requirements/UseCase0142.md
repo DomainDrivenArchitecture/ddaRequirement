@@ -1,1 +1,0 @@
- * [UseCase0142](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0142.md) User share calendar with other guests.

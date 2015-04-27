@@ -1,1 +1,0 @@
- * [UseCase0141](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0141.md) User share calendar/adressbook with other users.

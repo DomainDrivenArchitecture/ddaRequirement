@@ -1,1 +1,0 @@
-  * [UseCase0087](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0087.md) Telegram

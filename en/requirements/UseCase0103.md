@@ -1,3 +1,0 @@
-  * [UseCase0103](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0103.md) Das System ermöglicht einen Restore auf Applikationsebene.
-    * Applikationsebene bedeutet, den kompletten, konsistenten Stand einer Anwendung. Im Gegensatz dazu ist der Restore
-    * von einzelnen, individuelle Datensätzen / Files eines Benutzers od. einer Transaktion nicht Gegenstand der Anforderung.

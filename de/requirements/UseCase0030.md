@@ -1,1 +1,0 @@
-* [UseCase0030](UseCase0030.md) Logging ist zentral konfigurierbar

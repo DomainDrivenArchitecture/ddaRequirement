@@ -1,1 +1,0 @@
-[UseCase0014](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/de/requirements/UseCase0014.md)  Applikations-Artefakte lassen sich nur autorisiert zugreifen

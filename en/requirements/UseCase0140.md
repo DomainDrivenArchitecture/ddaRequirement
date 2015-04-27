@@ -1,1 +1,0 @@
- * [UseCase0140](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0140.md) User request a calendar/adressbook entry by caldav.

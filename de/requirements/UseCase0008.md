@@ -1,1 +1,0 @@
-[UseCase0008](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/de/requirements/UseCase0008.md)  Include von Anforderungsmetadaten

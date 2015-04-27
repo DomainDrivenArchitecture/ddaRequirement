@@ -1,1 +1,0 @@
-  * [UseCase0038](UseCase0038.md) GnuTls incl. Zertifikate ist konfigurierbar

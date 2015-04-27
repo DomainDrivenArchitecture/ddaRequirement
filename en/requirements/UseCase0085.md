@@ -1,1 +1,0 @@
-  * [UseCase0085](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0085.md) Madeye

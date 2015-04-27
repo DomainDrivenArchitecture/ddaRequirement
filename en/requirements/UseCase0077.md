@@ -1,1 +1,0 @@
-  * [UseCase0077](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0077.md) Java

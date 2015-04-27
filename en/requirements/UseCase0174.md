@@ -1,1 +1,0 @@
- * [UseCase0174](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0174.md) User chat to others
