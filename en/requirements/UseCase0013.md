@@ -1,1 +1,0 @@
-[UseCase0013](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0013.md)  Applikations-Artefakte lassen sich aus Dokumenten extrahieren

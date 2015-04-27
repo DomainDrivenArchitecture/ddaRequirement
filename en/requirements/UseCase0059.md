@@ -1,1 +1,0 @@
- * [UseCase0059](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0059.md) ScrumMaster defines sprints

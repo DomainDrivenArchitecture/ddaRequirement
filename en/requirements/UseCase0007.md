@@ -1,1 +1,0 @@
-[UseCase0007](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0007.md)  Suche auf Anforderungen

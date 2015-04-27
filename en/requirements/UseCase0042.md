@@ -1,1 +1,0 @@
-  * [UseCase0042](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0042.md) Logging fits the load test

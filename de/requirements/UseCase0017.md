@@ -1,1 +1,0 @@
-[UseCase0017](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/de/requirements/UseCase0017.md)  Applikations-Artefakte lassen sich in gängige Software Enticklungsumgebungen gut integrieren

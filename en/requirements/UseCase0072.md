@@ -1,1 +1,0 @@
-* [UseCase0072](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0072.md) KMail for Mail, Calendar and Contacts

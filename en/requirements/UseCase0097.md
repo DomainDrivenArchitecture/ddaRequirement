@@ -1,1 +1,0 @@
-  * [UseCase0097](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0097.md) Das System autorisiert den Zugang zu Daten-Backups pro Server.

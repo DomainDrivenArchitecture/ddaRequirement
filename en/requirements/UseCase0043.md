@@ -1,1 +1,0 @@
-* [UseCase0043](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0043.md) Sysstat fits the load test

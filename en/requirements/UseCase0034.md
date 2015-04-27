@@ -1,1 +1,0 @@
-  * [UseCase0034](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0034.md) VHost is NameBased or IP/Port-Based

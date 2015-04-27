@@ -1,1 +1,0 @@
-  * [UseCase0099](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0099.md) Das System autorisiert den Zugang zu Log-Backups pro Server.

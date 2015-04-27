@@ -1,1 +1,0 @@
-  * [UseCase0086](https://github.com/DomainDrivenArchitecture/ddaRequirement/blob/master/en/requirements/UseCase0086.md) MeetingWords
