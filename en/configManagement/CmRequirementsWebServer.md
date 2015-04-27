@@ -1,6 +1,4 @@
-
-# Requirements	
-
+# Requirements for Module WebServer
 ## Basic Functionality
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0030.md" %}
