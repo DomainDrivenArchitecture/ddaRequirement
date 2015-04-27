@@ -22,7 +22,7 @@ Here, the problem begins:
 * When a low level SUMMARY.md has an absolute link to an .md file, also no .html file will be created, however there is a link to the .md content, which can for example be downloaded. Anyway, navigating to the chapters is not possible any more.
 * A link directly to the github repository that contains the file would of course be a navigation to github.com
 
-### Approach 1: INCLUDE_SUMMARY.md
+### Approach 2: INCLUDE_SUMMARY.md
  
 This is a file that describes the content of a chapter. It is designed to be included from one level above in the directory. Thus, the INCLUDE_SUMMARY.md file can link to the SUMMARY.md file in the directory and everything works fine, when the relative links fit. 
 Unfortunately, both summaries must be updated, when the location of a content changes. However this seems to be the better alternative to copies of actual content. 
