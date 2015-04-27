@@ -8,33 +8,33 @@
 
 # Requirements
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0058.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0058.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0059.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0059.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0060.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0060.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0061.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0061.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0062.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0062.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0063.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0063.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0064.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0064.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0065.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0065.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0066.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0066.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0067.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0067.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0068.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0068.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0069.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0069.md" %}
 
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0134.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0134.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0135.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0135.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/UseCase0136.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0136.md" %}

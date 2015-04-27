@@ -10,14 +10,14 @@
 # Anforderungen
 
 ## Lauffende Erfassung
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0001.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0001.md" %}
 
 ## Monatliche Abrechnung
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0002.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0002.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0003.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0003.md" %}
 
 
 ## Verwaltungsaufgaben
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/UseCase0004.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0004.md" %}
 
