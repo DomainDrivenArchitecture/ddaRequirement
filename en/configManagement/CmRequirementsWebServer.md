@@ -10,14 +10,12 @@
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0035.md" %}
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0034.md" %}
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0036.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0039.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0040.md" %}
 
 ### Module specific Configuratons 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0038.md" %}
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0041.md" %}
-
-### More VHost Features
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0039.md" %}
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0040.md" %}
 
 ## Load Test
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0042.md" %}
