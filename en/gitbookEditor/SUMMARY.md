@@ -2,4 +2,4 @@
    * [10 Vision](gitbookEditor/gitbookEditorVision.md)
    * [11 Abgrenzung](gitbookEditor/gitbookEditorScope.md)
    * [12 Stakeholder](gitbookEditor/gitbookEditorStakeholders.md)
-   * [60 Anforderungen](gitbookEditor/gitbookEditorRequirements.md)
+   * [60 Requirements](gitbookEditor/gitbookEditorRequirements.md)
