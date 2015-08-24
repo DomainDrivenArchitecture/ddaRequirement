@@ -54,8 +54,6 @@
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0221.md" %}
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0221.md" %}
-
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0222.md" %}
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0223.md" %}
