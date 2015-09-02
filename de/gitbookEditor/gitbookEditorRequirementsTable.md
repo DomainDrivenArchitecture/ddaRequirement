@@ -1,6 +1,6 @@
 # Tabelle
 
-|Requirement   |KO-Krit?|Atom|MdCharm|Gitbook-Editor|Haroopad|
+|Requirement   |KO-Krit?|Atom|MdCharm+gitwatch|Gitbook-Editor|Haroopad|
 |---|---|---|---|---|---|
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0200.md" %}   |x   |A   |   |   |   |
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0201.md" %}   |   |B   |   |   |   |
