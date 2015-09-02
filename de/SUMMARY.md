@@ -7,4 +7,4 @@
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/timeLogging/SUMMARY.md" %} 
 
-* [Buchlizenz](LICENSE.md)
+* [Buchlizenz](LICENSE.md) 
