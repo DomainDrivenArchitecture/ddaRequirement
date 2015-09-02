@@ -1,0 +1,53 @@
+# Tabelle
+
+|Requirement   |KO-Krit?|Atom|MdCharm|Gitbook-Editor|Haroopad|
+|---|---|---|---|---|---|
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0200.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0201.md" %}   |   |B   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0202.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0203.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0204.md" %}   |   |C   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0205.md" %}   |   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0226.md" %}   |   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0206.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0207.md" %}   |x   |C   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0208.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0209.md" %}   |   |B   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |B   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0213.md" %}   |x   |B   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0214.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0215.md" %}   |   |C   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0216.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0217.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0218.md" %}   |   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0219.md" %}   |   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0220.md" %}   |   |B   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0222.md" %}   |x   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0223.md" %}   |   |A   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0224.md" %}   |x   |B   |   |   |   |
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0225.md" %}   |x   |A   |   |   |   |
+|Summe  |   |   |   |   |   |
+|A  |   |17   |   |   |   |
+|B  |   |6   |   |   |   |
+|C  |   |4   |   |   |   |
+|KO-Crit  |   |14/15   |   |   |   |
+
+
+
+
+## Glossar:
+A: vorhanden
+B: eingeschränkt / ähnlich vorhanden
+C: nicht vorhanden / nicht gefunden
+
+
+
+
+
+
+
+
+
