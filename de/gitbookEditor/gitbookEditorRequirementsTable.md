@@ -13,8 +13,8 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0207.md" %}   |x   |C   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0208.md" %}   |x   |A   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0209.md" %}   |   |B   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |B   |   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |C   |C   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |C   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0213.md" %}   |x   |B   |   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0214.md" %}   |x   |A   |   |   |   
@@ -31,8 +31,8 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0225.md" %}   |x   |A   |   |   |   
 |Summe  |      |   |   |   |
 |A  |   |16      |   |   |
-|B  |   |7      |   |   |
-|C  |   |4      |   |   |
+|B  |   |6      |   |   |
+|C  |   |5      |   |   |
 |KO-Crit  |   |14/15      |   |   |
 
 
