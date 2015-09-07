@@ -36,7 +36,7 @@
 |KO-Crit  |   |14/15      |14/15   |   |
 
 ## Weitere Anmerkungen:
-* GB-Editor hat "Editor-Feeling"
+* GB-Editor hat "Gitbook-Feeling"
 * bei großen Files beginnt der GB-Editor, langsamer zu werden (vgl. dieses File)
 * Der Vergeich der hier gezogen wird ist: Endnutzer GB-Editor mit GUI vs. Entwickler Atom mit Git-Befehlszeile
  
