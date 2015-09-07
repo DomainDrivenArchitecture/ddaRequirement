@@ -48,7 +48,7 @@
 
 ## Verworfen:
 * mdCharm: vielversprechender Markdown-Editor; aber: keine Git-Integration; anfänglich Installationsprobleme; GUI-Probleme
-* sublime: Atomkonkurenzprodukt, nicht kostenlos (70 Euro pro Nutzer-Lizenz)
+* sublime: Atomkonkurrenzprodukt, nicht kostenlos (70 Euro pro Nutzer-Lizenz)
 * Haroopad: noch in Beta-Phase; zu viele KO-Kriterien nicht erfüllt
 
 
