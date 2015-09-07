@@ -2,8 +2,8 @@
 
 |Requirement   |KO-Krit?|Atom|Gitbook-Editor|Anmerkungen|
 |---|---|---|---|---|---|
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0200.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0201.md" %}   |   |B   |C   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0200.md" %}   |x   |A   |A   |beides g   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0201.md" %}   |   |B   |C   |Atom: Nur mit Tabs; GB-Editor: nur ein Dokument betrachtbar, dann speichern notwendig   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0202.md" %}   |x   |A   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0203.md" %}   |x   |A   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0204.md" %}   |   |C   |C   |   |   
