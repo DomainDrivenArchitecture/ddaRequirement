@@ -21,7 +21,7 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0215.md" %}   |   |C   |C   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0216.md" %}   |x   |A   |B   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0217.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0218.md" %}   |   |A   |   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0218.md" %}   |   |A   |C   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0219.md" %}   |   |A   |   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0220.md" %}   |   |B   |   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |B   |   |   |   
