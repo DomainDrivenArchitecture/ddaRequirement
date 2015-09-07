@@ -15,16 +15,16 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0209.md" %}   |   |B   |A   |Atom: Drag 'n Drop; GB-Editor: Drag 'n Drop + Button   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |C   |C   |Atom: keine Unterstützung; GB: Theoretische Unterstützung, bei mir allerdings immer Probleme   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |C   |Anhängen im Sinne eines E-Mail-Anhangs: Nicht sicher, ob das mit .md-Files überhaupt funktionieren kann   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |A   |GB-Editor hat s   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0213.md" %}   |x   |B   |C   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |A   |GB-Editor hat sogar Web-Interface   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0213.md" %}   |x   |B   |C   |Atom: ja, aber nur in der Systemsprache; GB-Editor: theoretisch ja, funktioniert aber nicht   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0214.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0215.md" %}   |   |C   |C   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0216.md" %}   |x   |A   |B   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0217.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0218.md" %}   |   |A   |C   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0219.md" %}   |   |A   |C   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0220.md" %}   |   |B   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |B   |A   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0215.md" %}   |   |C   |C   |Nicht sicher, ob das mit .md-Files überhaupt funktioniert   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0216.md" %}   |x   |A   |B   |Atom: ja; GB-Editor: nur mit zwischenspeichern   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0217.md" %}   |x   |A   |A   |GB-Editor: sogar, via Dropdown   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0218.md" %}   |   |A   |C   |Atom: Nimmt Änderungen von Außen direkt in seinen Text auf; GB-Editor: ignoriert Änderugnen von Außen, werden verworfen   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0219.md" %}   |   |A   |C   |GB-Editor: s.o.: Editor realisiert fremde Änderungen nicht   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0220.md" %}   |   |B   |A   |Atom: Befehlszeile, also git-Kenntnisse nötig; GB-Editor: Button "Sync"   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |B   |A   |GB-Editor kommt u.A. mit einer Inltsangabe, etc.   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0222.md" %}   |x   |A   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0223.md" %}   |   |A   |B   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0224.md" %}   |x   |B   |A   |   |   
