@@ -1,21 +1,21 @@
 # Tabelle
 
 |Requirement   |KO-Krit?|Atom|Gitbook-Editor|Anmerkungen|
-|---|---|---|---|---|---|
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0200.md" %}   |x   |A   |A   |beides g   |   
+|---|---|---|---|---|
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0200.md" %}   |x   |A   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0201.md" %}   |   |B   |C   |Atom: Nur mit Tabs; GB-Editor: nur ein Dokument betrachtbar, dann speichern notwendig   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0202.md" %}   |x   |A   |A   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0202.md" %}   |x   |A   |A   |Atom: durch Plugin; GB-Editor: nativ; GB-Editor besser   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0203.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0204.md" %}   |   |C   |C   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0204.md" %}   |   |C   |C   |hat bei beidem Performancegründe   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0205.md" %}   |   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0226.md" %}   |   |A   |C   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0226.md" %}   |   |A   |C   |Atom: durch Plugin; GB-Editor: keine Template-Funktionalität, nur "Neues File"   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0206.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0207.md" %}   |x   |C   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0208.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0209.md" %}   |   |B   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |C   |C   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |C   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |A   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0207.md" %}   |x   |C   |A   |Atom: hat keine Plugins, die GUI dahingehend verändern; GB-Editor: nativ   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0208.md" %}   |x   |A   |A   |Atom kommt mit großen Files besser klar (Performance, flüssiges Schreiben)   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0209.md" %}   |   |B   |A   |Atom: Drag 'n Drop; GB-Editor: Drag 'n Drop + Button   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |C   |C   |Atom: keine Unterstützung; GB: Theoretische Unterstützung, bei mir allerdings immer Probleme   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |C   |Anhängen im Sinne eines E-Mail-Anhangs: Nicht sicher, ob das mit .md-Files überhaupt funktionieren kann   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |A   |GB-Editor hat s   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0213.md" %}   |x   |B   |C   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0214.md" %}   |x   |A   |A   |   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0215.md" %}   |   |C   |C   |   |   
