@@ -36,7 +36,7 @@
 |KO-Crit  |   |14/15      |   |   |
 
 
-
+ 
 
 ## Glossar:
 A: vorhanden
