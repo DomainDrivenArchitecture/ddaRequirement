@@ -42,9 +42,9 @@
  
 
 ## Glossar:
-A: vorhanden
-B: eingeschränkt / ähnlich vorhanden
-C: nicht vorhanden / nicht gefunden
+* A: vorhanden
+* B: eingeschränkt / ähnlich vorhanden
+* C: nicht vorhanden / nicht gefunden
 
 ## Verworfen:
 * mdCharm: vielversprechender Markdown-Editor; aber: keine Git-Integration; anfänglich Installationsprobleme; GUI-Probleme
