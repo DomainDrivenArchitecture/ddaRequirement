@@ -24,10 +24,10 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0218.md" %}   |   |A   |C   |Atom: Nimmt Änderungen von Außen direkt in seinen Text auf; GB-Editor: ignoriert Änderugnen von Außen, werden verworfen   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0219.md" %}   |   |A   |C   |GB-Editor: s.o.: Editor realisiert fremde Änderungen nicht   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0220.md" %}   |   |B   |A   |Atom: Befehlszeile, also git-Kenntnisse nötig; GB-Editor: Button "Sync"   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |B   |A   |GB-Editor kommt u.A. mit einer Inltsangabe, etc.   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |B   |A   |GB-Editor kommt u.A. mit einer Inhaltsangabe, etc.   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0222.md" %}   |x   |A   |A   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0223.md" %}   |   |A   |B   |   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0224.md" %}   |x   |B   |A   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0223.md" %}   |   |A   |B   |Atom einfach deutlich größer   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0224.md" %}   |x   |B   |A   |Atom ist ganz klar für Entwickler geschrieben; es erlaubt/benötigt git-Befehlseingaben und ist nicht auf Markdown spezialisiert   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0225.md" %}   |x   |A   |A   |   |   
 |Summe  |      |   |   |   |
 |A  |   |16      |16   |   |
@@ -35,7 +35,10 @@
 |C  |   |5      |9   |   |
 |KO-Crit  |   |14/15      |14/15   |   |
 
-
+## Weitere Anmerkungen:
+* GB-Editor hat "Editor-Feeling"
+* bei großen Files beginnt der GB-Editor, langsamer zu werden (vgl. dieses File)
+* Der Vergeich der hier gezogen wird ist: Endnutzer GB-Editor mit GUI vs. Entwickler Atom mit Git-Befehlszeile
  
 
 ## Glossar:
