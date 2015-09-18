@@ -15,9 +15,9 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0209.md" %}   |   |B   |A   |Atom: Drag 'n Drop; GB-Editor: Drag 'n Drop + Button   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0210.md" %}   |   |C   |C   |Atom: keine Unterstützung; GB: Theoretische Unterstützung, bei mir allerdings immer Probleme   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0211.md" %}   |   |C   |C   |Anhängen im Sinne eines E-Mail-Anhangs: Nicht sicher, ob das mit .md-Files überhaupt funktionieren kann   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |A   |GB-Editor hat sogar Web-Interface   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0212.md" %}   |x   |A   |A   |GB-Editor hat sogar Web-Interface; beide lokalen Editoren funktionieren auch ohne Verbindung zum Internet; Git-Funktionalität fällt dann natürlich weg   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0213.md" %}   |x   |B   |C   |Atom: ja, aber nur in der Systemsprache; GB-Editor: theoretisch ja, funktioniert aber nicht   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0214.md" %}   |x   |A   |A   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0214.md" %}   |x   |A   |C   |Atom hat Volltextsuche; GB hat nur Suche pro File   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0215.md" %}   |   |C   |C   |Nicht sicher, ob das mit .md-Files überhaupt funktioniert   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0216.md" %}   |x   |A   |B   |Atom: ja; GB-Editor: nur mit zwischenspeichern   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0217.md" %}   |x   |A   |A   |GB-Editor: sogar, via Dropdown   |   
@@ -25,20 +25,21 @@
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0219.md" %}   |   |A   |C   |GB-Editor: s.o.: Editor realisiert fremde Änderungen nicht   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0220.md" %}   |   |B   |A   |Atom: Befehlszeile, also git-Kenntnisse nötig; GB-Editor: Button "Sync"   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0221.md" %}   |x   |B   |A   |GB-Editor kommt u.A. mit einer Inhaltsangabe, etc.   |   
-|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0222.md" %}   |x   |A   |A   |   |   
+|{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0222.md" %}   |x   |A   |C   |Atom: Github-Copyright: Aber freie Lizenz: https://github.com/atom/atom/blob/master/LICENSE.md ; GB: Sources nicht gefunden (nur Teile davon, z.B. electron)   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0223.md" %}   |   |A   |B   |Atom einfach deutlich größer   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0224.md" %}   |x   |B   |A   |Atom ist ganz klar für Entwickler geschrieben; es erlaubt/benötigt git-Befehlseingaben und ist nicht auf Markdown spezialisiert   |   
 |{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/de/requirements/req0225.md" %}   |x   |A   |A   |   |   
 |Summe  |      |   |   |   |
-|A  |   |16      |16   |   |
+|A  |   |16      |14   |   |
 |B  |   |6      |2   |   |
-|C  |   |5      |9   |   |
+|C  |   |5      |11   |   |
 |KO-Crit  |   |14/15      |14/15   |   |
 
 ## Weitere Anmerkungen:
 * GB-Editor hat "Gitbook-Feeling"
 * bei großen Files beginnt der GB-Editor, langsamer zu werden (vgl. dieses File)
 * Der Vergeich der hier gezogen wird ist: Endnutzer GB-Editor mit GUI vs. Entwickler Atom mit Git-Befehlszeile
+* Technisch: Beide Systeme nutzen electron: https://github.com/atom/electron
  
 
 ## Glossar:
