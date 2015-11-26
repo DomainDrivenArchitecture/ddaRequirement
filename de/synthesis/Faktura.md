@@ -39,10 +39,11 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 
 ###Templating
 * Die Gestaltung und Anlage eigener Vorlagen muss möglich sein. 
-* Da bei sollten einige Aspekte wie z.B. das Logo individualisierbar sein.
+* Dabei sollten einige Aspekte wie z.B. das Logo individualisierbar sein.
     * ggf. sind noch individuelle Attribute notwendig (z.B. "Lieferzeitraum")
     * der heutige Aufbau muss abbildbar sein
     
+
 * Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten muss möglich sein.
 
 ###Druckfunktion 
