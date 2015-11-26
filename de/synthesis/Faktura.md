@@ -35,8 +35,8 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Rechnungsstellung, die Rechnungen können dabei verschiedene Zustände haben (geschrieben, bezahlt, unbezahlt). Diese Zustände müssen an der fertiggestellten Rechnung geändert werden können.   
     * Proformarechnung, diese erfolgt analog der Rechnungsstellung allerdings ohne fortlaufende Rechnungsnummer
     * Mahnungen
-    * Zukunft: Diese Auflistung könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung erfolgen.
-    
+    * Zukunft: Diese Auflistung könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung erfolgen.
+
 ###Templating
 * Die Gestaltung und Anlage eigener Vorlagen muss möglich sein. 
 * Da bei sollten einige Aspekte wie z.B. das Logo individualisierbar sein.
