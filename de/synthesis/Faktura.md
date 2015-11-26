@@ -44,7 +44,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * der heutige Aufbau muss abbildbar sein
     
 
-* Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten muss möglich sein.
+* Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten, muss möglich sein.
 
 ###Druckfunktion 
 * Fertiggestellte Dokumente müssen gedruckt werden können.
@@ -57,7 +57,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 
 ###Reports
 * Es müssen verschiedene Sichten auf die erstellten Dokumente innerhalb der Software möglich sein.
-    * Dabei sollte eine Unterteilung in die einzelnen Bereiche (Angebot, Rechnung etc. möglich sein)
+    * Dabei sollte eine Unterteilung in die einzelnen Bereiche (Angebot, Rechnung, etc.) möglich sein
     * Innerhalb der Bereiche sollte eine weitere Unterteilung möglich sein. Im Fall der Rechnungen in geschrieben, bezahlt, unbezahlt
     * Die Sicht auf alle Vorgänge mit einem Kunden wäre wünschenswert. 
 
