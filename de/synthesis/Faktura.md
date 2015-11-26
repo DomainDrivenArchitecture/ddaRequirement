@@ -43,10 +43,13 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 * Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten muss möglich sein.
 
 ###Druckfunktion 
+* Fertiggestellte Dokumente müssen gedruckt werden können.
 
 
 ###Integration von LibreOffice
-- Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. 
+* Es muss eine Integration von Libre Office gegeben sein.
+    * In den Dokumenten muss entsprechend ein Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. möglich sein.
+    * Das Speichern als Dokument außerhalb der Software muss möglich sein.
 
 ###Reports
 - geschrieben, bezahlt, unbezahlt
