@@ -75,11 +75,11 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 * Eine Weblösung resp. eine Cloud-Lösung wäre wünschenswert.
 
 ###Hosting
-* Das Hosting der Anwendung muss in Deutschland
+* Das Hosting der Anwendung muss in DeutschlandEs muss ein 
 
 
 ###Backup
-* täglich bei uns 
+* Es muss ein täglich bei uns 
 * einsehen der Daten bzw. Wiederherstellung muss möglich sein
 * Datenexport "offenes Dateiformat"
 
