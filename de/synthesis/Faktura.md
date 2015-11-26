@@ -27,6 +27,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 * Es müssen alle relevanten Kundendaten hinterlegt werden können.
     * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
     * Es sollte eine Meldung oder eine Kennzeichnung innerhalb der Anwendung erscheinen, wenn dieser überschritten ist.
+ToFix: Ggf. noch im D    
 
 ###Vorgangsvarianten
 * Die Software muss einige vordefinierte Vorgänge zur Verfügung stellen. Die relevanten sind dabei:
