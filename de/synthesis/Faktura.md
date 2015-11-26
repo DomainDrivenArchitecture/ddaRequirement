@@ -15,8 +15,8 @@ Das vorliegende Dokumente umfasst die Evaluierung und Beschreibung der Highlevel
 Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, geändert, gelöscht und eingesehen werden können.
 
 * Es müssen alle relevanten Produktdaten hinterlegt werden können.
-* Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
-* Eine hierarchische Strukturierung ist wünschenswert
+    * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
+    * Eine hierarchische Strukturierung ist wünschenswert
 
 * Es müssen alle relevanten Kundendaten hinterlegt werden können.
     * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
