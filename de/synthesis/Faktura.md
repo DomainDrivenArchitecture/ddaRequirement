@@ -52,13 +52,14 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Das Speichern als Dokument außerhalb der Software muss möglich sein.
 
 ###Reports
-
-- geschrieben, bezahlt, unbezahlt
+* Es müssen verschiedene Sichten auf die erstellten Dokumente innerhalb der Software möglich sein.
+    * Dabei sollte eine Unterteilung in die einzelnen Bereiche (Angebot, Rechnung etc. möglich sein)
+    * Innerhalb der Bereiche sollte eine weitere Unterteilung möglich sein. Im Fall der Rechnungen in geschrieben, bezahlt, unbezahlt
+    * Innerhalb dies
 
 
 ###Suchfunktion
 zur Erstellung von Angeboten und Rechnungen 
-
 ##Nichtfunktionale Anforderungen
 
 ###Backup
