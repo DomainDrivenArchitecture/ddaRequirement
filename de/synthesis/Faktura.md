@@ -75,22 +75,20 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 * Eine Weblösung resp. eine Cloud-Lösung wäre wünschenswert.
 
 ###Hosting
-* Das Hosting der Anwendung muss in DeutschlandEs muss ein 
+* Das Hosting der Anwendung muss in Deutschland sein 
 
 
 ###Backup
-* Es muss ein täglich DAtenbackup bei uns 
-* einsehen der Daten bzw. Wiederherstellung muss möglich sein
-* Datenexport "offenes Dateiformat"
+* Es muss ein täglich Datenbackup bei uns möglich sein. 
+* Das Einsehen der Daten bzw. ihre Wiederherstellung muss möglich sein
+* Der Datenexport muss als "offenes Dateiformat" erfolgen.
 
 ###Archivierung
-* Ablage der Dokumente in der Owncloud
-
-
+* Die Ablage der Dokumente in der Owncloud ist ausreichend.
 
 
 ###Sicherheit
-
+ToFix: Gibt es hier noch konkrete Anforde
 
 ###Migration
-vor allem der Produktdaten in der entsprechenden Kategorisierung
+* Die Datenmigration vor allem der Produktdaten in der entsprechenden Kategorisierung muss möglich sein.
