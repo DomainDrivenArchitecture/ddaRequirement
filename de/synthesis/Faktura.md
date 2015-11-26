@@ -88,7 +88,7 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 
 
 ###Sicherheit
-ToFix: Gibt es hier noch konkrete Anforde
+ToFix: Gibt es hier noch konkrete Anforderungen?
 
 ###Migration
 * Die Datenmigration vor allem der Produktdaten in der entsprechenden Kategorisierung muss möglich sein.
