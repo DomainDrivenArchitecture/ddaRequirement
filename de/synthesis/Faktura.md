@@ -63,6 +63,21 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 
 ##Nichtfunktionale Anforderungen
 
+###Anforderungen an die Software
+* Die Herstellerfirma sollte eine Deutsche Firma sein.
+* Es sollte eine vernünftige Anwenderdokumentation existieren.
+* Es sollte eine aktive Community geben.
+* Bei der Software muss es sich um ein OpenSource Produkt handeln. 
+* ToFix: Ist das so?
+
+###Nutzungsmöglichkeiten
+* Die Software muss multiuser-fähig sein.
+* Eine Weblösung resp. eine Cloud-Lösung wäre wünschenswert.
+
+###Hosting
+* Das Hosting der Anwendung muss in Deutschland
+
+
 ###Backup
 * täglich bei uns 
 * einsehen der Daten bzw. Wiederherstellung muss möglich sein
@@ -71,16 +86,8 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 ###Archivierung
 * Ablage der Dokumente in der Owncloud
 
-###Hosting
-* in Deutschland
 
-###Anforderungen an die Software
-* Deutsche Firma
-* Handbuch
-* Community
-* OpenSource
 
-Cloud-Lösung/ Weblösung
 
 ###Sicherheit
 
