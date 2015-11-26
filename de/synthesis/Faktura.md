@@ -16,21 +16,21 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 
 * Es müssen alle relevanten Produktdaten hinterlegt werden können.
 * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
-    * Eine hierarchische Strukturierung wäre wünschenswert
+    * Eine hierarchische Strukturierung ist wünschenswert
 
 * Es müssen alle relevanten Kundendaten hinterlegt werden können.
--> Kreditrahmen und Signal, wenn dieser überschritten ist
+    * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
+    * Es sollte eine Meldung oder eine Kennzeichnung innerhalb der Anwendung erscheinen, wenn dieser überschritten ist.
 
 ###Vorgangsvarianten
+* Die Software muss einige vordefinierte Vorgänge zur Verfügung stellen. Die relevanten sind dabei:
+    * Angebotserstellung
+    * Rechnungsstellung
+    * Proformarechnung, diese erfolgt analog der Rechnungsstellung allerdings ohne fortlaufende Rechnungsnummer
+    * Mahnungen
+    * Zukunft: Die könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, dieser könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung basieren. 
 
-* Angebotserstellung
-* Rechnung
-* Proformarechnung
-ohne fortlaufende Rechnungsnummer
-* Mahnung
-* Zukunft: Controlling (Einahmen-Überschuss-Rechnung pro Person)
-
-###Druckfunktion
+###Druckfunktion 
 
 ###Integration von LibreOffice
 - Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. 
