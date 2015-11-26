@@ -59,7 +59,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 * Es müssen verschiedene Sichten auf die erstellten Dokumente innerhalb der Software möglich sein.
     * Dabei sollte eine Unterteilung in die einzelnen Bereiche (Angebot, Rechnung, etc.) möglich sein
     * Innerhalb der Bereiche sollte eine weitere Unterteilung möglich sein. Im Fall der Rechnungen in geschrieben, bezahlt, unbezahlt
-    * Die Sicht auf alle Vorgänge mit einem Kunden wäre wünschenswert. 
+    * Die Sicht auf alle Vorgänge, die mit einem Kunden abgelaufen sind, wäre wünschenswert. 
 
 ###Suchfunktion
 * zur Erstellung von Angeboten und Rechnungen 
