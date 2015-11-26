@@ -68,7 +68,7 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 ##Nichtfunktionale Anforderungen
 
 ###Anforderungen an die Software
-* Die Herstellerfirma sollte eine Deutsche Firma sein.
+* Die Herstellerfirma sollte eine deutsche Firma sein.
 * Es sollte eine vernünftige Anwenderdokumentation existieren.
 * Es sollte eine aktive Community geben.
 * Bei der Software muss es sich um ein OpenSource Produkt handeln. 
