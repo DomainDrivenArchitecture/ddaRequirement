@@ -18,6 +18,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
     * Eine hierarchische Strukturierung ist wünschenswert
 
+
 * Es müssen alle relevanten Kundendaten hinterlegt werden können.
     * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
     * Es sollte eine Meldung oder eine Kennzeichnung innerhalb der Anwendung erscheinen, wenn dieser überschritten ist.
