@@ -32,10 +32,10 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 ###Vorgangsvarianten
 * Die Software muss einige vordefinierte Vorgänge zur Verfügung stellen. Die Relevanten sind dabei:
     * Angebotserstellung
-    * Rechnungsstellung, die Rechnungen können dabei verschiedene Zustände haben (geschrieben, bezahlt, unbezahlt). Diese Zustände müssen an der fertiggestellRechnung geändert werden können.   
+    * Rechnungsstellung, die Rechnungen können dabei verschiedene Zustände haben (geschrieben, bezahlt, unbezahlt). Diese Zustände müssen an der fertiggestellten Rechnung geändert werden können.   
     * Proformarechnung, diese erfolgt analog der Rechnungsstellung allerdings ohne fortlaufende Rechnungsnummer
     * Mahnungen
-    * Zukunft: Dies könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung basieren.
+    * Zukunft: Diese Auflistung könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung erfolgen.
     
 ###Templating
 * Die Gestaltung und Anlage eigener Vorlagen muss möglich sein. 
