@@ -52,6 +52,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Das Speichern als Dokument außerhalb der Software muss möglich sein.
 
 ###Reports
+
 - geschrieben, bezahlt, unbezahlt
 
 
