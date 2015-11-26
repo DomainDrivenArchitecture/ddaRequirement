@@ -28,8 +28,8 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Rechnungsstellung
     * Proformarechnung, diese erfolgt analog der Rechnungsstellung allerdings ohne fortlaufende Rechnungsnummer
     * Mahnungen
-    * Zukunft: Die könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, dieser könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung basieren. 
-
+    * Zukunft: Dies könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung basieren.
+    
 ###Druckfunktion 
 
 ###Integration von LibreOffice
