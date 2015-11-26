@@ -83,7 +83,7 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 
 
 ###Backup
-* Es muss ein täglich Datenbackup bei uns möglich sein. 
+* Es muss ein tägliches Datenbackup bei uns möglich sein. 
 * Das Einsehen der Daten bzw. ihre Wiederherstellung muss möglich sein
 * Der Datenexport muss in einem "offenen Dateiformat" erfolgen.
 
