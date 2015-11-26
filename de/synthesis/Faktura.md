@@ -18,6 +18,9 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
     * Eine hierarchische Strukturierung ist wünschenswert
 
+* Es müssen unterschiedliche MwSt-Sätze angelegt werden können.
+    * Die Berechnung bei Angebots-/ Rechnungserstellung muss fehlerfrei sein.
+    * Das Anwenden der unterschiedlichen Sätze sollte möglichst bedienfreundlich sein. 
 
 * Es müssen alle relevanten Kundendaten hinterlegt werden können.
     * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
@@ -31,7 +34,16 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Mahnungen
     * Zukunft: Dies könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine  Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung basieren.
     
+###Templating
+* Die Gestaltung und Anlage eigener Vorlagen muss möglich sein. 
+* Da bei sollten einige Aspekte wie z.B. das Logo individualisierbar sein.
+    * ggf. sind noch individuelle Attribute notwendig (z.B. "Lieferzeitraum")
+    * der heutige Aufbau muss abbildbar sein
+    
+* Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten muss möglich sein.
+
 ###Druckfunktion 
+
 
 ###Integration von LibreOffice
 - Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. 
@@ -39,9 +51,6 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 ###Reports
 - geschrieben, bezahlt, unbezahlt
 
-###Templating
-- Gestaltung und Anlage eigener Vorlagen (Logo, ggf. individuelle Attribute, heutiger Aufbau muss abbildbar sein)
-- Ablage vordefinierter Textblöcke
 
 ###Suchfunktion
 zur Erstellung von Angeboten und Rechnungen 
