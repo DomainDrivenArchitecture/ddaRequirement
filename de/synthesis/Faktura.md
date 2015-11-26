@@ -79,7 +79,7 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 
 
 ###Backup
-* Es muss ein täglich bei uns 
+* Es muss ein täglich DAtenbackup bei uns 
 * einsehen der Daten bzw. Wiederherstellung muss möglich sein
 * Datenexport "offenes Dateiformat"
 
