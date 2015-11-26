@@ -18,9 +18,11 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
     * Eine hierarchische Strukturierung ist wünschenswert
 
+
 * Es müssen unterschiedliche MwSt-Sätze angelegt werden können.
     * Die Berechnung bei Angebots-/ Rechnungserstellung muss fehlerfrei sein.
     * Das Anwenden der unterschiedlichen Sätze sollte möglichst bedienfreundlich sein. 
+
 
 * Es müssen alle relevanten Kundendaten hinterlegt werden können.
     * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
