@@ -9,59 +9,62 @@ Zum anderen ist das Hinterlegen und mehrere MwSt-Sätze zwar grundsätzlich mög
 Das vorliegende Dokumente umfasst die Evaluierung und Beschreibung der Highlevel-Anforderungen an eine neue Abrechnungs-Software.
 
 
-Funktionale Anforderungen
+##Funktionale Anforderungen
 
-Stammdatenverwaltung
-- Produktdaten (Kategorieren und Produkte)
+###Stammdatenverwaltung
+* Produktdaten (Kategorieren und Produkte)
 
 
-- Kundendaten
+* Kundendaten
 -> Kreditrahmen und Signal, wenn dieser überschritten ist
 
-Vorgangsvarianten
+###Vorgangsvarianten
 
-- Angebotserstellung
-- Rechnung
-- Proformarechnung
+* Angebotserstellung
+* Rechnung
+* Proformarechnung
 ohne fortlaufende Rechnungsnummer
-- Mahnung
-- Zukunft: Controlling (Einahmen-Überschuss-Rechnung pro Person)
+* Mahnung
+* Zukunft: Controlling (Einahmen-Überschuss-Rechnung pro Person)
 
-Druckfunktion
-Integration von LibreOffice
+###Druckfunktion
+
+###Integration von LibreOffice
 - Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. 
 
-Reports
+###Reports
 - geschrieben, bezahlt, unbezahlt
 
-Templating
+###Templating
 - Gestaltung und Anlage eigener Vorlagen (Logo, ggf. individuelle Attribute, heutiger Aufbau muss abbildbar sein)
 - Ablage vordefinierter Textblöcke
 
-Suchfunktion
+###Suchfunktion
 zur Erstellung von Angeboten und Rechnungen 
 
-Nichtfunktionale Anforderungen
+##Nichtfunktionale Anforderungen
 
-Backup
-- täglich bei uns 
-- einsehen der Daten bzw. Wiederherstellung muss möglich sein
-- Datenexport "offenes Dateiformat"
+###Backup
+* täglich bei uns 
+* einsehen der Daten bzw. Wiederherstellung muss möglich sein
+* Datenexport "offenes Dateiformat"
 
-Archivierung
-Ablage der Dokumente in der Owncloud
+###Archivierung
+* Ablage der Dokumente in der Owncloud
 
-Hosting in Deutschland
+###Hosting
+* in Deutschland
 
-Anforderungen an die Software
-Deutsche Firma
-Handbuch
-Community
-OpenSource
+###Anforderungen an die Software
+* Deutsche Firma
+* Handbuch
+* Community
+* OpenSource
 
 Cloud-Lösung/ Weblösung
 
-Sicherheit?
+###Sicherheit
 
-Migration
+
+###Migration
 vor allem der Produktdaten in der entsprechenden Kategorisierung
