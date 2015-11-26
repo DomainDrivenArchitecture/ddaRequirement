@@ -16,7 +16,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 
 * Es müssen alle relevanten Produktdaten hinterlegt werden können.
     * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
-    * Eine hierarchische Strukturierung ist wünschenswert
+    * Eine hierarchische Strukturierung der Kategorien ist wünschenswert
 
 
 * Es müssen unterschiedliche MwSt-Sätze angelegt werden können.
