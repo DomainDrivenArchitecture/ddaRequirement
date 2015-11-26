@@ -12,10 +12,13 @@ Das vorliegende Dokumente umfasst die Evaluierung und Beschreibung der Highlevel
 ##Funktionale Anforderungen
 
 ###Stammdatenverwaltung
-* Produktdaten (Kategorieren und Produkte)
+Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, geändert, gelöscht und eingesehen werden können.
 
+* Es müssen alle relevanten Produktdaten hinterlegt werden können.
+* Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
+    * Eine hierarchische Strukturierung wäre wünschenswert
 
-* Kundendaten
+* Es müssen alle relevanten Kundendaten hinterlegt werden können.
 -> Kreditrahmen und Signal, wenn dieser überschritten ist
 
 ###Vorgangsvarianten
