@@ -3,7 +3,7 @@
 
 Die heutige Software hat zwei gravierende Mängel, die Kernanforderungen an eine neue Lösung sind:
 Zum einen ist die Software als Desktopanwendung nur von einer Person zugreifbar.
-Zum anderen ist das Hinterlegen mehrerer MwSt-Sätze zwar grundsätzlich möglich, die Auswahl des jeweils relevanten Satzes ist jedoch benutzerunfreundlich und fehleranfällig. Hinzu kommen noch fehlerhafte Berechnungen bei korrekter Auswahl.
+Zum anderen ist das Hinterlegen mehrerer MwSt-Sätze zwar grundsätzlich möglich, die Auswahl des jeweils relevanten Satzes ist jedoch benutzerunfreundlich und fehleranfällig. Hinzu kommen noch fehlerhafte Berechnungen bei (nichkorrekter Auswahl.
 
 ##Abgrenzung
 Das vorliegende Dokumente umfasst die Evaluierung und Beschreibung der Highlevel-Anforderungen an eine neue Abrechnungs-Software.
