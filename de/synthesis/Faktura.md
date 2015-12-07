@@ -3,7 +3,7 @@
 
 Die heutige Software hat zwei gravierende Mängel, die Kernanforderungen an eine neue Lösung sind:
 Zum einen ist die Software als Desktopanwendung nur von einer Person zugreifbar.
-Zum anderen ist das Hinterlegen mehrerer MwSt-Sätze zwar grundsätzlich möglich, die Auswahl des jeweils relevanten Satzes ist jedoch benutzerunfreundlich und fehleranfällig. Hinzu kommen noch fehlerhafte Berechnungen bei (nichkorrekter Auswahl.
+Zum anderen ist das Hinterlegen mehrerer MwSt-Sätze zwar grundsätzlich möglich, die Auswahl des jeweils relevanten Satzes ist jedoch benutzerunfreundlich und fehleranfällig. Hinzu kommen noch fehlerhafte Berechnungen bei (nicht) korrekter Auswahl.
 
 ##Abgrenzung
 Das vorliegende Dokumente umfasst die Evaluierung und Beschreibung der Highlevel-Anforderungen an eine neue Abrechnungs-Software.
@@ -51,7 +51,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
 
 
 ###Integration von LibreOffice
-* Es muss eine Integration von Libre Office gegeben sein.
+* Eine Integration von Libre Office ist erforderlich - zumindest für schnelle Korrekturen.
     * In den Dokumenten muss entsprechend ein Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. möglich sein.
     * Das Speichern als Dokument außerhalb der Software muss möglich sein.
 
@@ -61,18 +61,16 @@ Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, ge
     * Innerhalb der Bereiche sollte eine weitere Unterteilung möglich sein. Im Fall der Rechnungen in geschrieben, bezahlt, unbezahlt
     * Die Sicht auf alle Vorgänge, die mit einem Kunden abgelaufen sind, wäre wünschenswert. 
 
-###Suchfunktion
-* zur Erstellung von Angeboten und Rechnungen 
-ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan aber nicht mehr, was damit gemeint war?
+###Templates
+* Für widerkehrende Rechnungen sollen Vorlagen möglich sein.
 
 ##Nichtfunktionale Anforderungen
 
 ###Anforderungen an die Software
-* Die Herstellerfirma sollte eine deutsche Firma sein.
+* Die Software muss für Deutschland anpassbar sein.
 * Es sollte eine vernünftige Anwenderdokumentation existieren.
 * Es sollte eine aktive Community geben.
-* Bei der Software muss es sich um ein OpenSource Produkt handeln. 
-* ToFix: Ist das so?
+* Bei der Software sollte es sich um ein OpenSource Produkt handeln.
 
 ###Nutzungsmöglichkeiten
 * Die Software muss multiuser-fähig sein.
@@ -80,7 +78,6 @@ ToFix: Micha, hier hatte ich mir die Stichpunkte aufgeschreiben, weiß momentan 
 
 ###Hosting
 * Das Hosting der Anwendung muss in Deutschland sein 
-
 
 ###Backup
 * Es muss ein tägliches Datenbackup bei uns möglich sein. 
