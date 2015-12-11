@@ -26,13 +26,13 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
 
 * Der Anwender muss alle relevanten Kundendaten hinterlegen können.
     * Zusätzlich sollte er einen Kreditrahmen hinterlegen können. 
-    * Die Anwendung sollte eine Meldung oder eine Kennzeichnung anzeige, wenn dieser überschritten ist.
+    * Die Anwendung sollte eine Meldung oder eine Kennzeichnung anzeigen, wenn dieser überschritten ist.
     
 
 ###Vorgangsvarianten
 * Die Software muss einige vordefinierte Vorgänge zur Verfügung stellen. Die Relevanten sind dabei:
     * Angebotserstellung
-    * Rechnungsstellung, die Rechnungen können dabei verschiedene Zustände haben (geschrieben, bezahlt, unbezahlt). Diese Zustände müssen an der fertiggestellten Rechnung geändert werden können.   
+    * Rechnungsstellung, die Rechnungen können dabei verschiedene Zustände haben (geschrieben, bezahlt, unbezahlt). Der Anwender muss diese Zustände an der fertiggestellten Rechnung ändern können.   
     * Proformarechnung, diese erfolgt analog der Rechnungsstellung allerdings ohne fortlaufende Rechnungsnummer
     * Mahnungen
     * Zukunft: Diese Auflistung könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung erfolgen.
