@@ -44,7 +44,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
     * der heutige Aufbau muss abbildbar sein
     
 
-* Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten, muss möglich sein.
+* Die Ablage vordefinierter Textblöcke seitens des Anwenders, um daraus die einzelnen Dokumente zu gestalten, muss möglich sein.
 
 ###Druckfunktion 
 * Der Anwender muss fertiggestellte Dokumente gedrucken können.
@@ -53,13 +53,13 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
 ###Integration von LibreOffice
 * Eine Integration von Libre Office ist erforderlich - zumindest für schnelle Korrekturen.
     * In den Dokumenten muss entsprechend ein Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. möglich sein.
-    * Das Speichern als Dokument außerhalb der Software muss möglich sein.
+    * Der Anwender muss das Dokument außerhalb der Software speichern können.
 
 ###Reports
-* Es müssen verschiedene Sichten auf die erstellten Dokumente innerhalb der Software möglich sein.
-    * Dabei sollte eine Unterteilung in die einzelnen Bereiche (Angebot, Rechnung, etc.) möglich sein
-    * Innerhalb der Bereiche sollte eine weitere Unterteilung möglich sein. Im Fall der Rechnungen in geschrieben, bezahlt, unbezahlt
-    * Die Sicht auf alle Vorgänge, die mit einem Kunden abgelaufen sind, wäre wünschenswert. 
+* Die Software muss verschiedene Sichten auf die erstellten Dokumente innerhalb der Anwendung ermöglichen.
+    * Dabei sollte der Anwender eine Sicht auf die einzelnen Bereiche (Angebot, Rechnung, etc.) wählen können.
+    * Innerhalb der Bereiche sollte er eine weitere Unterteilung wählen können. Im Fall der Rechnungen in geschrieben, bezahlt, unbezahlt
+    * Es wäre wünschenswert, dass die Software die Sicht auf alle Vorgänge, die mit einem Kunden abgelaufen sind, darstellt. 
 
 ###Templates
 * Für widerkehrende Rechnungen sollen Vorlagen möglich sein.
