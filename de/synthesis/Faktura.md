@@ -12,21 +12,21 @@ Das vorliegende Dokumente umfasst die Evaluierung und Beschreibung der Highlevel
 ##Funktionale Anforderungen
 
 ###Stammdatenverwaltung
-Für die Stammdatenverwaltung gilt allgemein, dass alle Datensätze angelegt, geändert, gelöscht und eingesehen werden können.
+Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze angelegen, ändern, löschen und einsehen kann.
 
-* Es müssen alle relevanten Produktdaten hinterlegt werden können.
-    * Zu den Produkten müssen Kategorieren angelegt und diesen zugewiesen werden können.
-    * Eine hierarchische Strukturierung der Kategorien ist wünschenswert
+* Der Anwender kann alle relevanten Produktdaten hinterlegen.
+    * Zu den Produkten kann er Kategorien angelegen und diesen zuweisen.
+    * Eine hierarchische Strukturierung der Kategorien ist dabei wünschenswert
 
 
-* Es müssen unterschiedliche MwSt-Sätze angelegt werden können.
+* Der Anwender muss unterschiedliche MwSt-Sätze angelegen können.
     * Die Berechnung bei Angebots-/ Rechnungserstellung muss fehlerfrei sein.
     * Das Anwenden der unterschiedlichen Sätze sollte möglichst bedienfreundlich sein. 
 
 
-* Es müssen alle relevanten Kundendaten hinterlegt werden können.
-    * Zusätzlich sollte ein Kreditrahmen hinterlegt werden können. 
-    * Es sollte eine Meldung oder eine Kennzeichnung innerhalb der Anwendung erscheinen, wenn dieser überschritten ist.
+* Der Anwender muss alle relevanten Kundendaten hinterlegen können.
+    * Zusätzlich sollte er einen Kreditrahmen hinterlegen können. 
+    * Die Anwendung sollte eine Meldung oder eine Kennzeichnung anzeige, wenn dieser überschritten ist.
     
 
 ###Vorgangsvarianten
