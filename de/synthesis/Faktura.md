@@ -51,7 +51,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
 
 
 ###Integration von LibreOffice
-* Eine Integration von Libre Office ist erforderlich - zumindest für schnelle Korrekturen.
+* Eine Integration von Libre Office in die Anwendung ist erforderlich - zumindest für schnelle Korrekturen.
     * In den Dokumenten muss entsprechend ein Nacharbeiten von Kleinigkeiten direkt in der Rechnung/ dem Angebot etc. möglich sein.
     * Der Anwender muss das Dokument außerhalb der Software speichern können.
 
