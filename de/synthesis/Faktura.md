@@ -40,14 +40,14 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
 ###Templating
 * Die Gestaltung und Anlage eigener Vorlagen durch den Anwender muss möglich sein. 
 * Dabei sollten einige Aspekte wie z.B. das Logo individualisierbar sein.
-    * ggf. sind noch individuelle Attribute notwendig (z.B. "Lieferzeitraum")
+    * ggf. sind noch weitere individuelle Attribute notwendig (z.B. "Lieferzeitraum")
     * der heutige Aufbau muss abbildbar sein
     
 
 * Die Ablage vordefinierter Textblöcke seitens des Anwenders, um daraus die einzelnen Dokumente zu gestalten, muss möglich sein.
 
 ###Druckfunktion 
-* Der Anwender muss fertiggestellte Dokumente gedrucken können.
+* Der Anwender muss fertiggestellte Dokumente drucken können.
 
 
 ###Integration von LibreOffice
