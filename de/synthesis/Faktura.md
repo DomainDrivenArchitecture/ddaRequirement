@@ -62,7 +62,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
     * Es wäre wünschenswert, dass die Software die Sicht auf alle Vorgänge, die mit einem Kunden abgelaufen sind, darstellt. 
 
 ###Templates
-* Für widerkehrende Rechnungen sollen Vorlagen möglich sein.
+* Für widerkehrende Rechnungen soll sich der Anwender Vorlagen erstellen können.
 
 ##Nichtfunktionale Anforderungen
 
