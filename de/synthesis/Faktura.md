@@ -38,7 +38,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
     * Zukunft: Diese Auflistung könnte mittelfristig um einen Controlling-Vorgang erweitert werden. Und zwar um eine Einahmen-Überschuss-Rechnung pro Person, diese könnte zum Beispiel auf Basis einer dreistufigen Deckungsbeitrags-Rechnung erfolgen.
 
 ###Templating
-* Die Gestaltung und Anlage eigener Vorlagen muss möglich sein. 
+* Die Gestaltung und Anlage eigener Vorlagen durch den Anwender muss möglich sein. 
 * Dabei sollten einige Aspekte wie z.B. das Logo individualisierbar sein.
     * ggf. sind noch individuelle Attribute notwendig (z.B. "Lieferzeitraum")
     * der heutige Aufbau muss abbildbar sein
@@ -47,7 +47,7 @@ Für die Stammdatenverwaltung gilt allgemein, dass der Anwender alle Datensätze
 * Die Ablage vordefinierter Textblöcke, um daraus die einzelnen Dokumente zu gestalten, muss möglich sein.
 
 ###Druckfunktion 
-* Fertiggestellte Dokumente müssen gedruckt werden können.
+* Der Anwender muss fertiggestellte Dokumente gedrucken können.
 
 
 ###Integration von LibreOffice
