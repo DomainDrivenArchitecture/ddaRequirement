@@ -1,4 +1,4 @@
-#Anforderungen an eine Mail und Kalender Software
+#Anforderungen an eine Projektmanagementsoftware
 ##Zielsetzung und Vision 
 
 
