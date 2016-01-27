@@ -12,7 +12,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 
 ###Ablauf der Datensynchronisation
-
+Die Komponente muss die Adressdaten
 
 
 
