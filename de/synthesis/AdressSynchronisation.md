@@ -20,7 +20,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  
 
 * Die Komponente synchronisiert die zwei Systeme bidirektional.
-    * Ein technischer Administrator muss die Komponente so konfigurieren können, dass auch eine unidirektionale Synchronisation möglich ist.
+    * Ein technischer Administrator muss die Komponente so konfigurieren können, dass auch eine unidirektionale Synchronisation nur von einem System aus möglich ist.
 
 
 * Die täglich laufende Synchronisation erfolgt als Delta-Synchronisation.
