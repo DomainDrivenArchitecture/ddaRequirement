@@ -12,6 +12,8 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 
 ###Ablauf der Datensynchronisation
+* Die Komponente ist das Verbindungsstück zwischen zwei CRM Systemen, über das der Datenaustausch zwischen diesen Systemen realisiert wird.
+
 * Die Komponente muss die Adressdaten zeitgesteuert in regelmäßigen Zyklen synchronisieren.
  * Ein technischer Administrator muss die Taktung der Zeitsteuerung konfigurieren können.
  * Ein fachlicher Administrator muss die Synchronisation auch manuell anstoßen können.
