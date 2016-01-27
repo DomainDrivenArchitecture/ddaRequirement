@@ -49,8 +49,9 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 To be done....
 
 ###Fachliche Administration der Synchronisations-Komponente
-
-
+Über eine Webapplikation müssen zuadministrativen Zwecken fachliche Zugriffe in unterschiedlichen Rollen auf die Komponente möglich sein.
+* Hierfür muss die Komponente einen Zugriffsmechanismus mit User und Passwort ermöglichen.
+* Das System stellt drei(?) unterschiedliche Rollen (siehe unten) zur Verfügung.
 
 ###Nachvollziehbarkeit von Änderungen
 Durch einen fachlichen Administrator 
