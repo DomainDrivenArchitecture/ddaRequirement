@@ -59,7 +59,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 ...
 
 ###Nutzungsmöglichkeiten
-Ziel ist es, die Komponente als "Adress-Syncrhonisation as a service" anzubieten.
+Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten.
 
 * Die Komponente muss daher über eine Cloud-Lösung realisiert werden.
 * Grundsätzlich muss es aber auch möglich sein, sie lokal vor Ort in einem Rechenzentrum installieren zu können.
