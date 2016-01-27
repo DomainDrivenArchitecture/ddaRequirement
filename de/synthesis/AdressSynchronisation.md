@@ -28,7 +28,8 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 * Die Dauer eines Synchronisationslaufes soll eine Stunde nicht überschreiten. 
 
-### 
+###Voraussetzungen für die Synchronisation
+
 
 
 ###Konfliktmanagement
