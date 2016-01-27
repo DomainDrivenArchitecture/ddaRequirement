@@ -1,1 +1,1 @@
-#Anforderungen an einen Adress-Synchronisation
+#Anforderungen an eine Adress-Synchronisation
