@@ -49,18 +49,24 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 To be done....
 
 ###Nachvollziehbarkeit von Änderungen
-
+Durch einen fachlichen Administrator 
 
 
 ###Fachliche Administration der Synchronisations-Komponente
 
 
 ###Rechte und Rollen
+tbd.
+technischer Administrator: 
+
+fachlicher Administrator:
+
+Konfliktmanager:
 
 
 #Nichtfunktionale Anforderungen
 ...
-
+m
 ###Anforderungen an die Software
 ...
 
