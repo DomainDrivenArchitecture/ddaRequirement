@@ -25,6 +25,9 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  * Ein fachlicher Administrator muss in der Lage sein, eine Gesamtsynchronisation anzustoßen.
  * Für die initiale Einrichtung des Synchronisationsprozesses ist dies ebenfalls erforderlich.
 
+*Die Dauer eines Synchronisationslaufes soll eine Stunde nicht überschreiten. 
+ 
+
 
 ###Konfliktmanagement
 
