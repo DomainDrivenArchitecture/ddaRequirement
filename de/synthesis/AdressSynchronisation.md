@@ -8,9 +8,13 @@ Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detail
 
 
 ##Funktionale Anforderungen
-Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit ihrer Hilfe die Daten
+Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit ihrer Hilfe relevante  Adressdaten aus zwei voneinander getrennten CRM Systemen bidirektional synchronisiert werden können.
+
 
 ###Ablauf der Datensynchronisation
+
+
+
 
 ###Voraussetzungen für die Datensynchronisation
 Damit die Komponente die Daten
