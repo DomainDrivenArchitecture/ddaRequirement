@@ -48,11 +48,13 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 To be done....
 
+###Fachliche Administration der Synchronisations-Komponente
+
+
+
 ###Nachvollziehbarkeit von Änderungen
 Durch einen fachlichen Administrator 
 
-
-###Fachliche Administration der Synchronisations-Komponente
 
 
 ###Rechte und Rollen
