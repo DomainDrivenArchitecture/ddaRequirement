@@ -23,6 +23,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 * Die täglich laufende Synchronisation erfolgt als Delta-Synchronisation.
  * Ein fachlicher Administrator muss in der Lage sein, eine Gesamtsynchronisation anzustoßen.
+ * Für die initiale Einrichtung des Synchronisationsprozesses ist dies ebenfalls erforderlich.
 
 
 ###Konfliktmanagement
@@ -39,7 +40,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 
 #Nichtfunktionale Anforderungen
-...
+...ns
 
 ###Anforderungen an die Software
 ...
