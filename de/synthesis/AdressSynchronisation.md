@@ -9,7 +9,9 @@ Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detail
 
 ##Funktionale Anforderungen
 
-###Datensynchronisation
+###Ablauf der Datensynchronisation
+
+
 
 
 ###Konfliktmanagement
