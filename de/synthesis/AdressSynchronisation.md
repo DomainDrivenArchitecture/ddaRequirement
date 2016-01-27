@@ -46,9 +46,10 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 ###Konfliktmanagement
 
-
+To be done....
 
 ###Nachvollziehbarkeit von Änderungen
+
 
 
 ###Fachliche Administration der Synchronisations-Komponente
