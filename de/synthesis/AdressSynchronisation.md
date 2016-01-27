@@ -52,9 +52,11 @@ To be done....
 Über eine Webapplikation müssen zuadministrativen Zwecken fachliche Zugriffe in unterschiedlichen Rollen auf die Komponente möglich sein.
 * Hierfür muss die Komponente einen Zugriffsmechanismus mit User und Passwort ermöglichen.
 * Das System stellt drei(?) unterschiedliche Rollen (siehe unten) zur Verfügung.
+* Über den Administrationsbereich muss es dem fachlichen Admin möglich sein, Mailadressen für Konfliktmanager zu hinterlegen.
+* Hierüber erhält er auch definierte 
 
 ###Nachvollziehbarkeit von Änderungen
-Durch einen fachlichen Administrator 
+Durch einen fachlichen Administrator tbd.
 
 
 
