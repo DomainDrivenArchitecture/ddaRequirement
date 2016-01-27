@@ -29,7 +29,8 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 * Die Dauer eines Synchronisationslaufes soll eine Stunde nicht überschreiten. 
 
 ###Voraussetzungen für die Synchronisation
-
+* Bei der Einrichtung der Komponente muss ein technischer Administrator festlegen können, welche Daten zwischen den Systemen überhaupt synchronisiert werden sollen.
+ * Diese Angaben müssen durch einen technischen Administrator auch zu einem späteren Zeitpunkt angepasst/ geändert werden können. (Z.B. weil zusätzliche genutzte Felder an einem Benutzerdatensatz hinzugekommen sind.)
 
 
 ###Konfliktmanagement
@@ -55,7 +56,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 * Die Software muss multiuser-fähig sein.
 * Eine Weblösung resp. eine Cloud-Lösung wäre wünschenswert.
 * 
-
+r
 
 ###Mengengerüst
 
