@@ -12,6 +12,7 @@ Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detail
 ###Ablauf der Datensynchronisation
 
 ###Voraussetzungen für die Datensynchronisation
+Damit die Komponente die Daten
 
 
 ###Konfliktmanagement
