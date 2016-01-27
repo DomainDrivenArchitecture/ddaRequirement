@@ -36,7 +36,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 * Um die Daten überhaupt von einem in ein anderes System überführen zu können, muss die Komponente eine Datennormalisierung vornehmen.
  * Dieser Transformationsprozesse erfolgt innerhalb der Synchronisationskomponente. Die normalisierten Daten liegen auch nur dort in dieser Form vor.
- * Damit die Komponente diese Normalisierung durchführen kann, 
+ * Damit die Komponente diese Normalisierung durchführen kann, ist es erforderlich, die notwendigen Aspekte der Internationalisierung (für Telefonnummern, Mailadressen, Adressdaten etc. ) 
  
 
 ###Konfliktmanagement
