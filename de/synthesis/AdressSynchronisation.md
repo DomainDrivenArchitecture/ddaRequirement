@@ -8,6 +8,7 @@ Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detail
 
 
 ##Funktionale Anforderungen
+Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit ihrer Hilfe die Daten
 
 ###Ablauf der Datensynchronisation
 
@@ -20,6 +21,9 @@ Damit die Komponente die Daten
 
 
 ###Nachvollziehbarkeit von Änderungen
+
+
+###Administration der Synchronisations-Komponente
 
 
 ###Rechte und Rollen
