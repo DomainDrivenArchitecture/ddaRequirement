@@ -40,8 +40,8 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  * Dieser Transformationsprozesse erfolgt innerhalb der Synchronisationskomponente. Die normalisierten Daten liegen auch nur dort in dieser Form vor.
  * Damit die Komponente diese Normalisierung durchführen kann, ist es erforderlich, dass die notwendigen Aspekte der Internationalisierung (für Telefonnummern, Mailadressen, Adressdaten etc. ) berücksichtigt sind.
   
- 
- 
+* Die Komponente muss neben den normalisierten Daten weitere Information hinsichtlich der Daten vorhalten.
+ * Sie muss nach dem ersten Merge die 
 
 ###Konfliktmanagement
 
