@@ -27,7 +27,7 @@ Damit die Komponente die Daten
 ###Nachvollziehbarkeit von Änderungen
 
 
-###Administration der Synchronisations-Komponente
+###Fachliche Administration der Synchronisations-Komponente
 
 
 ###Rechte und Rollen
