@@ -12,12 +12,17 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 
 
 ###Ablauf der Datensynchronisation
-Die Komponente muss die Adressdaten
+* Die Komponente muss die Adressdaten zeitgesteuert in regelmäßigen Zyklen synchronisieren.
+ * Ein technischer Administrator muss die Taktung der Zeitsteuerung konfigurieren können.
+ * Ein fachlicher Administrator muss die Synchronisation auch manuell anstoßen können.
+ 
+
+* Die Komponente synchronisiert die zwei Systeme bidirektional.
+    * Ein technischer Administrator muss die Komponente so konfigurieren können, dass auch eine unidirektionale Synchronisation möglich ist.
 
 
-
-###Voraussetzungen für die Datensynchronisation
-Damit die Komponente die Daten
+* Die täglich laufende Synchronisation erfolgt als Delta-Synchronisation.
+ * Ein fachlicher Administrator muss in der Lage sein, eine Gesamtsynchronisation anzustoßen.
 
 
 ###Konfliktmanagement
