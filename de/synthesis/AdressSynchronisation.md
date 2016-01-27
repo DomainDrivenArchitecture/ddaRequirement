@@ -35,6 +35,9 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  * Diese Angaben müssen durch einen technischen Administrator auch zu einem späteren Zeitpunkt angepasst/ geändert werden können. (Z.B. weil zusätzliche genutzte Felder an einem Benutzerdatensatz hinzugekommen sind.)
 
 * Um die Daten überhaupt von einem in ein anderes System überführen zu können, muss die Komponente eine Datennormalisierung vornehmen.
+ * Dieser Transformationsprozesse erfolgt innerhalb der Synchronisationskomponente.
+ * 
+ 
 
 ###Konfliktmanagement
 
