@@ -12,6 +12,7 @@ Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detail
 ###Datensynchronisation
 
 
+###Konfliktmanagement
 
 
 
