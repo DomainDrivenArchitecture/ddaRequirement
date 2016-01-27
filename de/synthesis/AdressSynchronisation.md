@@ -10,8 +10,17 @@ Tobedone
 ##Funktionale Anforderungen
 
 
+###Datensynchronisation
+
+
+###Konfliktmanagement
+
+
+
+
 ###Administration der Komponente
 
+###Nachvollziehbarkeit von Änderungen
 
 
 ###Rechte und Rollen
@@ -24,6 +33,8 @@ Tobedone
 ###Nutzungsmöglichkeiten
 * Die Software muss multiuser-fähig sein.
 * Eine Weblösung resp. eine Cloud-Lösung wäre wünschenswert.
+* 
+
 
 ###Mengengerüst
 
@@ -39,6 +50,7 @@ Tobedone
 
 
 ###Sicherheit
+
 
 
 ###Migration
