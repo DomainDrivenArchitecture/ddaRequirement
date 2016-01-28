@@ -79,12 +79,12 @@ Falls ein Datensatz vor einer Synchronisierung in beiden angebundenen CRM-System
 * Das System stellt mindestens drei unterschiedliche Rollen (siehe oben) zur Verfügung.
 * Über den Administrationsbereich muss es dem fachlichen Admin möglich sein, Mailadressen für Konfliktmanager zu hinterlegen.
 * Hierüber erhält er auch definierte Auswertungen (z.B. Protokolle über Datenänderungen oder Fehlerprotokolle).
-* Zudem kann er hier manuelle Synchronisationsläufe ans.
+* Zudem kann er hier manuelle Synchronisationsläufe anstoßen.
 
 ###Nachvollziehbarkeit von Änderungen
 Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geändert hat.
 * Die Komponente muss Datenänderungen in einem Audit-Log protokollieren
-* Je nach Berechtigung oder auch abhängig von betrieblichen Vorgaben, muss das Logging auch anonymisiert erfolgen können.
+* Abhängig von betrieblichen Vorgaben, muss das Logging auch anonymisiert erfolgen können.
 
 
 
