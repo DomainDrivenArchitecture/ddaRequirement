@@ -47,8 +47,9 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  * Sie muss bei den Daten das Datum des letzten Abgleichs und das Datum der letzten Änderung vorhalten, da über diese die Synchronisation gesteuert werden.
 
 ###Konfliktmanagement
+Falls ein Datensatz
 
-To be done....
+
 
 ###Fachliche Administration der Synchronisations-Komponente
 Über eine Webapplikation müssen zuadministrativen Zwecken fachliche Zugriffe in unterschiedlichen Rollen auf die Komponente möglich sein.
