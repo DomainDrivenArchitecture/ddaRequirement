@@ -36,10 +36,12 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  * Gegebenenfalls müssen durch einen technischen Admininstrator für die Initialisierung auch noch weitere Kriterien und Regeln hinterlegt werden können, auf deren Basis die Synchronisation abläuft.
  * Auch diese müssen zu einem späteren Zeitpunkt geändert werden können. (Beispiele hierfür können unterschiedliche Feldbezeichnungen sein oder unterschiedliche Strukturen der Daten sein.)
 
+
 * Um die Daten überhaupt von einem in ein anderes System überführen zu können, muss die Komponente eine Datennormalisierung vornehmen. 
  * Dieser Transformationsprozesse erfolgt innerhalb der Synchronisationskomponente. Die normalisierten Daten liegen auch nur dort in dieser Form vor.
  * Damit die Komponente diese Normalisierung durchführen kann, ist es erforderlich, dass die notwendigen Aspekte der Internationalisierung (für Telefonnummern, Mailadressen, Adressdaten etc. ) berücksichtigt sind.
   
+
 * Die Komponente muss neben den normalisierten Daten weitere Informationen hinsichtlich der Daten vorhalten.
  * Sie muss nach dem ersten Merge die Information darüber behalten, was der Ursprungsdatensatz war.
  * Sie muss bei den Daten das Datum des letzten Abgleichs und das Datum der letzten Änderung vorhalten, da über diese die Synchronisation gesteuert werden.
