@@ -55,7 +55,7 @@ Falls ein Datensatz vor einer Synchronisierung in beiden angebundenen CRM-System
  * Er hat die Möglichkeit seine Maßnahme an der Konfliktmeldung über ein Freitextfeld zu dokumentieren.
  * Nach erfolgter Lösung des Konfliktes können die Daten wie gehabt synchronisiert werden.
  * Die übrigen Daten des Synchronisationslaufes sind von dem Konfliktfall nicht betroffen, sondern werden unabhängig davon übertragen.
-
+ * Dieser Mechanismus wird ebenfalls ausgelöst, falls während einer Sychronisierung dieselben Daten in einem der CRM-Systeme gerade redaktionell geändert werden.
 
 ###Fachliche Administration der Synchronisations-Komponente
 Über eine Webapplikation müssen zuadministrativen Zwecken fachliche Zugriffe in unterschiedlichen Rollen auf die Komponente möglich sein.
