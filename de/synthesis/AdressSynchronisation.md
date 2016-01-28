@@ -6,6 +6,15 @@ Das vorliegende Dokument beschreibt die funktionalen und nicht-funktionalen Anfo
 ##Abgrenzung
 Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detaillierung erfolgt bei Bedarf in entsprechenden Dokumenten und Konzepten. Die Anforderungen beziehen sich ausschließlich auf die Adress-Synchronisations Komponente und betrachten keine Besonderheiten spezifischer CRM Systeme.
 
+###Rollen
+Für die Einrichtung, Verwaltung und Nutzung der Adress-Synchronisations Komponente, müssen die folgenden Rollen zur Verfügung stehen:
+
+* Technischer Administrator: Konfiguriert die relevanten Daten für die Ersteinrichtung der Synchronisation und kann diese auch später abändern. Er ist in erster Linie für die Abbildung der zur Synchronisierung erforderlichen Logik verantwortlich.
+
+* Fachlicher Administrator: Er verwaltete fachliche Daten, wie E-Mail Adressen des Konfliktmanagers, er kann Fehlerprotokolle und Audit-Logs einsehen. Er kann auch den zeitlichen Trigger setzen und manuell Synchronisations-Läufe anstoßen.
+
+* Konfliktmanager: Er kann Konfliktfälle, die bei der Sychronisation auftreten, einsehen und ist für deren Behebung verantwortlich.
+
 
 ##Funktionale Anforderungen
 Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit ihrer Hilfe relevante  Adressdaten aus zwei voneinander getrennten CRM Systemen bidirektional synchronisiert werden können.
@@ -70,15 +79,6 @@ Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geänd
 * Die Komponente muss Datenänderungen in einem Audit-Log protokollieren
 * Je nach Berechtigung oder auch abhängig von betrieblichen Vorgaben, muss das Logging auch anonymisiert erfolgen können.
 
-
-
-###Rechte und Rollen
-tbd.
-technischer Administrator: 
-
-fachlicher Administrator:
-
-Konfliktmanager:
 
 
 #Nichtfunktionale Anforderungen
