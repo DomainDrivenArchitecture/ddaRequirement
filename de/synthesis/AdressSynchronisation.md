@@ -47,8 +47,14 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
  * Sie muss bei den Daten das Datum des letzten Abgleichs und das Datum der letzten Änderung vorhalten, da über diese die Synchronisation gesteuert werden.
 
 ###Konfliktmanagement
-Falls ein Datensatz
-
+Falls ein Datensatz vor einer Synchronisierung in beiden angebundenen CRM-Systemen geändert wurde, kommt es bei der Synchronisierung zu einem Konflikt.
+* Die Komponente muss daher in der Lage sein, im Konfliktfall eine Fehlermeldung auszugeben.
+ * Die Nachricht über die Fehlermeldung wird per Mail an den Konfliktmanager gesendet.
+ * Diese Mail enthält einen Link, über den der Konfliktmanager eine Weboberfläche aufrufen kann.
+ * Dort kann er den Konfliktfall einsehen und bearbeiten bzw. kann darauf basierend organisatorische Maßnahmen zum Lösen des Konfliktes einleiten.
+ * Er hat die Möglichkeit seine Maßnahme an der Konfliktmeldung über ein Freitextfeld zu dokumentieren.
+ * Nach erfolgter Lösung des Konfliktes können die Daten wie gehabt synchronisiert werden.
+ * Die übrigen Daten des Synchronisationslaufes sind von dem Konfliktfall nicht betroffen, sondern werden unabhängig davon übertragen.
 
 
 ###Fachliche Administration der Synchronisations-Komponente
@@ -61,7 +67,7 @@ Falls ein Datensatz
 
 ###Nachvollziehbarkeit von Änderungen
 Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geändert hat.
-* Die Komponente muss Datenänderungen in einem Audit-Log protokollieren.
+* Die Komponente muss Datenänderungen in einem Audit-Log protokollieren
 * Je nach Berechtigung oder auch abhängig von betrieblichen Vorgaben, muss das Logging auch anonymisiert erfolgen können.
 
 
