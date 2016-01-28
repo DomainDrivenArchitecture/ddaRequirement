@@ -59,8 +59,8 @@ Falls ein Datensatz vor einer Synchronisierung in beiden angebundenen CRM-System
 
 ###Fachliche Administration der Synchronisations-Komponente
 Über eine Webapplikation müssen zu administrativen Zwecken fachliche Zugriffe in unterschiedlichen Rollen auf die Komponente möglich sein.
-* Hierfür muss die Komponente einen Zugriffsmechanismus mit User und Passwort zur Verfü.
-* Das System stellt drei(?) unterschiedliche Rollen (siehe unten) zur Verfügung.
+* Hierfür muss die Komponente einen Zugriffsmechanismus mit User und Passwort zur Verfügung stellen.
+* Das System stellt mindestens drei unterschiedliche Rollen (siehe unten) zur Verfügung.
 * Über den Administrationsbereich muss es dem fachlichen Admin möglich sein, Mailadressen für Konfliktmanager zu hinterlegen.
 * Hierüber erhält er auch definierte Auswertungen (z.B. Protokolle über Datenänderungen oder Fehlerprotokolle).
 * Zudem kann er hier die Zeitsteuerung konfigurieren.
