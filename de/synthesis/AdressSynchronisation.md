@@ -68,7 +68,7 @@ Falls ein Datensatz vor einer Synchronisierung in beiden angebundenen CRM-System
 
 ###Fachliche Administration der Synchronisations-Komponente
 Über eine Webapplikation müssen zu administrativen Zwecken fachliche Zugriffe in unterschiedlichen Rollen auf die Komponente möglich sein.
-* Hierfür muss die Komponente einen Zugriffsmechanismus mit User und Passwort zur Verfügung stellen.
+* Hierfür muss die Komponente einen Zugriffsmechanismus mit User und Passwort zur Verfügung stellen. Dieser wird durch den technihschen Administrator verwaltet.
 * Das System stellt mindestens drei unterschiedliche Rollen (siehe unten) zur Verfügung.
 * Über den Administrationsbereich muss es dem fachlichen Admin möglich sein, Mailadressen für Konfliktmanager zu hinterlegen.
 * Hierüber erhält er auch definierte Auswertungen (z.B. Protokolle über Datenänderungen oder Fehlerprotokolle).
@@ -85,7 +85,8 @@ Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geänd
 
 ###Anforderungen an die Software
 * Die Komponente muss gängige CRM Systeme unter anderem "navision" und "sugar crm" unterstützen. 
-* ToFix: Anforderung
+* ToFix: Anforderungen an unterstützte Datenbanken o.ä. => Micha?
+* Der administrative Zugriff für den fachlichen Administrator und den Konfliktmanager muss als Weblösung realisiert sein.
 
 ###Nutzungsmöglichkeiten
 Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten.
@@ -93,22 +94,10 @@ Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten
 * Die Komponente muss daher über eine Cloud-Lösung realisiert werden.
 * Grundsätzlich muss es aber auch möglich sein, sie lokal vor Ort in einem Rechenzentrum installieren zu können.
 
-
 ###Mengengerüst
-
-
-###Hosting
-
-
-###Backup
-
-
-###Archivierung
-
-
+Die Komponente muss mindestens 10.000 Adressdatensätze verarbeiten können.
 
 ###Sicherheit
+Damit die Daten das Unternehmen nicht verlassen, muss ein Zugriff der Synchronisationskomponente auf die CRM-Systeme z.B. per 
 
 
-
-###Migration 
