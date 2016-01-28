@@ -98,6 +98,6 @@ Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten
 Die Komponente muss mindestens 10.000 Adressdatensätze verarbeiten können.
 
 ###Sicherheit
-Damit die Daten das Unternehmen nicht verlassen, muss ein Zugriff der Synchronisationskomponente auf die CRM-Systeme z.B. per 
+Damit die Daten das Unternehmen nicht verlassen, muss ein Zugriff der Synchronisationskomponente auf die CRM-Systeme z.B. per VPN möglich sei
 
 
