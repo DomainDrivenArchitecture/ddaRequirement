@@ -85,6 +85,7 @@ Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geänd
 
 ###Anforderungen an die Software
 * Die Komponente muss gängige CRM Systeme unter anderem "navision" und "sugar crm" unterstützen. 
+* ToFix: Anforderung
 
 ###Nutzungsmöglichkeiten
 Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten.
