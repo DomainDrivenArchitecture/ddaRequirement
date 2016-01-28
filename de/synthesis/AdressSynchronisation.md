@@ -9,11 +9,18 @@ Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detail
 ###Rollen
 Für die Einrichtung, Verwaltung und Nutzung der Adress-Synchronisations Komponente, sind die folgenden Rollen angedacht:
 
-* Technischer Administrator: Konfiguriert die relevanten Daten für die Ersteinrichtung der Synchronisation und kann diese auch später abändern. Er ist in erster Linie für die Abbildung der zur Synchronisierung erforderlichen Logik verantwortlich.
+Technischer Administrator: 
+* Konfiguriert die relevanten Daten für die Ersteinrichtung der Synchronisation und kann diese auch später abändern. 
+* Er ist in erster Linie für die Abbildung der zur Synchronisierung erforderlichen Logik verantwortlich.
+* Er richtet Zugriffsdaten für die Nut
 
-* Fachlicher Administrator: Er verwaltete fachliche Daten, wie E-Mail Adressen des Konfliktmanagers, er kann Fehlerprotokolle und Audit-Logs einsehen. Er kann den zeitlichen Trigger für die automatisierte Sychronisation setzen und manuell Synchronisations-Läufe anstoßen.
+Fachlicher Administrator: 
+* Er verwaltete fachliche Daten, wie E-Mail Adressen des Konfliktmanagers. 
+* Er kann Fehlerprotokolle und Audit-Logs einsehen. 
+* Er kann den zeitlichen Trigger für die automatisierte Sychronisation setzen und manuell Synchronisations-Läufe anstoßen.
 
-* Konfliktmanager: Er kann Konfliktfälle, die bei der Sychronisation auftreten, einsehen und ist für deren Behebung verantwortlich.
+Konfliktmanager:
+* Er kann Konfliktfälle, die bei der Sychronisation auftreten, einsehen und ist für deren Behebung verantwortlich.
 
 
 ##Funktionale Anforderungen
