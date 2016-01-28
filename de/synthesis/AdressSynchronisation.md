@@ -82,10 +82,9 @@ Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geänd
 
 
 #Nichtfunktionale Anforderungen
-... tbd. 
 
 ###Anforderungen an die Software
-...
+* Die Komponente muss gängige CRM Systeme unter anderem "navision" und "sugar crm" unterstützen. 
 
 ###Nutzungsmöglichkeiten
 Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten.
