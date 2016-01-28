@@ -12,12 +12,12 @@ Für die Einrichtung, Verwaltung und Nutzung der Adress-Synchronisations Kompone
 Technischer Administrator: 
 * Konfiguriert die relevanten Daten für die Ersteinrichtung der Synchronisation und kann diese auch später abändern. 
 * Er ist in erster Linie für die Abbildung der zur Synchronisierung erforderlichen Logik verantwortlich.
-* Er richtet Zugriffsdaten für die Nut
+* Er richtet Zugriffsdaten für die Nutzung ein.
 
 Fachlicher Administrator: 
 * Er verwaltete fachliche Daten, wie E-Mail Adressen des Konfliktmanagers. 
 * Er kann Fehlerprotokolle und Audit-Logs einsehen. 
-* Er kann den zeitlichen Trigger für die automatisierte Sychronisation setzen und manuell Synchronisations-Läufe anstoßen.
+* Er kann manuell Synchronisations-Läufe anstoßen.
 
 Konfliktmanager:
 * Er kann Konfliktfälle, die bei der Sychronisation auftreten, einsehen und ist für deren Behebung verantwortlich.
@@ -30,7 +30,7 @@ Der grundsätzliche Gedanke der Adress-Synchronisations Komponente ist, dass mit
 ###Ablauf der Datensynchronisation
 * Die Adress-Synchronisations Komponente ist das Verbindungsstück zwischen zwei CRM Systemen, über das der Datenaustausch zwischen diesen Systemen realisiert wird.
 
-* Die Komponente muss die Adressdaten zeitgesteuert in regelmäßigen Zyklen synchronisieren.
+* Diese Komponente muss die Adressdaten zeitgesteuert in regelmäßigen Zyklen synchronisieren.
  * Ein technischer Administrator muss die Taktung der Zeitsteuerung konfigurieren können.
  * Ein fachlicher Administrator muss die Synchronisation auch manuell anstoßen können.
  
