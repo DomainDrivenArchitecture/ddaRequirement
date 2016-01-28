@@ -7,7 +7,7 @@ Das vorliegende Dokument beschreibt die funktionalen und nicht-funktionalen Anfo
 Die Anforderungen sind bewusst nur "highlevel" beschrieben, die relevante Detaillierung erfolgt bei Bedarf in entsprechenden Dokumenten und Konzepten. Die Anforderungen beziehen sich ausschließlich auf die Adress-Synchronisations Komponente und betrachten keine Besonderheiten spezifischer CRM Systeme.
 
 ###Rollen
-Für die Einrichtung, Verwaltung und Nutzung der Adress-Synchronisations Komponente, müssen die folgenden Rollen zur Verfügung stehen:
+Für die Einrichtung, Verwaltung und Nutzung der Adress-Synchronisations Komponente, sind die folgenden Rollen angedacht:
 
 * Technischer Administrator: Konfiguriert die relevanten Daten für die Ersteinrichtung der Synchronisation und kann diese auch später abändern. Er ist in erster Linie für die Abbildung der zur Synchronisierung erforderlichen Logik verantwortlich.
 
@@ -98,6 +98,6 @@ Ziel ist es, die Komponente als "Adress-Synchronisation as a service" anzubieten
 Die Komponente muss mindestens 10.000 Adressdatensätze verarbeiten können.
 
 ###Sicherheit
-Damit die Daten das Unternehmen nicht verlassen, muss ein Zugriff der Synchronisationskomponente auf die CRM-Systeme z.B. per VPN möglich sei
+Damit die Daten das Unternehmen nicht verlassen, muss ein Zugriff der Synchronisationskomponente auf die CRM-Systeme z.B. per VPN möglich sein.
 
 
