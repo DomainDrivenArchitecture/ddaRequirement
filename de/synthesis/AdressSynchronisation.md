@@ -59,7 +59,9 @@ To be done....
 * Zudem kann er hier die Zeitsteuerung konfigurieren.
 
 ###Nachvollziehbarkeit von Änderungen
-Durch einen fachlichen Administrator tbd.
+Ein fachlicher Administrator muss einsehen können, wer welche Daten wann geändert hat.
+* Die Komponente muss Datenänderungen in einem Audit-Log protokollieren.
+* Je nach Berechtigung oder auch abhängig von betrieblichen Vorgaben, muss das Logging auch anonymisiert erfolgen können.
 
 
 
