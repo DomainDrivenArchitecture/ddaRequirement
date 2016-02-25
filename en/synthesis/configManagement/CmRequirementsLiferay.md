@@ -1,26 +1,40 @@
 # Requirements for Module Liferay
 ## Basic Functionality
-* The module installs Liferay in the phase "install".
-  * Backup for liferay
-  * Database (mysql)
-  * Web-Server (apache httpd)
-  * App-Server (tomcat)
-  * Portal-Release-Deployment Procedure
+### Installation (phase :install)
 
-## Portal-Release-Deployment Procedure
-* Module deploys Portal-Release-Deployment Procedure scripts to target system in phase "install".
-  * /var/lib/liferay/{do-deploy...}
-* Admin define release(-names) which are available on target system.
-* Admin define portal release instances. Properties of an release are:
-  * Release-Name
-  * Set of Liferay-portlet-source-url, version, name  
-* Module deployes release instances install script for defined releases to target system in phase "configure".
-* Module deployes liferay-plugins for defined release instances to target system in phase "configure".
-  * get with curl
-  * store in /var/lib/liferay/portal-release-instance/{r.name}/{war-files}
-  * errors are reported on toplevel in the repl.
-* Module removes undefined release instances from target system.
-* Admin can execute deployment on server - logged in by ssh.
-  * /var/lib/liferay/do-deploy "release123"
-  * /var/lib/liferay/do-deploy-release123
+* The system installs a default liferay. 
+
+* "Default Liferay" definition contains the following determinations:
+  * webserver apache2.4 is doing the https
+  * database mysql
+  * document repository is filebased
+  * application server: tomcat is used, liferay is deployed as war file.
+  * simple backup: mysql & document repository are becked up.
+
+* The system installs liferay with the following layout:
+  * hot deploy: /var/lib/liferay/deploy
+  * document repository: /var/lib/liferay/data
+  * prepare rollout: /var/lib/liferay/prepare-rollout
+  * additional third party libs: /var/lib/liferay/lib
+  * ext-properties: /var/lib/liferay/portal-ext.properties
+  * support scripts: /var/lib/liferay
+  * apache log: /var/log/apache2
+  * tomcat log: /var/log/tomcat
+  * mysql log: /var/log/mysql
+
+### Release Management (phase :prepare-rollout)
+
+* In order to prepare rollouts the system transport the new software version to the target system. Software versions consists of
+  * the liferay main application
+  * hooks, portlets, layouts and themes
   
+* the releases management scripts support two modes
+  * hotdeployment (portlets, layouts and themes),
+  * fulldeploy (main application)
+  
+* The release management script removes application parts not belonging to the installed release.
+
+### Configuration (phase :configure)
+* The system configures the liferay installation in the following aspects 
+  * webserver: vhost, certificates, htaccess credentials, module configurations
+  * application: portal-ext.properties
