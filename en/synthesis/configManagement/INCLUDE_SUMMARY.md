@@ -9,4 +9,5 @@
    * [60 Requirements for POC "Pallet"](configManagement/CmRequirementsPocPallet.md)
    * [61 Requirements for Module "Configuration"](configManagement/CmRequirementsConfiguration.md)
    * [65 Requirements for Module "http Server"](configManagement/CmRequirementsWebServer.md)
+   * [66 Requirements for Module "liferay"](configManagement/CmRequirementsLiferay.md)
    * [90 Requirements for Module "Managed IDE"](configManagement/CmRequirementsManagedIde.md)

@@ -9,7 +9,7 @@
   * database mysql
   * document repository is filebased
   * application server: tomcat is used, liferay is deployed as war file.
-  * simple backup: mysql & document repository are becked up.
+  * simple backup: mysql & document repository are backed up.
 
 * The system installs liferay with the following layout:
   * hot deploy: /var/lib/liferay/deploy
