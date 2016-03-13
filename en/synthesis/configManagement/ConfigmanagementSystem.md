@@ -2,25 +2,25 @@
 # Vision
 
 CmTargetAndVision
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/configManagement/CmTargetAndVision.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/configManagement/CmTargetAndVision.md" %}
 
 
 # Scope
 
 CmScope
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/configManagement/CmScope.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/configManagement/CmScope.md" %}
 
 
 # Open Topics
 
 CmOpenTopics
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/configManagement/CmOpenTopics.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/configManagement/CmOpenTopics.md" %}
 
 
 # Roles
 
 CmPersonAndRole
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/configManagement/CmPersonAndRole.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/configManagement/CmPersonAndRole.md" %}
 
 
 # Requirements
