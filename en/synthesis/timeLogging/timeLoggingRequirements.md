@@ -1,10 +1,10 @@
 
 # Zielsetzung und Vision
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/timeLogging/timeLoggingVision.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/timeLogging/timeLoggingVision.md" %}
 
 
 # Abgrenzung
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/timeLogging/timeLoggingScope.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/timeLogging/timeLoggingScope.md" %}
 
 
 # Anforderungen

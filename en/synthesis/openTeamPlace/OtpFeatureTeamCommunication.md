@@ -3,7 +3,7 @@
 
 [14 Person and Roles](OtpPersonAndRole.md)
 
-{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/openTeamPlace/OtpPersonAndRole.md" %}
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/synthesis/openTeamPlace/OtpPersonAndRole.md" %}
 
 
 
