@@ -1,0 +1,5 @@
+* [Gitbook-Entwicklungsumgebung](synthesis/gitbookEditor/SUMMARY.md)
+   * [10 Vision](synthesis/gitbookEditor/gitbookEditorVision.md)
+   * [11 Abgrenzung](synthesis/gitbookEditor/gitbookEditorScope.md)
+   * [12 Stakeholder](synthesis/gitbookEditor/gitbookEditorStakeholders.md)
+   * [60 Requirements](synthesis/gitbookEditor/gitbookEditorRequirements.md)
