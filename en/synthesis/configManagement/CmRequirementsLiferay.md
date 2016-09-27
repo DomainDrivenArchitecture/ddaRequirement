@@ -1,6 +1,6 @@
-# Requirements for Module Liferay
-## Basic Functionality
-### Installation (phase :install)
+### Module Liferay
+#### Basic Functionality
+##### Installation (phase :install)
 
 * The system installs a default liferay. 
 
@@ -22,7 +22,7 @@
   * tomcat log: /var/log/tomcat
   * mysql log: /var/log/mysql
 
-### Release Management (phase :prepare-rollout)
+##### Release Management (phase :prepare-rollout)
 
 * In order to prepare rollouts the system transport the new software version to the target system. Software versions consists of
   * the liferay main application
@@ -34,7 +34,7 @@
   
 * The release management script removes application parts not belonging to the installed release.
 
-### Configuration (phase :configure)
+##### Configuration (phase :configure)
 * The system configures the liferay installation in the following aspects 
   * webserver: vhost, certificates, htaccess credentials, module configurations
   * application: portal-ext.properties
