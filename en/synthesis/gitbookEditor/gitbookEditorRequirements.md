@@ -16,6 +16,9 @@
 
 {% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0205.md" %}
 
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0234.md" %}
+
+{% include "git+https://github.com/DomainDrivenArchitecture/ddaRequirement.git/en/requirements/req0235.md" %}
 
 ## Oberfläche
 
